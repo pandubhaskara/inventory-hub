@@ -1,0 +1,8002 @@
+[
+  {
+    "id": 1,
+    "code": "c94d6924-60de-4f99-a62a-533cc1bb0a30",
+    "name": "Plexiglass",
+    "price": 6811353,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 14
+  },
+  {
+    "id": 2,
+    "code": "749c46f4-cc3f-4d06-b96e-42bf3ce48202",
+    "name": "Rubber",
+    "price": 8154871,
+    "type": "RF Shielding",
+    "quantity": 32
+  },
+  {
+    "id": 3,
+    "code": "5a626d1b-eaee-43ce-ab07-164eefe8df14",
+    "name": "Glass",
+    "price": 5586747,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 6
+  },
+  {
+    "id": 4,
+    "code": "b485a05f-71a1-4c59-9c04-9a901d80ed53",
+    "name": "Stone",
+    "price": 5599698,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 66
+  },
+  {
+    "id": 5,
+    "code": "ff9b82b3-f3c0-4c2a-bbdd-d0b02d4dbedd",
+    "name": "Wood",
+    "price": 8563916,
+    "type": "Framing (Steel)",
+    "quantity": 57
+  },
+  {
+    "id": 6,
+    "code": "7e5c2e35-bfa5-4d26-938f-b747d851a2d9",
+    "name": "Plastic",
+    "price": 1075195,
+    "type": "Fire Sprinkler System",
+    "quantity": 99
+  },
+  {
+    "id": 7,
+    "code": "4479625a-c5fd-4ef9-899d-5501bf169c17",
+    "name": "Granite",
+    "price": 3321404,
+    "type": "Electrical",
+    "quantity": 97
+  },
+  {
+    "id": 8,
+    "code": "7be23fae-b6fe-4e73-bc2c-848b6afb4a5f",
+    "name": "Glass",
+    "price": 1055984,
+    "type": "Ornamental Railings",
+    "quantity": 61
+  },
+  {
+    "id": 9,
+    "code": "a38683ad-31c3-4202-9837-e107518833ea",
+    "name": "Plexiglass",
+    "price": 1974607,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 7
+  },
+  {
+    "id": 10,
+    "code": "f36c439c-e7bf-4644-aa8f-d94852954eaa",
+    "name": "Stone",
+    "price": 1487627,
+    "type": "Glass & Glazing",
+    "quantity": 60
+  },
+  {
+    "id": 11,
+    "code": "31ca66a2-2167-4fff-8edb-c17effb67a59",
+    "name": "Glass",
+    "price": 3427573,
+    "type": "Termite Control",
+    "quantity": 75
+  },
+  {
+    "id": 12,
+    "code": "78e2e28a-69d6-4445-a3f3-dfae0e6d207a",
+    "name": "Stone",
+    "price": 1629580,
+    "type": "Elevator",
+    "quantity": 50
+  },
+  {
+    "id": 13,
+    "code": "08e97061-69d2-4851-b102-ed06cf70c912",
+    "name": "Aluminum",
+    "price": 6670526,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 95
+  },
+  {
+    "id": 14,
+    "code": "337b1bda-3ebe-42d5-a439-f5ceb1efaded",
+    "name": "Steel",
+    "price": 7311815,
+    "type": "Epoxy Flooring",
+    "quantity": 40
+  },
+  {
+    "id": 15,
+    "code": "fe1a94b0-83a2-45b6-b5f0-a41020db79a1",
+    "name": "Plastic",
+    "price": 5541108,
+    "type": "Site Furnishings",
+    "quantity": 5
+  },
+  {
+    "id": 16,
+    "code": "6fac995a-1ceb-4f85-9818-899252d698b0",
+    "name": "Steel",
+    "price": 2405110,
+    "type": "Epoxy Flooring",
+    "quantity": 44
+  },
+  {
+    "id": 17,
+    "code": "6216f109-28d7-4928-bfbe-c3e1eeb80ede",
+    "name": "Stone",
+    "price": 2981678,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 88
+  },
+  {
+    "id": 18,
+    "code": "57d72cd2-6777-467c-8c4d-ad5c9615b20b",
+    "name": "Rubber",
+    "price": 881238,
+    "type": "Epoxy Flooring",
+    "quantity": 83
+  },
+  {
+    "id": 19,
+    "code": "7f427f4d-bdd7-4ea6-9140-0d09c824dc70",
+    "name": "Vinyl",
+    "price": 609328,
+    "type": "Sitework & Site Utilities",
+    "quantity": 70
+  },
+  {
+    "id": 20,
+    "code": "ea2a161d-7ddb-4d91-afa0-1d6125f7c1c0",
+    "name": "Rubber",
+    "price": 5021477,
+    "type": "Curb & Gutter",
+    "quantity": 52
+  },
+  {
+    "id": 21,
+    "code": "0a747d82-f81a-4cca-a8e2-71075c12c0cd",
+    "name": "Vinyl",
+    "price": 2196402,
+    "type": "Marlite Panels (FED)",
+    "quantity": 22
+  },
+  {
+    "id": 22,
+    "code": "a4666bf5-704d-4570-b08d-e1aa1b0d5dfb",
+    "name": "Stone",
+    "price": 4189858,
+    "type": "Masonry",
+    "quantity": 38
+  },
+  {
+    "id": 23,
+    "code": "955382cb-e45b-467b-b5ab-510b72ab5332",
+    "name": "Aluminum",
+    "price": 5849215,
+    "type": "Glass & Glazing",
+    "quantity": 85
+  },
+  {
+    "id": 24,
+    "code": "804d7a34-2c26-4d1b-a3e5-a137659855ab",
+    "name": "Glass",
+    "price": 4412209,
+    "type": "Casework",
+    "quantity": 93
+  },
+  {
+    "id": 25,
+    "code": "a5a4ed0f-c933-43e1-825a-8a1c8b25e9d6",
+    "name": "Plastic",
+    "price": 9408195,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 45
+  },
+  {
+    "id": 26,
+    "code": "8e7a524b-0fd4-4711-87c6-aa65f259cfda",
+    "name": "Steel",
+    "price": 2124407,
+    "type": "Hard Tile & Stone",
+    "quantity": 41
+  },
+  {
+    "id": 27,
+    "code": "9144b2de-4b9a-4ad6-976a-57d0ff00fe53",
+    "name": "Rubber",
+    "price": 7787181,
+    "type": "EIFS",
+    "quantity": 96
+  },
+  {
+    "id": 28,
+    "code": "a8dbfe78-20d5-4818-8bad-c896e68b343f",
+    "name": "Rubber",
+    "price": 4840174,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 4
+  },
+  {
+    "id": 29,
+    "code": "c590c3f4-9bf7-4853-99f0-6e9374786eca",
+    "name": "Vinyl",
+    "price": 4442011,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 66
+  },
+  {
+    "id": 30,
+    "code": "747fbce0-28c7-4cf4-9f3c-8eb70d9cf3f5",
+    "name": "Glass",
+    "price": 1125911,
+    "type": "Roofing (Asphalt)",
+    "quantity": 2
+  },
+  {
+    "id": 31,
+    "code": "16751484-8ce3-4245-ad3f-4d33ddc40c06",
+    "name": "Glass",
+    "price": 6461637,
+    "type": "Curb & Gutter",
+    "quantity": 43
+  },
+  {
+    "id": 32,
+    "code": "0593ad2e-4c56-48cb-bc68-4b050cdd625d",
+    "name": "Granite",
+    "price": 175923,
+    "type": "EIFS",
+    "quantity": 19
+  },
+  {
+    "id": 33,
+    "code": "a007e7ea-d582-4a9c-b9b3-4fcaec5f6744",
+    "name": "Stone",
+    "price": 1081488,
+    "type": "Fire Protection",
+    "quantity": 43
+  },
+  {
+    "id": 34,
+    "code": "2a7826bf-4057-4c8e-8e0b-3616cc4bf9c9",
+    "name": "Brass",
+    "price": 434244,
+    "type": "Hard Tile & Stone",
+    "quantity": 46
+  },
+  {
+    "id": 35,
+    "code": "ed7a3c70-05da-43cd-b060-1d5fed7f1049",
+    "name": "Glass",
+    "price": 4675685,
+    "type": "Prefabricated Aluminum Metal Canopies",
+    "quantity": 35
+  },
+  {
+    "id": 36,
+    "code": "9309af9a-bc66-496b-b30d-8298a19d64a5",
+    "name": "Wood",
+    "price": 3959799,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 24
+  },
+  {
+    "id": 37,
+    "code": "065e005d-bc2b-45c6-be01-5231bac17b0a",
+    "name": "Brass",
+    "price": 6578452,
+    "type": "Masonry",
+    "quantity": 10
+  },
+  {
+    "id": 38,
+    "code": "c809d694-03a0-4ec4-8404-e1fe7cc44791",
+    "name": "Glass",
+    "price": 1165219,
+    "type": "Framing (Steel)",
+    "quantity": 86
+  },
+  {
+    "id": 39,
+    "code": "030a5007-ef12-4e2f-9356-675e8b8652d2",
+    "name": "Aluminum",
+    "price": 8225899,
+    "type": "Exterior Signage",
+    "quantity": 48
+  },
+  {
+    "id": 40,
+    "code": "975a1983-bd84-41ef-bda7-b99c7d2961d0",
+    "name": "Aluminum",
+    "price": 4699559,
+    "type": "Epoxy Flooring",
+    "quantity": 47
+  },
+  {
+    "id": 41,
+    "code": "edd1108b-cc44-417e-92be-3e866616cd15",
+    "name": "Rubber",
+    "price": 1703835,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 18
+  },
+  {
+    "id": 42,
+    "code": "3a4d88eb-0c57-4733-bc8a-cf22426e2284",
+    "name": "Plastic",
+    "price": 1620035,
+    "type": "Ornamental Railings",
+    "quantity": 98
+  },
+  {
+    "id": 43,
+    "code": "02b88159-be47-4c1e-90d6-8e5053ee5c8f",
+    "name": "Steel",
+    "price": 1554467,
+    "type": "Epoxy Flooring",
+    "quantity": 93
+  },
+  {
+    "id": 44,
+    "code": "94bdcc4a-1fa4-44ac-bd60-d631470f7c2d",
+    "name": "Wood",
+    "price": 2147208,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 25
+  },
+  {
+    "id": 45,
+    "code": "419417a5-f60b-4b6c-b602-dc0322404224",
+    "name": "Aluminum",
+    "price": 2466994,
+    "type": "Roofing (Asphalt)",
+    "quantity": 33
+  },
+  {
+    "id": 46,
+    "code": "ad70ac4c-0fce-4f15-8256-ad5635461601",
+    "name": "Plexiglass",
+    "price": 7434674,
+    "type": "Fire Sprinkler System",
+    "quantity": 59
+  },
+  {
+    "id": 47,
+    "code": "fde669ba-fb7c-4c53-9010-16d0405465ea",
+    "name": "Plastic",
+    "price": 1463192,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 90
+  },
+  {
+    "id": 48,
+    "code": "6dd04df0-bd99-4970-b0ec-60bfdcbdbaaa",
+    "name": "Aluminum",
+    "price": 9836551,
+    "type": "Drilled Shafts",
+    "quantity": 18
+  },
+  {
+    "id": 49,
+    "code": "4d826ff0-d37c-418e-8897-01403c6f46db",
+    "name": "Plastic",
+    "price": 3657824,
+    "type": "Epoxy Flooring",
+    "quantity": 46
+  },
+  {
+    "id": 50,
+    "code": "6c72b050-984f-4c86-a39e-9538f4f3fd89",
+    "name": "Stone",
+    "price": 1180744,
+    "type": "Soft Flooring and Base",
+    "quantity": 56
+  },
+  {
+    "id": 51,
+    "code": "7bd3b10e-3933-4236-83f9-64f40dbcdf4a",
+    "name": "Brass",
+    "price": 6543466,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 28
+  },
+  {
+    "id": 52,
+    "code": "42a5b812-8f97-4bdf-96e3-4ab9d2c30a54",
+    "name": "Plexiglass",
+    "price": 8469588,
+    "type": "Electrical",
+    "quantity": 57
+  },
+  {
+    "id": 53,
+    "code": "ac5819f1-f78f-4afd-bd30-ec9fe36d6f62",
+    "name": "Wood",
+    "price": 724271,
+    "type": "Exterior Signage",
+    "quantity": 61
+  },
+  {
+    "id": 54,
+    "code": "28c0fde8-e98a-4f08-996e-712ec294611b",
+    "name": "Stone",
+    "price": 1353750,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 62
+  },
+  {
+    "id": 55,
+    "code": "3d4ee5d1-673f-4f4c-8c2d-40dcb25c237a",
+    "name": "Brass",
+    "price": 4499264,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 22
+  },
+  {
+    "id": 56,
+    "code": "4dc0c5b7-6721-4b0b-b849-a160d378abda",
+    "name": "Steel",
+    "price": 5462426,
+    "type": "Waterproofing & Caulking",
+    "quantity": 84
+  },
+  {
+    "id": 57,
+    "code": "192fdffc-c645-4401-b57e-bf05312e5484",
+    "name": "Plastic",
+    "price": 8955197,
+    "type": "Casework",
+    "quantity": 98
+  },
+  {
+    "id": 58,
+    "code": "14372c4a-87f1-4749-9081-7514d9efa113",
+    "name": "Aluminum",
+    "price": 4751073,
+    "type": "Asphalt Paving",
+    "quantity": 41
+  },
+  {
+    "id": 59,
+    "code": "cb3e5ab7-2a83-4325-b6a4-e876ed12ff9f",
+    "name": "Glass",
+    "price": 4258959,
+    "type": "Exterior Signage",
+    "quantity": 31
+  },
+  {
+    "id": 60,
+    "code": "b166d07b-0c07-4293-a1c1-283b4d03e1b5",
+    "name": "Glass",
+    "price": 2582105,
+    "type": "Ornamental Railings",
+    "quantity": 14
+  },
+  {
+    "id": 61,
+    "code": "0583ab85-5d12-42aa-912a-3fcb3ad4408f",
+    "name": "Brass",
+    "price": 5619999,
+    "type": "Termite Control",
+    "quantity": 31
+  },
+  {
+    "id": 62,
+    "code": "01f28fbe-f555-4860-b480-49dca935bcb9",
+    "name": "Plastic",
+    "price": 7850596,
+    "type": "Sitework & Site Utilities",
+    "quantity": 32
+  },
+  {
+    "id": 63,
+    "code": "5a16ece0-08a3-47e1-911f-1ae316dfeb94",
+    "name": "Wood",
+    "price": 1941442,
+    "type": "Ornamental Railings",
+    "quantity": 83
+  },
+  {
+    "id": 64,
+    "code": "c5410602-5489-4d43-82fa-9ae86825382e",
+    "name": "Rubber",
+    "price": 5273314,
+    "type": "Overhead Doors",
+    "quantity": 90
+  },
+  {
+    "id": 65,
+    "code": "403554d0-9b34-4e02-b97e-56662f12c9b4",
+    "name": "Granite",
+    "price": 620079,
+    "type": "Site Furnishings",
+    "quantity": 86
+  },
+  {
+    "id": 66,
+    "code": "a7ea0acd-3788-4fdf-80fd-16c8f202b0e5",
+    "name": "Aluminum",
+    "price": 4909002,
+    "type": "Electrical",
+    "quantity": 29
+  },
+  {
+    "id": 67,
+    "code": "76b911e5-01f0-4b89-a5c2-f23fa8450cb7",
+    "name": "Aluminum",
+    "price": 5356769,
+    "type": "Glass & Glazing",
+    "quantity": 92
+  },
+  {
+    "id": 68,
+    "code": "486517fb-5e22-42a2-870d-feea4cbe8117",
+    "name": "Plexiglass",
+    "price": 8984000,
+    "type": "Fire Sprinkler System",
+    "quantity": 12
+  },
+  {
+    "id": 69,
+    "code": "499e7a88-d9ad-4e34-9091-c54402296587",
+    "name": "Vinyl",
+    "price": 6743718,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 56
+  },
+  {
+    "id": 70,
+    "code": "b138ead4-dda3-4d83-a1ba-16f2df20ebc3",
+    "name": "Steel",
+    "price": 5648253,
+    "type": "Epoxy Flooring",
+    "quantity": 40
+  },
+  {
+    "id": 71,
+    "code": "1a5d537c-fd6b-4843-837c-7d691065cf2a",
+    "name": "Wood",
+    "price": 9845190,
+    "type": "Asphalt Paving",
+    "quantity": 64
+  },
+  {
+    "id": 72,
+    "code": "cf40d9b8-936e-4de3-81d9-586aa7ca9bb6",
+    "name": "Wood",
+    "price": 9298767,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 27
+  },
+  {
+    "id": 73,
+    "code": "eebabfde-cdb1-4e56-8927-695857b82398",
+    "name": "Vinyl",
+    "price": 4958100,
+    "type": "Site Furnishings",
+    "quantity": 5
+  },
+  {
+    "id": 74,
+    "code": "507cd164-5efe-4c2d-bd89-66c3d5b1a606",
+    "name": "Aluminum",
+    "price": 7725062,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 6
+  },
+  {
+    "id": 75,
+    "code": "93c96a87-bfa7-4f15-b489-c3ab05e6a7eb",
+    "name": "Plastic",
+    "price": 1621272,
+    "type": "Drilled Shafts",
+    "quantity": 90
+  },
+  {
+    "id": 76,
+    "code": "1c899d2f-4998-4dd6-9284-2b1d7ba5c90c",
+    "name": "Brass",
+    "price": 7183261,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 36
+  },
+  {
+    "id": 77,
+    "code": "123edf7a-6956-4f6c-8fd3-f5c08027fe7a",
+    "name": "Plastic",
+    "price": 8991951,
+    "type": "Soft Flooring and Base",
+    "quantity": 15
+  },
+  {
+    "id": 78,
+    "code": "71f43cf0-8f77-4955-a828-fce09bdff78b",
+    "name": "Wood",
+    "price": 6137331,
+    "type": "HVAC",
+    "quantity": 2
+  },
+  {
+    "id": 79,
+    "code": "7eae3041-bf52-4fe4-8ded-1ac15e8d39a2",
+    "name": "Brass",
+    "price": 9515713,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 60
+  },
+  {
+    "id": 80,
+    "code": "158fba08-7a0e-4b89-b41d-e03f73a8f5fb",
+    "name": "Aluminum",
+    "price": 2817449,
+    "type": "Masonry",
+    "quantity": 87
+  },
+  {
+    "id": 81,
+    "code": "29813dd4-8846-4718-80dc-ce9f88e886e2",
+    "name": "Steel",
+    "price": 1940859,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 45
+  },
+  {
+    "id": 82,
+    "code": "ee8f1293-5886-4b81-83c2-9425b529ded0",
+    "name": "Plexiglass",
+    "price": 3598311,
+    "type": "Soft Flooring and Base",
+    "quantity": 99
+  },
+  {
+    "id": 83,
+    "code": "f9256429-c7ec-4a21-a422-f7cbf7e1f961",
+    "name": "Plastic",
+    "price": 5778199,
+    "type": "RF Shielding",
+    "quantity": 94
+  },
+  {
+    "id": 84,
+    "code": "56700be9-8112-4ee1-980a-c53fc0787ef4",
+    "name": "Aluminum",
+    "price": 7737784,
+    "type": "Landscaping & Irrigation",
+    "quantity": 69
+  },
+  {
+    "id": 85,
+    "code": "4200c0cb-41a6-428d-bdcf-7d9c0e0b2827",
+    "name": "Plastic",
+    "price": 3544550,
+    "type": "Glass & Glazing",
+    "quantity": 95
+  },
+  {
+    "id": 86,
+    "code": "40a4e484-2fe9-4e3e-8689-f02a762421b4",
+    "name": "Plexiglass",
+    "price": 7458384,
+    "type": "Epoxy Flooring",
+    "quantity": 73
+  },
+  {
+    "id": 87,
+    "code": "ed9f9548-e818-4d56-802d-8d9dd781e142",
+    "name": "Vinyl",
+    "price": 7624,
+    "type": "Marlite Panels (FED)",
+    "quantity": 1
+  },
+  {
+    "id": 88,
+    "code": "e2219c81-eb30-4c96-b0a7-158924ea28b5",
+    "name": "Rubber",
+    "price": 5880219,
+    "type": "Soft Flooring and Base",
+    "quantity": 25
+  },
+  {
+    "id": 89,
+    "code": "e7e75304-1f72-4bad-8ddb-8d0593dfa5cd",
+    "name": "Granite",
+    "price": 7739314,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 59
+  },
+  {
+    "id": 90,
+    "code": "37b2adde-e180-4745-b69d-43ccd34f6afa",
+    "name": "Steel",
+    "price": 3906663,
+    "type": "Masonry",
+    "quantity": 63
+  },
+  {
+    "id": 91,
+    "code": "b4faa8cc-3183-4358-b556-233b86b3bb0d",
+    "name": "Plexiglass",
+    "price": 2775991,
+    "type": "Casework",
+    "quantity": 27
+  },
+  {
+    "id": 92,
+    "code": "57a2cfc7-7356-42d9-9cf5-d7ec4a5ea47d",
+    "name": "Stone",
+    "price": 4755696,
+    "type": "Elevator",
+    "quantity": 35
+  },
+  {
+    "id": 93,
+    "code": "b1b727df-b0eb-4dae-b76a-26d9bb194857",
+    "name": "Glass",
+    "price": 7127198,
+    "type": "Roofing (Metal)",
+    "quantity": 100
+  },
+  {
+    "id": 94,
+    "code": "731cd74a-8bd0-43c1-ab8f-9f0ba0ebcd06",
+    "name": "Steel",
+    "price": 4597614,
+    "type": "RF Shielding",
+    "quantity": 13
+  },
+  {
+    "id": 95,
+    "code": "38152879-0075-4e6a-bb68-e0d7218fbe4e",
+    "name": "Brass",
+    "price": 5698692,
+    "type": "Framing (Wood)",
+    "quantity": 87
+  },
+  {
+    "id": 96,
+    "code": "c2ff6c61-eb4e-4dd5-bdbb-fca27bbad100",
+    "name": "Vinyl",
+    "price": 3440002,
+    "type": "Hard Tile & Stone",
+    "quantity": 69
+  },
+  {
+    "id": 97,
+    "code": "4fa9d749-7c51-4d75-b4eb-46822276c91c",
+    "name": "Steel",
+    "price": 8535783,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 33
+  },
+  {
+    "id": 98,
+    "code": "82da84e9-0f20-49b9-939b-ca4a16c06b88",
+    "name": "Vinyl",
+    "price": 5384776,
+    "type": "Waterproofing & Caulking",
+    "quantity": 78
+  },
+  {
+    "id": 99,
+    "code": "eeb7c8a4-9767-4ad4-b33e-3161524e0607",
+    "name": "Vinyl",
+    "price": 6785987,
+    "type": "Wall Protection",
+    "quantity": 21
+  },
+  {
+    "id": 100,
+    "code": "b8970009-603c-41b8-80bb-75f17b0b6483",
+    "name": "Plastic",
+    "price": 310205,
+    "type": "Site Furnishings",
+    "quantity": 35
+  },
+  {
+    "id": 101,
+    "code": "1a126649-18f2-4f51-9efe-5309a3a18c14",
+    "name": "Stone",
+    "price": 4502068,
+    "type": "Marlite Panels (FED)",
+    "quantity": 74
+  },
+  {
+    "id": 102,
+    "code": "e9acc25d-047b-4d50-bb94-3bffe3d69cf7",
+    "name": "Stone",
+    "price": 6827071,
+    "type": "Fire Sprinkler System",
+    "quantity": 81
+  },
+  {
+    "id": 103,
+    "code": "4faf5980-f7ff-4bb7-9c77-d9e72c358ff8",
+    "name": "Stone",
+    "price": 9543097,
+    "type": "Landscaping & Irrigation",
+    "quantity": 31
+  },
+  {
+    "id": 104,
+    "code": "8ab5f03e-7b0b-4a6e-9dc7-8bf3af6ca07d",
+    "name": "Granite",
+    "price": 6870160,
+    "type": "Hard Tile & Stone",
+    "quantity": 34
+  },
+  {
+    "id": 105,
+    "code": "3d8b0f34-60ac-4cac-95a1-b5d85ec03650",
+    "name": "Plastic",
+    "price": 8741013,
+    "type": "Framing (Wood)",
+    "quantity": 72
+  },
+  {
+    "id": 106,
+    "code": "26b5fcd3-d186-44e7-846f-860c1152b749",
+    "name": "Wood",
+    "price": 476216,
+    "type": "Landscaping & Irrigation",
+    "quantity": 31
+  },
+  {
+    "id": 107,
+    "code": "079bb3f9-cb96-4ee8-9d3f-84debc0af137",
+    "name": "Brass",
+    "price": 7620533,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 99
+  },
+  {
+    "id": 108,
+    "code": "624f4189-7120-4423-8a4a-294d2b6e5532",
+    "name": "Wood",
+    "price": 6150645,
+    "type": "Overhead Doors",
+    "quantity": 36
+  },
+  {
+    "id": 109,
+    "code": "7f65b0a4-8898-45b5-ab99-5c88ecdc7069",
+    "name": "Glass",
+    "price": 9756113,
+    "type": "Hard Tile & Stone",
+    "quantity": 29
+  },
+  {
+    "id": 110,
+    "code": "e6aded42-0ac2-42a3-a3b5-20bc5eb20ccd",
+    "name": "Granite",
+    "price": 8852683,
+    "type": "Prefabricated Aluminum Metal Canopies",
+    "quantity": 5
+  },
+  {
+    "id": 111,
+    "code": "f93141fe-3ac9-4096-a72a-b71de96404d8",
+    "name": "Aluminum",
+    "price": 3745534,
+    "type": "Site Furnishings",
+    "quantity": 87
+  },
+  {
+    "id": 112,
+    "code": "b7e908fa-69bc-4067-ad16-93d2d31b5400",
+    "name": "Aluminum",
+    "price": 6260801,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 34
+  },
+  {
+    "id": 113,
+    "code": "cb9339e0-2805-49b4-99b1-28cc08314064",
+    "name": "Aluminum",
+    "price": 5079969,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 28
+  },
+  {
+    "id": 114,
+    "code": "beef405d-5237-4512-8104-dff7e300a6cc",
+    "name": "Glass",
+    "price": 2591892,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 95
+  },
+  {
+    "id": 115,
+    "code": "f4806dd3-a28e-4435-8c40-81252fd47083",
+    "name": "Granite",
+    "price": 42597,
+    "type": "Wall Protection",
+    "quantity": 86
+  },
+  {
+    "id": 116,
+    "code": "c05c8235-37ca-4561-98a2-1cd8878578bc",
+    "name": "Rubber",
+    "price": 2323132,
+    "type": "Wall Protection",
+    "quantity": 89
+  },
+  {
+    "id": 117,
+    "code": "d2a7ac75-4aa5-41f2-8d45-09e681a65165",
+    "name": "Wood",
+    "price": 1739254,
+    "type": "Elevator",
+    "quantity": 66
+  },
+  {
+    "id": 118,
+    "code": "896da3de-440d-4f5d-9f5f-2ad79445b84b",
+    "name": "Plastic",
+    "price": 4918294,
+    "type": "Epoxy Flooring",
+    "quantity": 15
+  },
+  {
+    "id": 119,
+    "code": "d75aa57d-5588-40e9-835a-3de356eb28d2",
+    "name": "Plexiglass",
+    "price": 1337162,
+    "type": "Casework",
+    "quantity": 80
+  },
+  {
+    "id": 120,
+    "code": "1fcc2dad-5b3a-4b20-8005-885927013813",
+    "name": "Stone",
+    "price": 239358,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 86
+  },
+  {
+    "id": 121,
+    "code": "b2825328-4781-454a-82f2-b26d2cf8bb73",
+    "name": "Rubber",
+    "price": 6814535,
+    "type": "Overhead Doors",
+    "quantity": 58
+  },
+  {
+    "id": 122,
+    "code": "4e8cc295-9de7-4383-b045-7b01b729cbcd",
+    "name": "Granite",
+    "price": 4707684,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 11
+  },
+  {
+    "id": 123,
+    "code": "012d98ea-dc1b-43d9-a725-b89075fad4a2",
+    "name": "Wood",
+    "price": 2875454,
+    "type": "Hard Tile & Stone",
+    "quantity": 39
+  },
+  {
+    "id": 124,
+    "code": "828f421c-d841-43d8-b73b-b02d4da26917",
+    "name": "Wood",
+    "price": 8031059,
+    "type": "Termite Control",
+    "quantity": 61
+  },
+  {
+    "id": 125,
+    "code": "978633f2-87c4-4325-acb6-368e056f9c48",
+    "name": "Stone",
+    "price": 1238134,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 82
+  },
+  {
+    "id": 126,
+    "code": "656f38d4-1e65-4808-b066-66aece664821",
+    "name": "Steel",
+    "price": 4711537,
+    "type": "Hard Tile & Stone",
+    "quantity": 50
+  },
+  {
+    "id": 127,
+    "code": "9fd395e4-6a4d-4ac2-a27c-b6583c7e2f65",
+    "name": "Wood",
+    "price": 8600479,
+    "type": "Ornamental Railings",
+    "quantity": 12
+  },
+  {
+    "id": 128,
+    "code": "7f592bb8-b6dd-4e15-b847-efea31da37fb",
+    "name": "Aluminum",
+    "price": 5816810,
+    "type": "Curb & Gutter",
+    "quantity": 34
+  },
+  {
+    "id": 129,
+    "code": "38a1e821-4fe6-4285-bce9-74c512272932",
+    "name": "Wood",
+    "price": 2729091,
+    "type": "Framing (Wood)",
+    "quantity": 11
+  },
+  {
+    "id": 130,
+    "code": "8dfc82ac-6db7-4b7d-adaf-c78deb786f8d",
+    "name": "Brass",
+    "price": 8948765,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 4
+  },
+  {
+    "id": 131,
+    "code": "dc462d43-0bce-41fb-8653-96086e907ae3",
+    "name": "Wood",
+    "price": 605112,
+    "type": "Fire Sprinkler System",
+    "quantity": 40
+  },
+  {
+    "id": 132,
+    "code": "a7fdbe67-c0a3-4f4e-9c62-601d73073630",
+    "name": "Granite",
+    "price": 6801654,
+    "type": "Ornamental Railings",
+    "quantity": 10
+  },
+  {
+    "id": 133,
+    "code": "c1831530-bced-4753-9098-cc6e5a876a3b",
+    "name": "Rubber",
+    "price": 5399237,
+    "type": "Elevator",
+    "quantity": 89
+  },
+  {
+    "id": 134,
+    "code": "2a21c3c3-043b-4e17-9aad-957ab9abf5bd",
+    "name": "Brass",
+    "price": 6837470,
+    "type": "Masonry & Precast",
+    "quantity": 27
+  },
+  {
+    "id": 135,
+    "code": "9a632ca1-4b97-4c1e-933a-f7140ec78bf3",
+    "name": "Stone",
+    "price": 1118351,
+    "type": "Epoxy Flooring",
+    "quantity": 64
+  },
+  {
+    "id": 136,
+    "code": "f3ee2c28-0051-48c1-aa09-a7ccd98b1799",
+    "name": "Rubber",
+    "price": 8933093,
+    "type": "RF Shielding",
+    "quantity": 77
+  },
+  {
+    "id": 137,
+    "code": "afac5607-5e87-403a-aa4a-d7aa588d042e",
+    "name": "Steel",
+    "price": 4861789,
+    "type": "Masonry & Precast",
+    "quantity": 1
+  },
+  {
+    "id": 138,
+    "code": "3d30fcd1-061d-48ec-b382-7a503e1ebfac",
+    "name": "Vinyl",
+    "price": 9935355,
+    "type": "Exterior Signage",
+    "quantity": 36
+  },
+  {
+    "id": 139,
+    "code": "e93f93b0-6baf-4df4-a58a-37e897ce5da6",
+    "name": "Stone",
+    "price": 8563262,
+    "type": "Wall Protection",
+    "quantity": 91
+  },
+  {
+    "id": 140,
+    "code": "7034bfef-2a51-4c78-9132-41b5a23da7f0",
+    "name": "Brass",
+    "price": 5413734,
+    "type": "Ornamental Railings",
+    "quantity": 56
+  },
+  {
+    "id": 141,
+    "code": "4e75ec7c-5d04-4f1b-8f2d-24d638f35925",
+    "name": "Steel",
+    "price": 2924542,
+    "type": "Hard Tile & Stone",
+    "quantity": 96
+  },
+  {
+    "id": 142,
+    "code": "8e29e0a6-9d59-41a7-82e4-bf444483c79b",
+    "name": "Granite",
+    "price": 8621640,
+    "type": "Masonry & Precast",
+    "quantity": 3
+  },
+  {
+    "id": 143,
+    "code": "48291d99-cdd7-4db4-8ade-e31d61d8f77d",
+    "name": "Vinyl",
+    "price": 8995255,
+    "type": "Wall Protection",
+    "quantity": 52
+  },
+  {
+    "id": 144,
+    "code": "bc4c32e8-551d-4104-acd7-1a95616087c9",
+    "name": "Steel",
+    "price": 6051962,
+    "type": "Masonry",
+    "quantity": 59
+  },
+  {
+    "id": 145,
+    "code": "b80e1672-27f4-48d2-ab63-d7668d4e21db",
+    "name": "Stone",
+    "price": 6938267,
+    "type": "Elevator",
+    "quantity": 73
+  },
+  {
+    "id": 146,
+    "code": "3c6151ca-9b8b-486b-a20e-0dc9601e26f3",
+    "name": "Brass",
+    "price": 4920800,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 70
+  },
+  {
+    "id": 147,
+    "code": "67b90174-078f-4632-a934-d8c0e8c4299b",
+    "name": "Brass",
+    "price": 3448046,
+    "type": "Hard Tile & Stone",
+    "quantity": 17
+  },
+  {
+    "id": 148,
+    "code": "27c93a1a-f6ae-4e58-b5d2-b93e90b615f2",
+    "name": "Stone",
+    "price": 9666393,
+    "type": "Roofing (Asphalt)",
+    "quantity": 21
+  },
+  {
+    "id": 149,
+    "code": "81de429a-f51b-407d-8de1-4142fa37cea3",
+    "name": "Steel",
+    "price": 6795729,
+    "type": "Waterproofing & Caulking",
+    "quantity": 48
+  },
+  {
+    "id": 150,
+    "code": "a72a84c7-9a3c-4e3e-a4ff-a07c1f50dfc3",
+    "name": "Wood",
+    "price": 4822516,
+    "type": "Epoxy Flooring",
+    "quantity": 21
+  },
+  {
+    "id": 151,
+    "code": "7127f651-68d1-480f-9f90-c8e3cc09ac47",
+    "name": "Rubber",
+    "price": 5816602,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 35
+  },
+  {
+    "id": 152,
+    "code": "6d28f483-a10d-4ef0-a18c-a2970391110a",
+    "name": "Granite",
+    "price": 479481,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 70
+  },
+  {
+    "id": 153,
+    "code": "7359203b-1dc8-467a-b67b-fc4cadc43d30",
+    "name": "Aluminum",
+    "price": 2054331,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 98
+  },
+  {
+    "id": 154,
+    "code": "2afa8e89-c5c1-402b-922b-7d3cb03152d7",
+    "name": "Vinyl",
+    "price": 9355817,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 93
+  },
+  {
+    "id": 155,
+    "code": "de238851-6d02-488b-9648-69610ada7340",
+    "name": "Plexiglass",
+    "price": 1953774,
+    "type": "Ornamental Railings",
+    "quantity": 2
+  },
+  {
+    "id": 156,
+    "code": "6688657e-0e8c-434c-a948-3283707f7833",
+    "name": "Plexiglass",
+    "price": 3943895,
+    "type": "Soft Flooring and Base",
+    "quantity": 2
+  },
+  {
+    "id": 157,
+    "code": "a896f2e5-6bdc-4259-a0b6-69a9d4a8bab0",
+    "name": "Granite",
+    "price": 4484453,
+    "type": "Epoxy Flooring",
+    "quantity": 69
+  },
+  {
+    "id": 158,
+    "code": "069355dc-c9d4-4bc2-9bf9-ce3be33c21ee",
+    "name": "Brass",
+    "price": 2182198,
+    "type": "Asphalt Paving",
+    "quantity": 19
+  },
+  {
+    "id": 159,
+    "code": "badab62c-ef1a-4cec-b362-0ace4cd6e520",
+    "name": "Plastic",
+    "price": 4272209,
+    "type": "Electrical",
+    "quantity": 1
+  },
+  {
+    "id": 160,
+    "code": "492cc7e6-067b-4b4b-832f-f4de786dec5c",
+    "name": "Wood",
+    "price": 7049559,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 92
+  },
+  {
+    "id": 161,
+    "code": "c0d553e2-bb5f-4b8d-8665-03d76ecad91d",
+    "name": "Rubber",
+    "price": 1830032,
+    "type": "Hard Tile & Stone",
+    "quantity": 84
+  },
+  {
+    "id": 162,
+    "code": "1c1f238b-9fef-41a5-8748-bc77c44b7459",
+    "name": "Aluminum",
+    "price": 701242,
+    "type": "Framing (Steel)",
+    "quantity": 11
+  },
+  {
+    "id": 163,
+    "code": "ad6ab276-5ef4-467f-97de-92a16ba466c3",
+    "name": "Aluminum",
+    "price": 5368252,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 44
+  },
+  {
+    "id": 164,
+    "code": "d7f8651e-7eec-4d51-8dd7-c87af233c119",
+    "name": "Glass",
+    "price": 5381927,
+    "type": "Fire Protection",
+    "quantity": 95
+  },
+  {
+    "id": 165,
+    "code": "b8f28a6b-f321-4206-88da-13952d085b84",
+    "name": "Brass",
+    "price": 2079178,
+    "type": "RF Shielding",
+    "quantity": 78
+  },
+  {
+    "id": 166,
+    "code": "1854166a-a711-49e5-a93a-87868834869e",
+    "name": "Glass",
+    "price": 6152491,
+    "type": "Curb & Gutter",
+    "quantity": 42
+  },
+  {
+    "id": 167,
+    "code": "871e705a-af27-49ab-9d70-bbef0d3578b6",
+    "name": "Vinyl",
+    "price": 6804446,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 55
+  },
+  {
+    "id": 168,
+    "code": "9e6b0b5d-6b10-492e-b70c-bb4d293a87fe",
+    "name": "Aluminum",
+    "price": 8910103,
+    "type": "Exterior Signage",
+    "quantity": 23
+  },
+  {
+    "id": 169,
+    "code": "98e6fdfc-a6e5-4976-b62b-fd560eb7dc9e",
+    "name": "Plexiglass",
+    "price": 6957137,
+    "type": "EIFS",
+    "quantity": 11
+  },
+  {
+    "id": 170,
+    "code": "beaac3d0-1d6b-4506-a89e-2ef70726bae9",
+    "name": "Wood",
+    "price": 1091153,
+    "type": "HVAC",
+    "quantity": 43
+  },
+  {
+    "id": 171,
+    "code": "b70eb65e-0cc9-4c22-93b9-30587c52be10",
+    "name": "Granite",
+    "price": 1672910,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 58
+  },
+  {
+    "id": 172,
+    "code": "093158ba-dbe6-4f9c-b2f5-9476259945cd",
+    "name": "Glass",
+    "price": 7528501,
+    "type": "Ornamental Railings",
+    "quantity": 92
+  },
+  {
+    "id": 173,
+    "code": "a7073866-e5d3-4e96-95ed-2f0be8ab0338",
+    "name": "Vinyl",
+    "price": 180893,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 15
+  },
+  {
+    "id": 174,
+    "code": "03321954-4fe4-4eec-986f-5cbb6d45bedf",
+    "name": "Brass",
+    "price": 504598,
+    "type": "Hard Tile & Stone",
+    "quantity": 3
+  },
+  {
+    "id": 175,
+    "code": "6eb58d58-01c9-4b54-910a-e811dd159481",
+    "name": "Steel",
+    "price": 4076276,
+    "type": "Marlite Panels (FED)",
+    "quantity": 38
+  },
+  {
+    "id": 176,
+    "code": "dcfb5287-1086-4aae-acf5-849a901b496a",
+    "name": "Plastic",
+    "price": 8674456,
+    "type": "Overhead Doors",
+    "quantity": 60
+  },
+  {
+    "id": 177,
+    "code": "d922390f-2db2-4b3d-9f78-9d4940d5b0e9",
+    "name": "Stone",
+    "price": 8205922,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 65
+  },
+  {
+    "id": 178,
+    "code": "39975140-be2b-41e2-8c8b-44a7a6d5d273",
+    "name": "Aluminum",
+    "price": 1768433,
+    "type": "Roofing (Asphalt)",
+    "quantity": 45
+  },
+  {
+    "id": 179,
+    "code": "ee723647-e5b5-4fc8-9b3a-ec481dc249c6",
+    "name": "Steel",
+    "price": 1114324,
+    "type": "Hard Tile & Stone",
+    "quantity": 35
+  },
+  {
+    "id": 180,
+    "code": "1bcc732c-b6d8-4e0d-bfd9-d51c7627bdf1",
+    "name": "Glass",
+    "price": 545869,
+    "type": "Electrical",
+    "quantity": 22
+  },
+  {
+    "id": 181,
+    "code": "c489ff4b-d7a5-4d7c-af53-d992fd70fd90",
+    "name": "Stone",
+    "price": 4329633,
+    "type": "Framing (Wood)",
+    "quantity": 35
+  },
+  {
+    "id": 182,
+    "code": "328058f4-16d9-46ed-8f26-fa082e82bee4",
+    "name": "Aluminum",
+    "price": 753900,
+    "type": "Masonry & Precast",
+    "quantity": 93
+  },
+  {
+    "id": 183,
+    "code": "01f3374c-ecb0-41fa-b212-64b202e44107",
+    "name": "Stone",
+    "price": 2109868,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 23
+  },
+  {
+    "id": 184,
+    "code": "c8127816-de62-4fe3-999e-f613d23dcbfc",
+    "name": "Stone",
+    "price": 7390470,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 99
+  },
+  {
+    "id": 185,
+    "code": "91aa97c9-897c-4797-aab9-44d703c8f05d",
+    "name": "Plexiglass",
+    "price": 6299324,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 91
+  },
+  {
+    "id": 186,
+    "code": "6f2da8fd-a9a3-44bc-88eb-dcac8bbc8b58",
+    "name": "Steel",
+    "price": 6905207,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 77
+  },
+  {
+    "id": 187,
+    "code": "fc2eddd0-fdfd-4ceb-88fa-6c954cb2c878",
+    "name": "Glass",
+    "price": 5704632,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 1
+  },
+  {
+    "id": 188,
+    "code": "f4d60bf2-cfb1-44e6-a833-2558e2973379",
+    "name": "Stone",
+    "price": 690921,
+    "type": "Fire Sprinkler System",
+    "quantity": 75
+  },
+  {
+    "id": 189,
+    "code": "a0813423-2778-46fd-84af-db3779921a56",
+    "name": "Plexiglass",
+    "price": 3181002,
+    "type": "Waterproofing & Caulking",
+    "quantity": 97
+  },
+  {
+    "id": 190,
+    "code": "056ebd41-ec82-47f7-85c0-aeeba1e9ae8c",
+    "name": "Glass",
+    "price": 3205675,
+    "type": "Fire Sprinkler System",
+    "quantity": 13
+  },
+  {
+    "id": 191,
+    "code": "18acde62-486a-43dc-8aaf-3a1df7b04342",
+    "name": "Glass",
+    "price": 2067089,
+    "type": "Elevator",
+    "quantity": 54
+  },
+  {
+    "id": 192,
+    "code": "a1ed0c77-4b17-429e-9ff3-3d92d9a42455",
+    "name": "Rubber",
+    "price": 3544692,
+    "type": "Glass & Glazing",
+    "quantity": 6
+  },
+  {
+    "id": 193,
+    "code": "c225f0b1-d586-47b5-8b99-35588ff6e9a0",
+    "name": "Stone",
+    "price": 1971077,
+    "type": "Electrical",
+    "quantity": 12
+  },
+  {
+    "id": 194,
+    "code": "28a27771-d9df-4c99-9461-200cbf4e21d7",
+    "name": "Steel",
+    "price": 3149016,
+    "type": "Termite Control",
+    "quantity": 88
+  },
+  {
+    "id": 195,
+    "code": "ea6b2a09-9a1e-4462-9363-93942df13337",
+    "name": "Steel",
+    "price": 2006530,
+    "type": "Roofing (Asphalt)",
+    "quantity": 34
+  },
+  {
+    "id": 196,
+    "code": "47f67ed0-97f5-4a57-b6a7-4775bfd74cf3",
+    "name": "Steel",
+    "price": 554668,
+    "type": "Termite Control",
+    "quantity": 39
+  },
+  {
+    "id": 197,
+    "code": "ed3f8850-4985-4b3d-82cb-cd6e80af1995",
+    "name": "Stone",
+    "price": 8204987,
+    "type": "HVAC",
+    "quantity": 31
+  },
+  {
+    "id": 198,
+    "code": "4e1ac57f-40c1-4038-be61-725b445f28ba",
+    "name": "Steel",
+    "price": 1159785,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 84
+  },
+  {
+    "id": 199,
+    "code": "2c62d0c5-475a-41a7-be15-838358e42be6",
+    "name": "Aluminum",
+    "price": 4131831,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 32
+  },
+  {
+    "id": 200,
+    "code": "8aec62a1-d44b-45df-966f-68303ca641bb",
+    "name": "Brass",
+    "price": 5317651,
+    "type": "Ornamental Railings",
+    "quantity": 34
+  },
+  {
+    "id": 201,
+    "code": "188cfb75-85b4-4e2d-a98d-eb1e2d604bd1",
+    "name": "Wood",
+    "price": 7587754,
+    "type": "Hard Tile & Stone",
+    "quantity": 34
+  },
+  {
+    "id": 202,
+    "code": "641ee8ba-493f-4cb6-89e4-4bbe8d83120a",
+    "name": "Vinyl",
+    "price": 8594947,
+    "type": "HVAC",
+    "quantity": 97
+  },
+  {
+    "id": 203,
+    "code": "fe2a53bc-f7d2-4925-9ef7-ebacf507261a",
+    "name": "Rubber",
+    "price": 5323966,
+    "type": "HVAC",
+    "quantity": 93
+  },
+  {
+    "id": 204,
+    "code": "964715d3-e417-4aaa-b874-1b6809f63971",
+    "name": "Granite",
+    "price": 4760287,
+    "type": "Drilled Shafts",
+    "quantity": 32
+  },
+  {
+    "id": 205,
+    "code": "a82b5b3a-508d-4855-b2e6-af0dddbdc696",
+    "name": "Brass",
+    "price": 3338960,
+    "type": "Sitework & Site Utilities",
+    "quantity": 75
+  },
+  {
+    "id": 206,
+    "code": "afdc8c3e-2b1c-49eb-8b36-87d9c4b49cae",
+    "name": "Granite",
+    "price": 9434535,
+    "type": "Exterior Signage",
+    "quantity": 46
+  },
+  {
+    "id": 207,
+    "code": "34263639-ba4d-42aa-81ab-2f2085e27630",
+    "name": "Steel",
+    "price": 9634107,
+    "type": "Masonry",
+    "quantity": 38
+  },
+  {
+    "id": 208,
+    "code": "d65830a5-8c70-4b2c-b88b-1b970b0f6110",
+    "name": "Granite",
+    "price": 299414,
+    "type": "Framing (Steel)",
+    "quantity": 97
+  },
+  {
+    "id": 209,
+    "code": "fd69938a-281e-4ee1-b220-e6e7cdfc2568",
+    "name": "Aluminum",
+    "price": 5470430,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 77
+  },
+  {
+    "id": 210,
+    "code": "165a0059-1a49-4704-9bc8-05c764cb34f6",
+    "name": "Plexiglass",
+    "price": 9558123,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 94
+  },
+  {
+    "id": 211,
+    "code": "d66b98ca-7bdc-46fc-90c0-5763729008ff",
+    "name": "Brass",
+    "price": 9964159,
+    "type": "Curb & Gutter",
+    "quantity": 85
+  },
+  {
+    "id": 212,
+    "code": "5466b32f-1677-422b-91fd-a7ff957a294f",
+    "name": "Granite",
+    "price": 8377828,
+    "type": "Termite Control",
+    "quantity": 99
+  },
+  {
+    "id": 213,
+    "code": "4d757fa1-019e-4ff3-b4f0-9c917da8000a",
+    "name": "Wood",
+    "price": 7795595,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 59
+  },
+  {
+    "id": 214,
+    "code": "c6f9025b-bb78-4132-aa1f-3724c8502fde",
+    "name": "Plexiglass",
+    "price": 9128431,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 83
+  },
+  {
+    "id": 215,
+    "code": "1b9bb26a-b26e-4132-a810-963bb66ebd64",
+    "name": "Wood",
+    "price": 1146029,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 58
+  },
+  {
+    "id": 216,
+    "code": "e9c0c580-4c4b-482f-b612-6f9cc479a5f8",
+    "name": "Rubber",
+    "price": 1233003,
+    "type": "Soft Flooring and Base",
+    "quantity": 33
+  },
+  {
+    "id": 217,
+    "code": "861452db-f910-406a-a7fc-0260b6f7f46f",
+    "name": "Plexiglass",
+    "price": 4493386,
+    "type": "Electrical",
+    "quantity": 22
+  },
+  {
+    "id": 218,
+    "code": "34a27a4d-8afe-4a17-b5d8-80ac337bd8ab",
+    "name": "Rubber",
+    "price": 5653196,
+    "type": "Site Furnishings",
+    "quantity": 25
+  },
+  {
+    "id": 219,
+    "code": "a102c0ca-4352-4608-b3e7-8c9e5f7e3e5b",
+    "name": "Rubber",
+    "price": 1274339,
+    "type": "Wall Protection",
+    "quantity": 92
+  },
+  {
+    "id": 220,
+    "code": "9955e88b-4ae3-4382-ae1e-add6820f63af",
+    "name": "Glass",
+    "price": 9874508,
+    "type": "Soft Flooring and Base",
+    "quantity": 41
+  },
+  {
+    "id": 221,
+    "code": "d6815720-f8e4-426f-a455-7e97d8a1c13b",
+    "name": "Plastic",
+    "price": 5823095,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 83
+  },
+  {
+    "id": 222,
+    "code": "779dcaaf-d0ca-4db5-8128-378830345e7f",
+    "name": "Vinyl",
+    "price": 9239855,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 64
+  },
+  {
+    "id": 223,
+    "code": "5fb159c0-8796-4fe6-9ecc-b9bb17ad02e6",
+    "name": "Steel",
+    "price": 180652,
+    "type": "Wall Protection",
+    "quantity": 39
+  },
+  {
+    "id": 224,
+    "code": "587cd85e-39f7-4bd1-8f34-59493858d327",
+    "name": "Stone",
+    "price": 40282,
+    "type": "Landscaping & Irrigation",
+    "quantity": 90
+  },
+  {
+    "id": 225,
+    "code": "e3cb05ed-a661-46a6-bfd3-e285c2a6a72b",
+    "name": "Wood",
+    "price": 3289641,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 60
+  },
+  {
+    "id": 226,
+    "code": "e1b22b32-9a5d-4213-9be7-1595aa8c5d61",
+    "name": "Granite",
+    "price": 329325,
+    "type": "Site Furnishings",
+    "quantity": 9
+  },
+  {
+    "id": 227,
+    "code": "3921d9b0-4038-49d0-846a-e2c381bf2e25",
+    "name": "Plastic",
+    "price": 4630228,
+    "type": "Glass & Glazing",
+    "quantity": 98
+  },
+  {
+    "id": 228,
+    "code": "55217d0e-11b0-4278-a45c-dfdb57b5c853",
+    "name": "Plexiglass",
+    "price": 8396902,
+    "type": "HVAC",
+    "quantity": 18
+  },
+  {
+    "id": 229,
+    "code": "0463f303-f588-4dd1-8347-ddf25f75c753",
+    "name": "Plastic",
+    "price": 1103403,
+    "type": "Ornamental Railings",
+    "quantity": 75
+  },
+  {
+    "id": 230,
+    "code": "72bb1c54-31d2-42b1-8414-2b73202137c7",
+    "name": "Steel",
+    "price": 6586107,
+    "type": "Ornamental Railings",
+    "quantity": 39
+  },
+  {
+    "id": 231,
+    "code": "d2c31020-b3c4-4ba8-9361-9f0f66f1a231",
+    "name": "Rubber",
+    "price": 3635536,
+    "type": "Site Furnishings",
+    "quantity": 68
+  },
+  {
+    "id": 232,
+    "code": "83f64808-99b5-4ffd-917c-698f2574be57",
+    "name": "Granite",
+    "price": 1371445,
+    "type": "Exterior Signage",
+    "quantity": 64
+  },
+  {
+    "id": 233,
+    "code": "c1f5a4bb-562d-49b9-a933-f57fe1e30c2d",
+    "name": "Brass",
+    "price": 7848169,
+    "type": "Exterior Signage",
+    "quantity": 21
+  },
+  {
+    "id": 234,
+    "code": "e663f191-82ae-4fc5-af86-1e6846de7eb7",
+    "name": "Plexiglass",
+    "price": 7213265,
+    "type": "Overhead Doors",
+    "quantity": 56
+  },
+  {
+    "id": 235,
+    "code": "b67807dc-8fb3-4d1d-a137-58fe9534c67e",
+    "name": "Vinyl",
+    "price": 7641513,
+    "type": "EIFS",
+    "quantity": 43
+  },
+  {
+    "id": 236,
+    "code": "3f0ff9de-743d-4d5b-9356-b689a6b7c193",
+    "name": "Rubber",
+    "price": 4381994,
+    "type": "Site Furnishings",
+    "quantity": 98
+  },
+  {
+    "id": 237,
+    "code": "d6610556-14ee-40b8-a7e8-de17089032d9",
+    "name": "Aluminum",
+    "price": 5495443,
+    "type": "Masonry & Precast",
+    "quantity": 67
+  },
+  {
+    "id": 238,
+    "code": "af0f3793-5571-4159-90ed-6c4d4c55afeb",
+    "name": "Plexiglass",
+    "price": 1778849,
+    "type": "Roofing (Metal)",
+    "quantity": 65
+  },
+  {
+    "id": 239,
+    "code": "feeb9b02-8dc6-4b00-88f3-d31d6a2bc600",
+    "name": "Plastic",
+    "price": 3531833,
+    "type": "Epoxy Flooring",
+    "quantity": 48
+  },
+  {
+    "id": 240,
+    "code": "f376977d-e85b-4ed7-9e5f-29f79c510f5a",
+    "name": "Plexiglass",
+    "price": 674152,
+    "type": "Electrical",
+    "quantity": 19
+  },
+  {
+    "id": 241,
+    "code": "f4862aad-5836-422d-98d9-447c3abd7e6d",
+    "name": "Plastic",
+    "price": 8058817,
+    "type": "Termite Control",
+    "quantity": 68
+  },
+  {
+    "id": 242,
+    "code": "273453da-c241-453c-80c0-8b1016b05b2a",
+    "name": "Stone",
+    "price": 1775871,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 92
+  },
+  {
+    "id": 243,
+    "code": "903bf4ca-0392-4d9a-9ed7-325df9ce29e0",
+    "name": "Rubber",
+    "price": 5903541,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 48
+  },
+  {
+    "id": 244,
+    "code": "a6f47a40-465a-42ed-88d4-4ff6166ab55a",
+    "name": "Brass",
+    "price": 1789012,
+    "type": "Roofing (Asphalt)",
+    "quantity": 14
+  },
+  {
+    "id": 245,
+    "code": "7e245219-074d-4b87-9156-7a59042446c5",
+    "name": "Wood",
+    "price": 9098551,
+    "type": "Casework",
+    "quantity": 70
+  },
+  {
+    "id": 246,
+    "code": "c9fb22d0-0f47-4fd4-bedf-34eda68f3663",
+    "name": "Plastic",
+    "price": 8438160,
+    "type": "Asphalt Paving",
+    "quantity": 56
+  },
+  {
+    "id": 247,
+    "code": "3dd8199c-0fa1-4e1a-a6b7-99310cf992dd",
+    "name": "Stone",
+    "price": 8922220,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 24
+  },
+  {
+    "id": 248,
+    "code": "e7358432-8238-445b-833d-ce29f3301667",
+    "name": "Brass",
+    "price": 7067393,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 96
+  },
+  {
+    "id": 249,
+    "code": "959be78a-1ccd-4d5f-8517-88954dc28b67",
+    "name": "Plastic",
+    "price": 2744082,
+    "type": "Roofing (Asphalt)",
+    "quantity": 59
+  },
+  {
+    "id": 250,
+    "code": "ea6e565e-f477-46aa-b6a7-944a94408e8d",
+    "name": "Stone",
+    "price": 1278167,
+    "type": "Roofing (Asphalt)",
+    "quantity": 48
+  },
+  {
+    "id": 251,
+    "code": "0b850f3d-76dd-4693-9d28-3c875e08eead",
+    "name": "Plexiglass",
+    "price": 1457150,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 19
+  },
+  {
+    "id": 252,
+    "code": "f05e0dbf-0779-45c9-b302-74151bc71b01",
+    "name": "Vinyl",
+    "price": 8721750,
+    "type": "Granite Surfaces",
+    "quantity": 20
+  },
+  {
+    "id": 253,
+    "code": "879a5942-940c-47ae-8100-b39f790713cd",
+    "name": "Plexiglass",
+    "price": 5981478,
+    "type": "Roofing (Asphalt)",
+    "quantity": 31
+  },
+  {
+    "id": 254,
+    "code": "4c601af3-6d61-4271-bfd4-f8564d22aec5",
+    "name": "Plastic",
+    "price": 4163736,
+    "type": "Termite Control",
+    "quantity": 60
+  },
+  {
+    "id": 255,
+    "code": "3a4445bc-1e29-4500-be81-fa76a83d1d22",
+    "name": "Plastic",
+    "price": 6673044,
+    "type": "Wall Protection",
+    "quantity": 93
+  },
+  {
+    "id": 256,
+    "code": "c2191445-2f54-41db-9c22-1cd20925b65c",
+    "name": "Plastic",
+    "price": 2791311,
+    "type": "Framing (Steel)",
+    "quantity": 73
+  },
+  {
+    "id": 257,
+    "code": "f6daed04-44a1-44b7-988d-6f84a10706a7",
+    "name": "Glass",
+    "price": 2487350,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 55
+  },
+  {
+    "id": 258,
+    "code": "d8db0d06-6eba-4975-82b0-2bc2f73c5533",
+    "name": "Vinyl",
+    "price": 2438110,
+    "type": "Waterproofing & Caulking",
+    "quantity": 16
+  },
+  {
+    "id": 259,
+    "code": "991ed563-2c44-4fcf-a69c-f3ac0a0eb6f0",
+    "name": "Aluminum",
+    "price": 3564343,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 52
+  },
+  {
+    "id": 260,
+    "code": "4ebaad41-ab49-450c-aebd-10e6ef24cfb3",
+    "name": "Stone",
+    "price": 5147575,
+    "type": "Overhead Doors",
+    "quantity": 23
+  },
+  {
+    "id": 261,
+    "code": "4dde8945-a5ce-4df2-aca1-050d427cc5d7",
+    "name": "Vinyl",
+    "price": 5741240,
+    "type": "Termite Control",
+    "quantity": 37
+  },
+  {
+    "id": 262,
+    "code": "b75a647e-48f5-4f50-bd6b-17da41f68496",
+    "name": "Rubber",
+    "price": 7338973,
+    "type": "Glass & Glazing",
+    "quantity": 91
+  },
+  {
+    "id": 263,
+    "code": "1cab3ca2-d2d0-44a1-8b94-995eed9819c8",
+    "name": "Plastic",
+    "price": 1293609,
+    "type": "Roofing (Metal)",
+    "quantity": 98
+  },
+  {
+    "id": 264,
+    "code": "93dd42ee-9a8b-4af4-817c-bd88bd26b662",
+    "name": "Aluminum",
+    "price": 5848908,
+    "type": "Masonry & Precast",
+    "quantity": 50
+  },
+  {
+    "id": 265,
+    "code": "01e7ad58-fe8e-4618-8997-d7e8eef09fd4",
+    "name": "Rubber",
+    "price": 5031571,
+    "type": "Framing (Wood)",
+    "quantity": 93
+  },
+  {
+    "id": 266,
+    "code": "ca504646-c6cc-4c84-b4d4-1a353d4357d7",
+    "name": "Vinyl",
+    "price": 18020,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 87
+  },
+  {
+    "id": 267,
+    "code": "ad0f599f-0404-4010-9782-2f841aee5e20",
+    "name": "Aluminum",
+    "price": 9122161,
+    "type": "Framing (Wood)",
+    "quantity": 34
+  },
+  {
+    "id": 268,
+    "code": "91bb9fd0-7ae8-47cd-ae03-3a69adddffb0",
+    "name": "Stone",
+    "price": 5738954,
+    "type": "Casework",
+    "quantity": 24
+  },
+  {
+    "id": 269,
+    "code": "a131ab9e-5af5-43c8-8a25-78389702172e",
+    "name": "Rubber",
+    "price": 2721713,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 38
+  },
+  {
+    "id": 270,
+    "code": "781e6a32-c0d8-428b-a6fd-e1061750a2f1",
+    "name": "Granite",
+    "price": 4674245,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 62
+  },
+  {
+    "id": 271,
+    "code": "c10cdf64-7257-4b9a-b42e-774bc3e3f80b",
+    "name": "Steel",
+    "price": 7414133,
+    "type": "Sitework & Site Utilities",
+    "quantity": 92
+  },
+  {
+    "id": 272,
+    "code": "ff6545ba-2707-4812-8b9a-277728c0add6",
+    "name": "Vinyl",
+    "price": 6282695,
+    "type": "Roofing (Asphalt)",
+    "quantity": 94
+  },
+  {
+    "id": 273,
+    "code": "46e0666e-7fb0-4a3c-abbb-fcd1d7bfe352",
+    "name": "Vinyl",
+    "price": 9280031,
+    "type": "Framing (Steel)",
+    "quantity": 2
+  },
+  {
+    "id": 274,
+    "code": "3d41a247-3e2e-4e69-bc24-88b535f0d6b2",
+    "name": "Glass",
+    "price": 9135390,
+    "type": "Roofing (Metal)",
+    "quantity": 12
+  },
+  {
+    "id": 275,
+    "code": "8fdfd5ca-ddcb-403f-a224-45706cfb5b3c",
+    "name": "Wood",
+    "price": 3807827,
+    "type": "Masonry & Precast",
+    "quantity": 86
+  },
+  {
+    "id": 276,
+    "code": "a2e14e5f-9139-49a4-90a2-1ccff92efadb",
+    "name": "Plexiglass",
+    "price": 4838290,
+    "type": "Framing (Steel)",
+    "quantity": 57
+  },
+  {
+    "id": 277,
+    "code": "9ae09b00-93c7-4a73-a44a-f23649ecbc45",
+    "name": "Brass",
+    "price": 2407433,
+    "type": "Fire Protection",
+    "quantity": 90
+  },
+  {
+    "id": 278,
+    "code": "09e0b38f-ba22-4bee-823e-734a3863b224",
+    "name": "Granite",
+    "price": 505098,
+    "type": "Marlite Panels (FED)",
+    "quantity": 63
+  },
+  {
+    "id": 279,
+    "code": "b548604a-6f8c-4282-a8ca-c4d473b91604",
+    "name": "Aluminum",
+    "price": 3922500,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 14
+  },
+  {
+    "id": 280,
+    "code": "7ff693be-71a6-4d3e-96e9-cf76b3ffbbb0",
+    "name": "Plexiglass",
+    "price": 8556903,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 68
+  },
+  {
+    "id": 281,
+    "code": "cf549f23-b8ca-43a8-a6b1-1cf9c2cf9acf",
+    "name": "Rubber",
+    "price": 4189707,
+    "type": "Curb & Gutter",
+    "quantity": 82
+  },
+  {
+    "id": 282,
+    "code": "a070c5c5-5cd7-4e67-9806-312918fdff35",
+    "name": "Plastic",
+    "price": 3923487,
+    "type": "EIFS",
+    "quantity": 53
+  },
+  {
+    "id": 283,
+    "code": "238922cf-dcb3-433d-b580-ded918592d3b",
+    "name": "Granite",
+    "price": 6568801,
+    "type": "Roofing (Metal)",
+    "quantity": 46
+  },
+  {
+    "id": 284,
+    "code": "937b575f-b6dc-48b4-94ac-1021477f8a45",
+    "name": "Glass",
+    "price": 143164,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 41
+  },
+  {
+    "id": 285,
+    "code": "f51c4de0-2845-4197-be93-b435713f706c",
+    "name": "Brass",
+    "price": 507452,
+    "type": "Termite Control",
+    "quantity": 98
+  },
+  {
+    "id": 286,
+    "code": "f16d2207-5d09-4507-9a81-e40f174487a8",
+    "name": "Brass",
+    "price": 2321123,
+    "type": "Overhead Doors",
+    "quantity": 45
+  },
+  {
+    "id": 287,
+    "code": "b5ce3856-a07f-4cdb-8238-754e218b8226",
+    "name": "Rubber",
+    "price": 53884,
+    "type": "Landscaping & Irrigation",
+    "quantity": 94
+  },
+  {
+    "id": 288,
+    "code": "61e81092-c00e-48e1-9f5f-9452e744f6f7",
+    "name": "Granite",
+    "price": 5095525,
+    "type": "Fire Protection",
+    "quantity": 86
+  },
+  {
+    "id": 289,
+    "code": "8bbbf356-8a14-43d1-88f0-fdf16d437333",
+    "name": "Vinyl",
+    "price": 4985265,
+    "type": "Termite Control",
+    "quantity": 12
+  },
+  {
+    "id": 290,
+    "code": "6817f391-bdf0-4e0d-8b2c-85b1aad5d28b",
+    "name": "Granite",
+    "price": 2684974,
+    "type": "RF Shielding",
+    "quantity": 31
+  },
+  {
+    "id": 291,
+    "code": "658e4e22-1b20-46f9-802b-b8c333e2555e",
+    "name": "Vinyl",
+    "price": 6896099,
+    "type": "EIFS",
+    "quantity": 46
+  },
+  {
+    "id": 292,
+    "code": "b6c94d6f-4efa-4067-8a22-9eda981b615a",
+    "name": "Glass",
+    "price": 8777834,
+    "type": "Fire Protection",
+    "quantity": 84
+  },
+  {
+    "id": 293,
+    "code": "582fc8f5-b212-4c89-93c8-8c1e7069c23d",
+    "name": "Vinyl",
+    "price": 8721601,
+    "type": "Soft Flooring and Base",
+    "quantity": 11
+  },
+  {
+    "id": 294,
+    "code": "c0fafec5-dc34-4753-8df9-e0e619a4326e",
+    "name": "Vinyl",
+    "price": 9635861,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 79
+  },
+  {
+    "id": 295,
+    "code": "4811bf8c-0e30-4d31-9156-4d2d91e1fb07",
+    "name": "Brass",
+    "price": 5362576,
+    "type": "Elevator",
+    "quantity": 13
+  },
+  {
+    "id": 296,
+    "code": "126142c8-638b-4b5d-a490-c9bfb2798ca8",
+    "name": "Glass",
+    "price": 8950335,
+    "type": "Curb & Gutter",
+    "quantity": 93
+  },
+  {
+    "id": 297,
+    "code": "c816bbfd-da40-4b0d-a677-0a2d25c32bd1",
+    "name": "Stone",
+    "price": 166984,
+    "type": "EIFS",
+    "quantity": 73
+  },
+  {
+    "id": 298,
+    "code": "937d8bca-2c7f-4ce2-b202-cf423ea25b9d",
+    "name": "Vinyl",
+    "price": 2272395,
+    "type": "Electrical",
+    "quantity": 86
+  },
+  {
+    "id": 299,
+    "code": "cc987009-dbb1-4b47-bb30-3e93b49f15d9",
+    "name": "Rubber",
+    "price": 8969023,
+    "type": "Fire Protection",
+    "quantity": 45
+  },
+  {
+    "id": 300,
+    "code": "6ef6f989-4de4-40a7-9ec3-5aa11e5808b6",
+    "name": "Steel",
+    "price": 6652195,
+    "type": "Asphalt Paving",
+    "quantity": 50
+  },
+  {
+    "id": 301,
+    "code": "056e7701-cde8-424a-968a-cebf6277daa9",
+    "name": "Brass",
+    "price": 9092114,
+    "type": "Termite Control",
+    "quantity": 92
+  },
+  {
+    "id": 302,
+    "code": "98d7c576-6868-4af1-b543-cc69ad9181ab",
+    "name": "Glass",
+    "price": 9513096,
+    "type": "Soft Flooring and Base",
+    "quantity": 88
+  },
+  {
+    "id": 303,
+    "code": "05fa9158-9863-4d97-921b-e90720da3203",
+    "name": "Granite",
+    "price": 5307036,
+    "type": "Fire Protection",
+    "quantity": 51
+  },
+  {
+    "id": 304,
+    "code": "3e0639b8-9e59-4c05-adeb-e96a7cebc3e4",
+    "name": "Rubber",
+    "price": 8726840,
+    "type": "Exterior Signage",
+    "quantity": 19
+  },
+  {
+    "id": 305,
+    "code": "9b521949-d9c3-490e-9344-cd7123e466f8",
+    "name": "Aluminum",
+    "price": 5457125,
+    "type": "Waterproofing & Caulking",
+    "quantity": 37
+  },
+  {
+    "id": 306,
+    "code": "e460a557-6de0-4cc9-8bc1-4c8a2bd86069",
+    "name": "Rubber",
+    "price": 6727430,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 6
+  },
+  {
+    "id": 307,
+    "code": "38ff6a24-1a30-417d-bf3b-352cc9203aef",
+    "name": "Plexiglass",
+    "price": 3330746,
+    "type": "RF Shielding",
+    "quantity": 60
+  },
+  {
+    "id": 308,
+    "code": "9ca18be1-bf5f-4330-a455-11e7756b0d2e",
+    "name": "Steel",
+    "price": 6536986,
+    "type": "Ornamental Railings",
+    "quantity": 11
+  },
+  {
+    "id": 309,
+    "code": "528c9275-f6cd-43e3-ace6-e841d6f5a42f",
+    "name": "Stone",
+    "price": 6639030,
+    "type": "Curb & Gutter",
+    "quantity": 72
+  },
+  {
+    "id": 310,
+    "code": "9a2a8a44-3c8d-449e-ae35-f7187f9e0df7",
+    "name": "Plastic",
+    "price": 6366266,
+    "type": "Roofing (Metal)",
+    "quantity": 55
+  },
+  {
+    "id": 311,
+    "code": "af3c89e5-5859-49cd-875c-3bd66a41909f",
+    "name": "Steel",
+    "price": 3161173,
+    "type": "Prefabricated Aluminum Metal Canopies",
+    "quantity": 3
+  },
+  {
+    "id": 312,
+    "code": "2e65ab18-3008-44e3-80aa-7b9c0c7297b9",
+    "name": "Granite",
+    "price": 2297700,
+    "type": "Elevator",
+    "quantity": 13
+  },
+  {
+    "id": 313,
+    "code": "c9e06a2b-2590-4fd1-92a8-4c9018cf66de",
+    "name": "Steel",
+    "price": 569013,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 11
+  },
+  {
+    "id": 314,
+    "code": "57e86471-e207-4f83-befe-61dd046a897c",
+    "name": "Brass",
+    "price": 8003790,
+    "type": "Drilled Shafts",
+    "quantity": 60
+  },
+  {
+    "id": 315,
+    "code": "d8e96aa8-c2c8-4bfb-a40d-b978db8e4e1a",
+    "name": "Granite",
+    "price": 887185,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 49
+  },
+  {
+    "id": 316,
+    "code": "f42f207d-92c2-4de4-8788-6897cac16092",
+    "name": "Rubber",
+    "price": 1071579,
+    "type": "Casework",
+    "quantity": 71
+  },
+  {
+    "id": 317,
+    "code": "730a3a6d-79cb-4ba0-bfc7-4eca4ca3c52d",
+    "name": "Granite",
+    "price": 8545966,
+    "type": "Landscaping & Irrigation",
+    "quantity": 82
+  },
+  {
+    "id": 318,
+    "code": "75681ba4-5226-497b-80a5-df5c7cd84c6c",
+    "name": "Granite",
+    "price": 2327540,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 8
+  },
+  {
+    "id": 319,
+    "code": "07a603ba-69e6-44d2-a5e0-59324bc51f3f",
+    "name": "Stone",
+    "price": 4256639,
+    "type": "Granite Surfaces",
+    "quantity": 68
+  },
+  {
+    "id": 320,
+    "code": "74a3defd-2d3d-4179-a3d4-aa9e32bf1dcc",
+    "name": "Glass",
+    "price": 4508787,
+    "type": "Fire Protection",
+    "quantity": 94
+  },
+  {
+    "id": 321,
+    "code": "bbc04a76-c77c-49c3-9362-9e795e6650b2",
+    "name": "Aluminum",
+    "price": 2815022,
+    "type": "Granite Surfaces",
+    "quantity": 48
+  },
+  {
+    "id": 322,
+    "code": "83c74c36-2640-4c35-96d9-7de1cf5b6fa3",
+    "name": "Vinyl",
+    "price": 5654972,
+    "type": "Electrical",
+    "quantity": 31
+  },
+  {
+    "id": 323,
+    "code": "533e21cc-d9bf-4117-ae91-26aaa2177451",
+    "name": "Rubber",
+    "price": 4156102,
+    "type": "Overhead Doors",
+    "quantity": 36
+  },
+  {
+    "id": 324,
+    "code": "1369803a-38bc-427e-ab0c-c4475f298b7e",
+    "name": "Wood",
+    "price": 6140573,
+    "type": "Framing (Steel)",
+    "quantity": 55
+  },
+  {
+    "id": 325,
+    "code": "9382f812-5e8b-4857-be87-626d11b3ed7d",
+    "name": "Aluminum",
+    "price": 5586766,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 42
+  },
+  {
+    "id": 326,
+    "code": "d68115c3-8d05-44fc-9d34-7137de4744ec",
+    "name": "Steel",
+    "price": 6818919,
+    "type": "Granite Surfaces",
+    "quantity": 77
+  },
+  {
+    "id": 327,
+    "code": "40e7b5c2-94b5-4955-a17b-78520f6e1273",
+    "name": "Vinyl",
+    "price": 4186730,
+    "type": "Prefabricated Aluminum Metal Canopies",
+    "quantity": 60
+  },
+  {
+    "id": 328,
+    "code": "cf98dcea-12ce-4c78-855e-6df5d837be10",
+    "name": "Plexiglass",
+    "price": 9029803,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 61
+  },
+  {
+    "id": 329,
+    "code": "99fda744-4da4-4c9a-80a4-0c4e9d840805",
+    "name": "Stone",
+    "price": 815578,
+    "type": "Drilled Shafts",
+    "quantity": 70
+  },
+  {
+    "id": 330,
+    "code": "d8a9adf5-5fc1-4a6d-8141-11e9950bdcf4",
+    "name": "Steel",
+    "price": 1738507,
+    "type": "Soft Flooring and Base",
+    "quantity": 37
+  },
+  {
+    "id": 331,
+    "code": "5a242602-b8cb-4ca4-a403-d59a79906055",
+    "name": "Brass",
+    "price": 6735126,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 25
+  },
+  {
+    "id": 332,
+    "code": "364ccd04-df51-436e-9def-b99ab933da97",
+    "name": "Granite",
+    "price": 5877007,
+    "type": "Fire Protection",
+    "quantity": 38
+  },
+  {
+    "id": 333,
+    "code": "78892d61-a5c1-4a40-82ee-75be5b12ef84",
+    "name": "Steel",
+    "price": 6909198,
+    "type": "Masonry & Precast",
+    "quantity": 81
+  },
+  {
+    "id": 334,
+    "code": "0fa1f4da-5853-4ccb-b7fd-84b37f997005",
+    "name": "Rubber",
+    "price": 9527992,
+    "type": "Roofing (Asphalt)",
+    "quantity": 62
+  },
+  {
+    "id": 335,
+    "code": "474abeb4-1d80-45ad-a5b5-f9b76649432b",
+    "name": "Plexiglass",
+    "price": 1643004,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 10
+  },
+  {
+    "id": 336,
+    "code": "bd03b6fb-1840-4c22-ad8b-c613c1899641",
+    "name": "Wood",
+    "price": 6685718,
+    "type": "Overhead Doors",
+    "quantity": 9
+  },
+  {
+    "id": 337,
+    "code": "5ace39af-32ee-4d94-bf97-9e5c33622530",
+    "name": "Brass",
+    "price": 2244058,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 82
+  },
+  {
+    "id": 338,
+    "code": "2c9c2862-aa42-4a01-8a79-a56b702c8521",
+    "name": "Plastic",
+    "price": 9523763,
+    "type": "Drilled Shafts",
+    "quantity": 82
+  },
+  {
+    "id": 339,
+    "code": "e3a407e7-1373-4cf1-bc0f-c00f013db65d",
+    "name": "Aluminum",
+    "price": 8962420,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 98
+  },
+  {
+    "id": 340,
+    "code": "b8ee5c87-9554-4ea0-8529-14f9c04cfb11",
+    "name": "Granite",
+    "price": 3270018,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 75
+  },
+  {
+    "id": 341,
+    "code": "f43f36d2-ad19-4770-a500-d24b09e98604",
+    "name": "Stone",
+    "price": 4776921,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 38
+  },
+  {
+    "id": 342,
+    "code": "600132b8-d484-4a52-8889-be9635e25f84",
+    "name": "Plastic",
+    "price": 3497964,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 100
+  },
+  {
+    "id": 343,
+    "code": "926c27b4-d235-4214-ba71-e25be6f93e96",
+    "name": "Glass",
+    "price": 9237411,
+    "type": "Ornamental Railings",
+    "quantity": 22
+  },
+  {
+    "id": 344,
+    "code": "150966ef-7eec-44d0-92de-4c9356c81622",
+    "name": "Granite",
+    "price": 8299080,
+    "type": "Ornamental Railings",
+    "quantity": 91
+  },
+  {
+    "id": 345,
+    "code": "bf2df919-4c3b-41ca-8105-78738d4b389e",
+    "name": "Aluminum",
+    "price": 5692123,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 31
+  },
+  {
+    "id": 346,
+    "code": "6e3b9ad0-e247-4a06-bbfd-4d2e29a0f406",
+    "name": "Rubber",
+    "price": 992909,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 97
+  },
+  {
+    "id": 347,
+    "code": "87dcbebf-9b3b-4567-8825-50b9703be4bd",
+    "name": "Rubber",
+    "price": 6412977,
+    "type": "Waterproofing & Caulking",
+    "quantity": 80
+  },
+  {
+    "id": 348,
+    "code": "3d1147ce-b0f1-4c9b-bef9-d99087433792",
+    "name": "Granite",
+    "price": 8513179,
+    "type": "Ornamental Railings",
+    "quantity": 91
+  },
+  {
+    "id": 349,
+    "code": "a3bfcbba-59c5-4b89-9dee-a0776b326d3a",
+    "name": "Plastic",
+    "price": 9453431,
+    "type": "Roofing (Metal)",
+    "quantity": 16
+  },
+  {
+    "id": 350,
+    "code": "dbd45c06-ff1b-4ac7-9e72-e599b3437802",
+    "name": "Granite",
+    "price": 4923537,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 56
+  },
+  {
+    "id": 351,
+    "code": "13d2919b-7930-466d-9a39-f8cef902f770",
+    "name": "Granite",
+    "price": 3233126,
+    "type": "Asphalt Paving",
+    "quantity": 14
+  },
+  {
+    "id": 352,
+    "code": "2293c14b-cb8c-4248-8405-107902988192",
+    "name": "Plastic",
+    "price": 8036801,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 17
+  },
+  {
+    "id": 353,
+    "code": "c00c2d63-1075-4863-a5ce-f2a562be468e",
+    "name": "Glass",
+    "price": 617050,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 80
+  },
+  {
+    "id": 354,
+    "code": "ba3c070a-83a6-466d-b6c2-2bac0adcd83e",
+    "name": "Glass",
+    "price": 1581296,
+    "type": "Asphalt Paving",
+    "quantity": 67
+  },
+  {
+    "id": 355,
+    "code": "b90c4a0d-ed23-4f56-a684-2aafbf1d8702",
+    "name": "Brass",
+    "price": 3812117,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 82
+  },
+  {
+    "id": 356,
+    "code": "118c0efe-b37b-42e4-b60e-b2936caaa5ff",
+    "name": "Plexiglass",
+    "price": 8441980,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 94
+  },
+  {
+    "id": 357,
+    "code": "64ebbcd6-9bd8-43f2-92a8-331516c26efd",
+    "name": "Rubber",
+    "price": 395185,
+    "type": "Glass & Glazing",
+    "quantity": 93
+  },
+  {
+    "id": 358,
+    "code": "b0185049-910c-4b2f-991e-6823381967a8",
+    "name": "Vinyl",
+    "price": 8132258,
+    "type": "Roofing (Metal)",
+    "quantity": 78
+  },
+  {
+    "id": 359,
+    "code": "f58f0f48-2260-4d4d-ac29-033359632305",
+    "name": "Brass",
+    "price": 745641,
+    "type": "Termite Control",
+    "quantity": 3
+  },
+  {
+    "id": 360,
+    "code": "a715d725-f6b0-411a-ba84-2449cd799cba",
+    "name": "Steel",
+    "price": 7301723,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 43
+  },
+  {
+    "id": 361,
+    "code": "0d0cfdd5-1939-4a99-956f-de4670ebc7f7",
+    "name": "Glass",
+    "price": 1259072,
+    "type": "EIFS",
+    "quantity": 42
+  },
+  {
+    "id": 362,
+    "code": "7cb4f552-0e80-4f04-8a0e-45cadb75dc2d",
+    "name": "Vinyl",
+    "price": 9196624,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 93
+  },
+  {
+    "id": 363,
+    "code": "882b0991-d125-4f46-96d3-ece3d5b6b3cc",
+    "name": "Plexiglass",
+    "price": 5375878,
+    "type": "HVAC",
+    "quantity": 2
+  },
+  {
+    "id": 364,
+    "code": "151790a6-6303-4295-aecd-7e8899a447a7",
+    "name": "Stone",
+    "price": 1898938,
+    "type": "Framing (Steel)",
+    "quantity": 11
+  },
+  {
+    "id": 365,
+    "code": "7445e2c2-2722-4983-95d4-7e88146737d3",
+    "name": "Plastic",
+    "price": 5722054,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 29
+  },
+  {
+    "id": 366,
+    "code": "344132e1-26a7-4253-a969-29f74c78fa2b",
+    "name": "Stone",
+    "price": 9352125,
+    "type": "EIFS",
+    "quantity": 2
+  },
+  {
+    "id": 367,
+    "code": "284c1742-d0fb-4b5a-a2e7-6c69f547911c",
+    "name": "Granite",
+    "price": 2529793,
+    "type": "Masonry",
+    "quantity": 38
+  },
+  {
+    "id": 368,
+    "code": "ac4aded3-19e4-453e-94bf-120fdbab54f9",
+    "name": "Stone",
+    "price": 734099,
+    "type": "Casework",
+    "quantity": 30
+  },
+  {
+    "id": 369,
+    "code": "dc841e85-be6a-44ac-88e4-f158036edd81",
+    "name": "Stone",
+    "price": 5292175,
+    "type": "Soft Flooring and Base",
+    "quantity": 24
+  },
+  {
+    "id": 370,
+    "code": "a4ce8f31-70f2-4497-a47f-25e22238b931",
+    "name": "Glass",
+    "price": 6686231,
+    "type": "Soft Flooring and Base",
+    "quantity": 60
+  },
+  {
+    "id": 371,
+    "code": "10d53cb7-eb19-4696-83e6-d8ef9ee18f84",
+    "name": "Rubber",
+    "price": 3314826,
+    "type": "Glass & Glazing",
+    "quantity": 27
+  },
+  {
+    "id": 372,
+    "code": "35e8d709-e814-47bd-b1fc-dec4a5a87ebc",
+    "name": "Wood",
+    "price": 9871975,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 85
+  },
+  {
+    "id": 373,
+    "code": "97401c06-0d8d-43ab-81c4-8cee5be5e721",
+    "name": "Vinyl",
+    "price": 5059736,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 45
+  },
+  {
+    "id": 374,
+    "code": "3c83edf7-d371-4fd5-b11b-06fa948cdcdc",
+    "name": "Rubber",
+    "price": 5083646,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 11
+  },
+  {
+    "id": 375,
+    "code": "40c2f008-7dce-4189-8ebd-8e158aa0e2df",
+    "name": "Stone",
+    "price": 7411226,
+    "type": "Framing (Steel)",
+    "quantity": 12
+  },
+  {
+    "id": 376,
+    "code": "eaf73e60-e30a-4aaa-90d2-eeca5b2201f9",
+    "name": "Glass",
+    "price": 5271318,
+    "type": "Roofing (Metal)",
+    "quantity": 7
+  },
+  {
+    "id": 377,
+    "code": "e3f95d23-8b5e-4d22-9ca5-bb93c7fefa64",
+    "name": "Steel",
+    "price": 4696385,
+    "type": "Elevator",
+    "quantity": 77
+  },
+  {
+    "id": 378,
+    "code": "c2ac28b0-c2f1-4e76-9b24-ec1f080754e1",
+    "name": "Plastic",
+    "price": 6035761,
+    "type": "Granite Surfaces",
+    "quantity": 34
+  },
+  {
+    "id": 379,
+    "code": "bc0a9488-0002-47b3-91ba-0f58b3d77323",
+    "name": "Plexiglass",
+    "price": 3128026,
+    "type": "Wall Protection",
+    "quantity": 14
+  },
+  {
+    "id": 380,
+    "code": "12fed8bc-d37a-4e92-98f6-17e163a19217",
+    "name": "Glass",
+    "price": 633535,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 38
+  },
+  {
+    "id": 381,
+    "code": "513b8fc7-c5c4-4148-a54b-3080f58ba242",
+    "name": "Wood",
+    "price": 4326916,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 65
+  },
+  {
+    "id": 382,
+    "code": "a289b217-edc3-4e49-95bd-7e81a12cf6d5",
+    "name": "Brass",
+    "price": 6504802,
+    "type": "Asphalt Paving",
+    "quantity": 92
+  },
+  {
+    "id": 383,
+    "code": "fc1bf6bb-04f2-494e-839e-362eee13e73c",
+    "name": "Rubber",
+    "price": 7984257,
+    "type": "Marlite Panels (FED)",
+    "quantity": 34
+  },
+  {
+    "id": 384,
+    "code": "42ae4f90-5943-491f-82f8-6cc2d9504cb7",
+    "name": "Vinyl",
+    "price": 431445,
+    "type": "Framing (Steel)",
+    "quantity": 73
+  },
+  {
+    "id": 385,
+    "code": "7727fbca-3d3d-47d8-af21-665c2b398c9b",
+    "name": "Granite",
+    "price": 5471404,
+    "type": "Waterproofing & Caulking",
+    "quantity": 81
+  },
+  {
+    "id": 386,
+    "code": "a0edff71-61ab-4502-90ab-9ca733f93116",
+    "name": "Aluminum",
+    "price": 2914995,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 75
+  },
+  {
+    "id": 387,
+    "code": "8a4abcea-defb-42cf-8366-814d70c6fe7b",
+    "name": "Vinyl",
+    "price": 5952445,
+    "type": "Site Furnishings",
+    "quantity": 3
+  },
+  {
+    "id": 388,
+    "code": "2c3e2ba7-782e-42c7-ab9f-ea0bf772c036",
+    "name": "Aluminum",
+    "price": 703501,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 92
+  },
+  {
+    "id": 389,
+    "code": "9ae06ff2-f5d5-4f84-9319-c4dc0f42f75a",
+    "name": "Vinyl",
+    "price": 8961304,
+    "type": "Asphalt Paving",
+    "quantity": 78
+  },
+  {
+    "id": 390,
+    "code": "0f1ec80b-5790-44fa-8eeb-3b3e4c0919b7",
+    "name": "Steel",
+    "price": 9478889,
+    "type": "Site Furnishings",
+    "quantity": 16
+  },
+  {
+    "id": 391,
+    "code": "af4d1aa6-a98a-4b86-8f90-b843e3ed3b85",
+    "name": "Stone",
+    "price": 6833501,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 37
+  },
+  {
+    "id": 392,
+    "code": "225ebd92-2610-44e1-8caa-908fc172bdd0",
+    "name": "Plastic",
+    "price": 5796343,
+    "type": "HVAC",
+    "quantity": 63
+  },
+  {
+    "id": 393,
+    "code": "c6dbbe65-638c-4da0-bd05-e5a4446dc4e1",
+    "name": "Wood",
+    "price": 5984783,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 84
+  },
+  {
+    "id": 394,
+    "code": "fdd613ab-888c-4a44-84bb-37bbc3af7445",
+    "name": "Plexiglass",
+    "price": 8284467,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 57
+  },
+  {
+    "id": 395,
+    "code": "a935381c-c374-4e74-81ce-8ef1006decc0",
+    "name": "Stone",
+    "price": 7872685,
+    "type": "RF Shielding",
+    "quantity": 53
+  },
+  {
+    "id": 396,
+    "code": "735a4159-0c7a-45fc-b7f8-694920b39b4c",
+    "name": "Steel",
+    "price": 3164361,
+    "type": "HVAC",
+    "quantity": 24
+  },
+  {
+    "id": 397,
+    "code": "813614e8-e351-4da8-b3b4-486cf3953691",
+    "name": "Plastic",
+    "price": 1443128,
+    "type": "Roofing (Metal)",
+    "quantity": 89
+  },
+  {
+    "id": 398,
+    "code": "14e569a8-7dfa-481a-8b90-ac1f04c1095d",
+    "name": "Stone",
+    "price": 1017306,
+    "type": "Glass & Glazing",
+    "quantity": 74
+  },
+  {
+    "id": 399,
+    "code": "1e2b7c1e-f014-4b02-8b51-866e19173502",
+    "name": "Steel",
+    "price": 7284597,
+    "type": "HVAC",
+    "quantity": 82
+  },
+  {
+    "id": 400,
+    "code": "465a473a-b642-4196-9e18-1db1f001a49d",
+    "name": "Glass",
+    "price": 5502515,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 75
+  },
+  {
+    "id": 401,
+    "code": "bf603776-283b-4faf-8017-77620bc0ca37",
+    "name": "Glass",
+    "price": 2814032,
+    "type": "Elevator",
+    "quantity": 8
+  },
+  {
+    "id": 402,
+    "code": "f9519cac-e6f7-4917-80d9-78619483d856",
+    "name": "Steel",
+    "price": 7559938,
+    "type": "Waterproofing & Caulking",
+    "quantity": 88
+  },
+  {
+    "id": 403,
+    "code": "09fdcb5c-eb43-4f00-8d1c-b3a87480bc50",
+    "name": "Stone",
+    "price": 6282750,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 6
+  },
+  {
+    "id": 404,
+    "code": "a8f234b5-ccd0-4d0c-bdf9-3b659fe342b0",
+    "name": "Plastic",
+    "price": 6436305,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 75
+  },
+  {
+    "id": 405,
+    "code": "4e1e46bf-a662-4120-9f19-1f57ec50b86f",
+    "name": "Rubber",
+    "price": 442661,
+    "type": "Framing (Steel)",
+    "quantity": 45
+  },
+  {
+    "id": 406,
+    "code": "22b2c035-4519-4ce8-8dc4-9d4eaeab0d70",
+    "name": "Plastic",
+    "price": 368825,
+    "type": "Fire Sprinkler System",
+    "quantity": 56
+  },
+  {
+    "id": 407,
+    "code": "a94ef707-92d1-40ef-acc4-487fe9b835ee",
+    "name": "Steel",
+    "price": 6499727,
+    "type": "Roofing (Asphalt)",
+    "quantity": 89
+  },
+  {
+    "id": 408,
+    "code": "cf5955d6-5430-4988-b9b9-1cebe186c630",
+    "name": "Steel",
+    "price": 5767751,
+    "type": "Exterior Signage",
+    "quantity": 15
+  },
+  {
+    "id": 409,
+    "code": "bcf61a81-442f-4714-97c0-c33a63fdab25",
+    "name": "Wood",
+    "price": 8625470,
+    "type": "Hard Tile & Stone",
+    "quantity": 51
+  },
+  {
+    "id": 410,
+    "code": "f64291a1-1b70-4b07-b76c-afd47803a9b2",
+    "name": "Vinyl",
+    "price": 9419148,
+    "type": "Roofing (Metal)",
+    "quantity": 43
+  },
+  {
+    "id": 411,
+    "code": "f34bd956-06cd-49df-915f-9914bbd1ad8e",
+    "name": "Plexiglass",
+    "price": 2694190,
+    "type": "Site Furnishings",
+    "quantity": 38
+  },
+  {
+    "id": 412,
+    "code": "19240c3f-6a13-4e4f-9466-28036393de0d",
+    "name": "Brass",
+    "price": 1921596,
+    "type": "Framing (Steel)",
+    "quantity": 81
+  },
+  {
+    "id": 413,
+    "code": "0ad65a39-bbf9-4889-a815-8a7915f359c1",
+    "name": "Brass",
+    "price": 4489203,
+    "type": "Soft Flooring and Base",
+    "quantity": 32
+  },
+  {
+    "id": 414,
+    "code": "b69cf2e8-7783-4dbf-a2da-4a40177b4e05",
+    "name": "Aluminum",
+    "price": 5415854,
+    "type": "Asphalt Paving",
+    "quantity": 73
+  },
+  {
+    "id": 415,
+    "code": "c7e83954-8483-48e3-85a3-319ab95340f5",
+    "name": "Aluminum",
+    "price": 7959803,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 65
+  },
+  {
+    "id": 416,
+    "code": "5b84b86c-33c6-43c8-96e5-e688d2803246",
+    "name": "Plexiglass",
+    "price": 8939923,
+    "type": "Site Furnishings",
+    "quantity": 38
+  },
+  {
+    "id": 417,
+    "code": "c5228ba7-a0fe-4e30-82a2-4ea7204cdeae",
+    "name": "Stone",
+    "price": 1829460,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 9
+  },
+  {
+    "id": 418,
+    "code": "7f07eca1-d37e-454f-b504-8206eb02dcac",
+    "name": "Vinyl",
+    "price": 5804280,
+    "type": "Prefabricated Aluminum Metal Canopies",
+    "quantity": 92
+  },
+  {
+    "id": 419,
+    "code": "5ba52359-b837-469c-a58f-3bd4d06299c2",
+    "name": "Plastic",
+    "price": 7417446,
+    "type": "Fire Protection",
+    "quantity": 81
+  },
+  {
+    "id": 420,
+    "code": "b2e7ab09-eb92-4507-b275-1d44f0220197",
+    "name": "Brass",
+    "price": 7452694,
+    "type": "Electrical",
+    "quantity": 96
+  },
+  {
+    "id": 421,
+    "code": "9b6a0d6d-2d9f-40f4-8dff-0ba75f022fd8",
+    "name": "Granite",
+    "price": 4235167,
+    "type": "RF Shielding",
+    "quantity": 46
+  },
+  {
+    "id": 422,
+    "code": "247aa2a7-a503-4d6f-93eb-82ab5bc48e93",
+    "name": "Plastic",
+    "price": 2435091,
+    "type": "Elevator",
+    "quantity": 84
+  },
+  {
+    "id": 423,
+    "code": "f8f2d999-1ea5-44b2-864c-854e3f6b5c5c",
+    "name": "Plastic",
+    "price": 1437774,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 70
+  },
+  {
+    "id": 424,
+    "code": "2a5a23d0-5df3-4029-9d5c-e94acd4c94e5",
+    "name": "Vinyl",
+    "price": 5179583,
+    "type": "Framing (Steel)",
+    "quantity": 64
+  },
+  {
+    "id": 425,
+    "code": "6c07f85f-5792-47d5-b5d0-8f719a8f6cc6",
+    "name": "Rubber",
+    "price": 3323595,
+    "type": "Termite Control",
+    "quantity": 11
+  },
+  {
+    "id": 426,
+    "code": "3596c1a2-a6bf-4484-94fc-95608491391a",
+    "name": "Aluminum",
+    "price": 7979591,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 54
+  },
+  {
+    "id": 427,
+    "code": "c8535638-3b97-419c-b3b9-a986a4ed345a",
+    "name": "Brass",
+    "price": 1725986,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 4
+  },
+  {
+    "id": 428,
+    "code": "2c869c68-34ee-477f-bbf3-8c08b2671f6e",
+    "name": "Wood",
+    "price": 4105280,
+    "type": "Sitework & Site Utilities",
+    "quantity": 27
+  },
+  {
+    "id": 429,
+    "code": "d5fe8247-8fbd-4d4d-a4c4-d66e1189efd4",
+    "name": "Granite",
+    "price": 6373818,
+    "type": "Casework",
+    "quantity": 32
+  },
+  {
+    "id": 430,
+    "code": "a258d368-01b3-4d93-82fa-fa66f083c448",
+    "name": "Glass",
+    "price": 7496341,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 61
+  },
+  {
+    "id": 431,
+    "code": "cec77104-868e-4af7-9b10-e845e7c345c9",
+    "name": "Aluminum",
+    "price": 5032425,
+    "type": "Roofing (Metal)",
+    "quantity": 81
+  },
+  {
+    "id": 432,
+    "code": "813cd110-6c20-412d-b80f-27003f8e2b10",
+    "name": "Rubber",
+    "price": 1852456,
+    "type": "Waterproofing & Caulking",
+    "quantity": 86
+  },
+  {
+    "id": 433,
+    "code": "9dc35350-6c43-4656-9bf0-75a798fefd83",
+    "name": "Granite",
+    "price": 7209142,
+    "type": "Epoxy Flooring",
+    "quantity": 97
+  },
+  {
+    "id": 434,
+    "code": "45fc38e1-307c-4c5f-a0c5-6b1affd8cd28",
+    "name": "Rubber",
+    "price": 3392630,
+    "type": "RF Shielding",
+    "quantity": 58
+  },
+  {
+    "id": 435,
+    "code": "96bc17a3-2166-44cc-a599-acc815c68ac5",
+    "name": "Aluminum",
+    "price": 4781876,
+    "type": "Ornamental Railings",
+    "quantity": 97
+  },
+  {
+    "id": 436,
+    "code": "deb995ff-44ff-4ff1-bf9c-c4e1d282356b",
+    "name": "Stone",
+    "price": 6441322,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 80
+  },
+  {
+    "id": 437,
+    "code": "aaa14ee2-77c9-4277-8415-95ad2fab909c",
+    "name": "Vinyl",
+    "price": 5166631,
+    "type": "Epoxy Flooring",
+    "quantity": 46
+  },
+  {
+    "id": 438,
+    "code": "494ae5ce-bce0-4deb-9414-cbf7896e1557",
+    "name": "Glass",
+    "price": 3710527,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 11
+  },
+  {
+    "id": 439,
+    "code": "7a0cfd20-e93b-48f6-ba9c-440041ffc670",
+    "name": "Plexiglass",
+    "price": 3602984,
+    "type": "Hard Tile & Stone",
+    "quantity": 62
+  },
+  {
+    "id": 440,
+    "code": "9b608407-3ccd-49ac-8d95-45e41b309b9c",
+    "name": "Aluminum",
+    "price": 7865509,
+    "type": "Glass & Glazing",
+    "quantity": 67
+  },
+  {
+    "id": 441,
+    "code": "78899348-7cd0-4061-93e6-ac08e95da60d",
+    "name": "Vinyl",
+    "price": 8032043,
+    "type": "Curb & Gutter",
+    "quantity": 4
+  },
+  {
+    "id": 442,
+    "code": "b2670716-c179-4730-a086-2cf1e3ea0a53",
+    "name": "Glass",
+    "price": 3548432,
+    "type": "Framing (Wood)",
+    "quantity": 13
+  },
+  {
+    "id": 443,
+    "code": "6afe8e28-4a0c-4103-bf61-8673661bb163",
+    "name": "Aluminum",
+    "price": 7573206,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 73
+  },
+  {
+    "id": 444,
+    "code": "b9496e61-380f-47b5-b16c-9716f06ffef1",
+    "name": "Granite",
+    "price": 8086841,
+    "type": "Framing (Wood)",
+    "quantity": 88
+  },
+  {
+    "id": 445,
+    "code": "3915d39c-c555-4d81-bc42-407e40307996",
+    "name": "Vinyl",
+    "price": 3056763,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 14
+  },
+  {
+    "id": 446,
+    "code": "2d899521-5e16-4f03-97bd-d7e52df31ef9",
+    "name": "Brass",
+    "price": 3256565,
+    "type": "Exterior Signage",
+    "quantity": 64
+  },
+  {
+    "id": 447,
+    "code": "52b522e7-bcaf-48a1-97a0-e02a4165a576",
+    "name": "Aluminum",
+    "price": 4061802,
+    "type": "EIFS",
+    "quantity": 42
+  },
+  {
+    "id": 448,
+    "code": "b3de3ea7-77cd-4800-958b-c11cb0b16ef2",
+    "name": "Wood",
+    "price": 6140441,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 16
+  },
+  {
+    "id": 449,
+    "code": "47a64121-0657-499d-bace-999bac2cd7a5",
+    "name": "Granite",
+    "price": 84548,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 26
+  },
+  {
+    "id": 450,
+    "code": "02123215-334b-42ab-ba97-bfb03c9b841b",
+    "name": "Aluminum",
+    "price": 4155438,
+    "type": "Landscaping & Irrigation",
+    "quantity": 70
+  },
+  {
+    "id": 451,
+    "code": "35c40837-11f6-4b7e-9bdd-bca87de9ec04",
+    "name": "Plexiglass",
+    "price": 244629,
+    "type": "Electrical",
+    "quantity": 44
+  },
+  {
+    "id": 452,
+    "code": "395d71a5-f3fd-47e8-a6d5-da634e712d8c",
+    "name": "Plexiglass",
+    "price": 43602,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 57
+  },
+  {
+    "id": 453,
+    "code": "7ba505f6-ab09-4a7c-9162-26751c6915a1",
+    "name": "Steel",
+    "price": 1917223,
+    "type": "Electrical",
+    "quantity": 50
+  },
+  {
+    "id": 454,
+    "code": "02e3e920-f255-4b38-bab0-4a669c6eda12",
+    "name": "Vinyl",
+    "price": 9170934,
+    "type": "Framing (Steel)",
+    "quantity": 85
+  },
+  {
+    "id": 455,
+    "code": "be72f860-6cb6-4174-ad3c-4e024e41262b",
+    "name": "Glass",
+    "price": 4548138,
+    "type": "Exterior Signage",
+    "quantity": 4
+  },
+  {
+    "id": 456,
+    "code": "a6f5f5e6-a624-4f1e-bc17-f2af23bd7b53",
+    "name": "Rubber",
+    "price": 928183,
+    "type": "Elevator",
+    "quantity": 78
+  },
+  {
+    "id": 457,
+    "code": "5789d445-f551-453e-a855-7f1e3f0b29d4",
+    "name": "Rubber",
+    "price": 7039087,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 16
+  },
+  {
+    "id": 458,
+    "code": "caf251eb-bee5-4f96-a48a-87579c761636",
+    "name": "Plexiglass",
+    "price": 7123264,
+    "type": "Termite Control",
+    "quantity": 7
+  },
+  {
+    "id": 459,
+    "code": "4b856cde-484a-4032-89e5-ad887a6e909b",
+    "name": "Aluminum",
+    "price": 7383331,
+    "type": "Asphalt Paving",
+    "quantity": 26
+  },
+  {
+    "id": 460,
+    "code": "c5ed5fe7-a9ce-45a7-95e8-1ed40638d6dd",
+    "name": "Steel",
+    "price": 4999533,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 11
+  },
+  {
+    "id": 461,
+    "code": "c4bd6de6-1430-46a0-bf19-01993f2ae4f5",
+    "name": "Stone",
+    "price": 3235633,
+    "type": "Framing (Wood)",
+    "quantity": 96
+  },
+  {
+    "id": 462,
+    "code": "72d20467-634a-48af-be11-e9222fbaa791",
+    "name": "Vinyl",
+    "price": 5291415,
+    "type": "Prefabricated Aluminum Metal Canopies",
+    "quantity": 22
+  },
+  {
+    "id": 463,
+    "code": "f73ea250-a401-4487-a793-3fbfc61b9d3d",
+    "name": "Aluminum",
+    "price": 1415064,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 94
+  },
+  {
+    "id": 464,
+    "code": "3d4fd1fa-f52c-40c8-b85e-4752d367ba08",
+    "name": "Vinyl",
+    "price": 5061817,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 40
+  },
+  {
+    "id": 465,
+    "code": "43b2e07c-1176-4c0c-954e-449d0519c1e9",
+    "name": "Plexiglass",
+    "price": 2357588,
+    "type": "HVAC",
+    "quantity": 50
+  },
+  {
+    "id": 466,
+    "code": "17cfd495-f857-4eaa-92b8-41c4e235c3b0",
+    "name": "Rubber",
+    "price": 3476906,
+    "type": "Granite Surfaces",
+    "quantity": 99
+  },
+  {
+    "id": 467,
+    "code": "230ab036-5797-4aef-8960-2bd580a7d31a",
+    "name": "Steel",
+    "price": 8687574,
+    "type": "Sitework & Site Utilities",
+    "quantity": 59
+  },
+  {
+    "id": 468,
+    "code": "2e8720ff-596a-4473-9c81-107c9635abcc",
+    "name": "Rubber",
+    "price": 4729062,
+    "type": "Ornamental Railings",
+    "quantity": 97
+  },
+  {
+    "id": 469,
+    "code": "f7294536-0fa3-476d-820d-17669855b8fa",
+    "name": "Aluminum",
+    "price": 8285408,
+    "type": "Exterior Signage",
+    "quantity": 62
+  },
+  {
+    "id": 470,
+    "code": "27c13243-113e-4116-bca8-7720e9eba260",
+    "name": "Brass",
+    "price": 9342995,
+    "type": "Fire Sprinkler System",
+    "quantity": 40
+  },
+  {
+    "id": 471,
+    "code": "a23e45bd-6c0e-478d-a973-e499806fc4c4",
+    "name": "Granite",
+    "price": 7674180,
+    "type": "Ornamental Railings",
+    "quantity": 10
+  },
+  {
+    "id": 472,
+    "code": "ccde6f1f-41e3-46a7-bf50-7fc0fc3d46db",
+    "name": "Brass",
+    "price": 6554157,
+    "type": "Curb & Gutter",
+    "quantity": 52
+  },
+  {
+    "id": 473,
+    "code": "5fca43ea-cc6a-4199-8dd6-2d68ddd11ece",
+    "name": "Plastic",
+    "price": 9529142,
+    "type": "Granite Surfaces",
+    "quantity": 12
+  },
+  {
+    "id": 474,
+    "code": "3851ad3e-7390-4b17-983d-0e784c8f0e78",
+    "name": "Steel",
+    "price": 5941119,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 2
+  },
+  {
+    "id": 475,
+    "code": "954137ba-5ffa-4f0e-8de2-131c3f189873",
+    "name": "Rubber",
+    "price": 3083506,
+    "type": "Glass & Glazing",
+    "quantity": 27
+  },
+  {
+    "id": 476,
+    "code": "bba668c5-baed-49c6-b1ae-c9d5f64c8c81",
+    "name": "Rubber",
+    "price": 6170347,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 57
+  },
+  {
+    "id": 477,
+    "code": "53a11682-0c96-4835-b005-558ca3c887ca",
+    "name": "Wood",
+    "price": 352010,
+    "type": "Drilled Shafts",
+    "quantity": 99
+  },
+  {
+    "id": 478,
+    "code": "f982ebfa-eeaf-4203-b446-0f22ea4ce719",
+    "name": "Aluminum",
+    "price": 5898573,
+    "type": "Asphalt Paving",
+    "quantity": 19
+  },
+  {
+    "id": 479,
+    "code": "c0ebf613-b2d6-44c9-858f-98e9e7e38a29",
+    "name": "Plexiglass",
+    "price": 8223312,
+    "type": "RF Shielding",
+    "quantity": 62
+  },
+  {
+    "id": 480,
+    "code": "2b8fc208-935d-45ce-a8df-897da3b1e1a4",
+    "name": "Granite",
+    "price": 7421133,
+    "type": "Fire Protection",
+    "quantity": 25
+  },
+  {
+    "id": 481,
+    "code": "31cc9f05-d9f8-499b-8fc3-8d93cb0a4b5f",
+    "name": "Steel",
+    "price": 4282750,
+    "type": "Ornamental Railings",
+    "quantity": 12
+  },
+  {
+    "id": 482,
+    "code": "58f155e7-2bfb-4b21-991f-9b0718fdf98a",
+    "name": "Granite",
+    "price": 5193522,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 63
+  },
+  {
+    "id": 483,
+    "code": "5231b86e-be54-441f-a229-be576687090d",
+    "name": "Plexiglass",
+    "price": 5201650,
+    "type": "Curb & Gutter",
+    "quantity": 23
+  },
+  {
+    "id": 484,
+    "code": "bb6ae1e2-343b-41af-af29-123df60d9af3",
+    "name": "Glass",
+    "price": 804890,
+    "type": "Roofing (Metal)",
+    "quantity": 27
+  },
+  {
+    "id": 485,
+    "code": "faece68b-7741-4099-ae03-aa7285b9d993",
+    "name": "Plexiglass",
+    "price": 969962,
+    "type": "RF Shielding",
+    "quantity": 31
+  },
+  {
+    "id": 486,
+    "code": "9907d692-38a4-4e80-9689-20e10374e852",
+    "name": "Vinyl",
+    "price": 9930337,
+    "type": "Ornamental Railings",
+    "quantity": 22
+  },
+  {
+    "id": 487,
+    "code": "58c62d8d-5de6-416a-b412-bd997d641cf1",
+    "name": "Wood",
+    "price": 5773620,
+    "type": "Masonry",
+    "quantity": 4
+  },
+  {
+    "id": 488,
+    "code": "1d8ec10a-ea0f-4ff2-9ddf-7c90bfa1d8ba",
+    "name": "Stone",
+    "price": 2321782,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 17
+  },
+  {
+    "id": 489,
+    "code": "2f7196b3-c3c2-4418-b5a9-d2735170f54f",
+    "name": "Vinyl",
+    "price": 8963101,
+    "type": "Roofing (Asphalt)",
+    "quantity": 27
+  },
+  {
+    "id": 490,
+    "code": "162628ae-e62f-4240-a9b4-c930b674d80c",
+    "name": "Plexiglass",
+    "price": 9903714,
+    "type": "EIFS",
+    "quantity": 24
+  },
+  {
+    "id": 491,
+    "code": "84cda39d-686e-4061-8e49-c0dfa22a9032",
+    "name": "Steel",
+    "price": 585820,
+    "type": "Framing (Wood)",
+    "quantity": 55
+  },
+  {
+    "id": 492,
+    "code": "20ef1891-17dc-4fe0-9f04-0e1829ba26d0",
+    "name": "Brass",
+    "price": 7256403,
+    "type": "Casework",
+    "quantity": 45
+  },
+  {
+    "id": 493,
+    "code": "78cb25d5-071a-4e71-b7ef-c94a03ede950",
+    "name": "Rubber",
+    "price": 6091166,
+    "type": "Granite Surfaces",
+    "quantity": 1
+  },
+  {
+    "id": 494,
+    "code": "cc9e88f7-3964-4d64-b6c8-faceeda2d05b",
+    "name": "Aluminum",
+    "price": 9950474,
+    "type": "Roofing (Metal)",
+    "quantity": 1
+  },
+  {
+    "id": 495,
+    "code": "f9cd133d-3961-4aeb-84be-6f91d4a020da",
+    "name": "Vinyl",
+    "price": 2424830,
+    "type": "Masonry & Precast",
+    "quantity": 51
+  },
+  {
+    "id": 496,
+    "code": "df07c14e-f4e1-436c-96b9-67dc894d99d2",
+    "name": "Aluminum",
+    "price": 6455033,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 33
+  },
+  {
+    "id": 497,
+    "code": "cca74397-f74d-4b47-9378-725deb531e9b",
+    "name": "Steel",
+    "price": 7521570,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 31
+  },
+  {
+    "id": 498,
+    "code": "d852d6f6-00ef-4df8-b54b-377f61ebe24a",
+    "name": "Steel",
+    "price": 6134323,
+    "type": "Landscaping & Irrigation",
+    "quantity": 3
+  },
+  {
+    "id": 499,
+    "code": "73d81c05-d2fc-46e7-b979-54154e6b8ad6",
+    "name": "Glass",
+    "price": 4013202,
+    "type": "Sitework & Site Utilities",
+    "quantity": 19
+  },
+  {
+    "id": 500,
+    "code": "6f5cb668-ff3a-461b-95cd-a9fc05209bca",
+    "name": "Rubber",
+    "price": 2450982,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 13
+  },
+  {
+    "id": 501,
+    "code": "7156f2d3-0825-4710-8c19-a6236d0bde92",
+    "name": "Brass",
+    "price": 6616492,
+    "type": "Sitework & Site Utilities",
+    "quantity": 100
+  },
+  {
+    "id": 502,
+    "code": "51d765cd-8718-48de-b4a3-d1cc309eb5f1",
+    "name": "Plastic",
+    "price": 9457598,
+    "type": "Fire Sprinkler System",
+    "quantity": 58
+  },
+  {
+    "id": 503,
+    "code": "6670013d-06c4-4a3a-976a-b5bb70b8e9c0",
+    "name": "Brass",
+    "price": 3603963,
+    "type": "Ornamental Railings",
+    "quantity": 97
+  },
+  {
+    "id": 504,
+    "code": "b174dfac-8bd2-4e0c-aa58-f75ba4ce4d53",
+    "name": "Wood",
+    "price": 7827768,
+    "type": "Roofing (Asphalt)",
+    "quantity": 27
+  },
+  {
+    "id": 505,
+    "code": "7cff3baf-f99b-4a96-a7d0-4fd5a75cc18e",
+    "name": "Steel",
+    "price": 8724264,
+    "type": "Curb & Gutter",
+    "quantity": 42
+  },
+  {
+    "id": 506,
+    "code": "55c69abd-4678-4488-bcad-60525b039a68",
+    "name": "Vinyl",
+    "price": 9688290,
+    "type": "Framing (Steel)",
+    "quantity": 42
+  },
+  {
+    "id": 507,
+    "code": "8c4c2c51-c9c6-40ed-b7cb-85e2fe07bb1e",
+    "name": "Glass",
+    "price": 1050514,
+    "type": "Framing (Wood)",
+    "quantity": 34
+  },
+  {
+    "id": 508,
+    "code": "09979e4b-6e22-45de-a015-d4b56dd6435f",
+    "name": "Granite",
+    "price": 8692158,
+    "type": "Casework",
+    "quantity": 49
+  },
+  {
+    "id": 509,
+    "code": "cdbfb7f1-5b9d-4ebf-91a6-e672976ef809",
+    "name": "Steel",
+    "price": 2122990,
+    "type": "Masonry",
+    "quantity": 18
+  },
+  {
+    "id": 510,
+    "code": "24acb211-5e4b-4b68-992a-ad4c93a4f39c",
+    "name": "Aluminum",
+    "price": 2062086,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 89
+  },
+  {
+    "id": 511,
+    "code": "24842094-aca2-44b2-86bc-93c6d1851610",
+    "name": "Wood",
+    "price": 8834432,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 81
+  },
+  {
+    "id": 512,
+    "code": "aed4a1c1-7739-4a3e-ad44-7764683aae01",
+    "name": "Vinyl",
+    "price": 4675437,
+    "type": "HVAC",
+    "quantity": 90
+  },
+  {
+    "id": 513,
+    "code": "e5cf712e-b880-4636-9eee-66f2521a0a97",
+    "name": "Glass",
+    "price": 3279251,
+    "type": "Hard Tile & Stone",
+    "quantity": 8
+  },
+  {
+    "id": 514,
+    "code": "632b1f04-061c-41db-98c3-59294628251f",
+    "name": "Rubber",
+    "price": 4422728,
+    "type": "Roofing (Metal)",
+    "quantity": 9
+  },
+  {
+    "id": 515,
+    "code": "33a554c8-8ebd-4239-9dda-37be34ce9cf4",
+    "name": "Brass",
+    "price": 9476865,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 23
+  },
+  {
+    "id": 516,
+    "code": "165bc471-3b9a-4ddb-b6d4-aeaa010a294c",
+    "name": "Vinyl",
+    "price": 8796932,
+    "type": "Granite Surfaces",
+    "quantity": 34
+  },
+  {
+    "id": 517,
+    "code": "10c9f678-88a5-4fdd-9a12-2de45af366dd",
+    "name": "Rubber",
+    "price": 631294,
+    "type": "Prefabricated Aluminum Metal Canopies",
+    "quantity": 64
+  },
+  {
+    "id": 518,
+    "code": "67f07dee-f117-4389-89c3-d3e0cefb8b12",
+    "name": "Glass",
+    "price": 1266132,
+    "type": "Masonry",
+    "quantity": 3
+  },
+  {
+    "id": 519,
+    "code": "04800e4b-2352-440d-9f67-6431968b3d4e",
+    "name": "Rubber",
+    "price": 380543,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 18
+  },
+  {
+    "id": 520,
+    "code": "c432bf26-24d4-4b17-ae60-e6c5780f320d",
+    "name": "Aluminum",
+    "price": 7154295,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 92
+  },
+  {
+    "id": 521,
+    "code": "34bad700-ee6e-4cb6-bfab-0c3f85c8aede",
+    "name": "Glass",
+    "price": 9649553,
+    "type": "Asphalt Paving",
+    "quantity": 7
+  },
+  {
+    "id": 522,
+    "code": "bb1a1901-e867-45d1-a424-071c119be093",
+    "name": "Aluminum",
+    "price": 3917496,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 28
+  },
+  {
+    "id": 523,
+    "code": "aa6c429a-e966-4a7c-b718-b85a3e2b7641",
+    "name": "Plexiglass",
+    "price": 4443540,
+    "type": "Ornamental Railings",
+    "quantity": 63
+  },
+  {
+    "id": 524,
+    "code": "3bac64a8-31fd-47e7-a3b8-99fd0d2eeea4",
+    "name": "Granite",
+    "price": 2345744,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 35
+  },
+  {
+    "id": 525,
+    "code": "a1df1084-4f3d-4aef-985f-39eeccde166d",
+    "name": "Rubber",
+    "price": 6316016,
+    "type": "Termite Control",
+    "quantity": 89
+  },
+  {
+    "id": 526,
+    "code": "0b6c1098-91b0-4e8a-8363-54cd7ffc78f4",
+    "name": "Steel",
+    "price": 6948960,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 55
+  },
+  {
+    "id": 527,
+    "code": "92be5034-f8bd-4b6d-882d-f72b266171d5",
+    "name": "Glass",
+    "price": 9333048,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 30
+  },
+  {
+    "id": 528,
+    "code": "f68a3243-f040-4942-aeec-492f3422bde5",
+    "name": "Wood",
+    "price": 8816111,
+    "type": "Epoxy Flooring",
+    "quantity": 43
+  },
+  {
+    "id": 529,
+    "code": "6d65bf10-087f-423f-b326-41e0418e85bf",
+    "name": "Granite",
+    "price": 4075165,
+    "type": "Roofing (Asphalt)",
+    "quantity": 42
+  },
+  {
+    "id": 530,
+    "code": "c568c28b-6686-43d2-af7b-32a0efe6ae17",
+    "name": "Wood",
+    "price": 9685737,
+    "type": "Granite Surfaces",
+    "quantity": 98
+  },
+  {
+    "id": 531,
+    "code": "cd292fe9-6562-48ef-b127-452fb48208ab",
+    "name": "Glass",
+    "price": 1549264,
+    "type": "Asphalt Paving",
+    "quantity": 18
+  },
+  {
+    "id": 532,
+    "code": "309c55db-71db-4ac9-bdf1-5295870c0bea",
+    "name": "Stone",
+    "price": 5817188,
+    "type": "Glass & Glazing",
+    "quantity": 22
+  },
+  {
+    "id": 533,
+    "code": "59345d57-7bdc-415a-9433-8136aed7eb22",
+    "name": "Aluminum",
+    "price": 1205,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 55
+  },
+  {
+    "id": 534,
+    "code": "e341bbb0-1da6-40b6-9c37-df8b29f72e5c",
+    "name": "Granite",
+    "price": 3521410,
+    "type": "Drilled Shafts",
+    "quantity": 12
+  },
+  {
+    "id": 535,
+    "code": "0f573380-3a85-4aea-9a40-368f9993f429",
+    "name": "Steel",
+    "price": 523447,
+    "type": "Marlite Panels (FED)",
+    "quantity": 88
+  },
+  {
+    "id": 536,
+    "code": "32fe54ea-9918-4a4e-9d8a-138495d933c4",
+    "name": "Stone",
+    "price": 6015845,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 98
+  },
+  {
+    "id": 537,
+    "code": "430a1d08-1ed2-4dab-9319-37b2a95f3766",
+    "name": "Rubber",
+    "price": 5686462,
+    "type": "Wall Protection",
+    "quantity": 25
+  },
+  {
+    "id": 538,
+    "code": "30ddabf2-6294-4e32-80fb-14719a2b60ba",
+    "name": "Glass",
+    "price": 741224,
+    "type": "Masonry & Precast",
+    "quantity": 85
+  },
+  {
+    "id": 539,
+    "code": "7df3a0fc-775a-4a8c-a79a-1f6d2cc0803b",
+    "name": "Wood",
+    "price": 3638278,
+    "type": "Marlite Panels (FED)",
+    "quantity": 26
+  },
+  {
+    "id": 540,
+    "code": "60ce9784-75c7-4569-a34f-e4f9cfd85f76",
+    "name": "Plastic",
+    "price": 5599910,
+    "type": "Ornamental Railings",
+    "quantity": 81
+  },
+  {
+    "id": 541,
+    "code": "9fc77412-0a14-4328-b14e-280fa5000df6",
+    "name": "Wood",
+    "price": 1101235,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 39
+  },
+  {
+    "id": 542,
+    "code": "15519544-f616-4255-8bf9-8876633917bc",
+    "name": "Rubber",
+    "price": 2355161,
+    "type": "Soft Flooring and Base",
+    "quantity": 41
+  },
+  {
+    "id": 543,
+    "code": "df3de77f-3c59-4e5e-ac2d-0eb246de5c5f",
+    "name": "Vinyl",
+    "price": 1833429,
+    "type": "Asphalt Paving",
+    "quantity": 90
+  },
+  {
+    "id": 544,
+    "code": "dbf1feed-da4e-4c72-8268-ad5687e967e1",
+    "name": "Stone",
+    "price": 3772480,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 85
+  },
+  {
+    "id": 545,
+    "code": "5d9bada6-983a-4c86-a6f5-c211d573913e",
+    "name": "Vinyl",
+    "price": 9509046,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 28
+  },
+  {
+    "id": 546,
+    "code": "8413728f-6cb2-471c-8614-cf7892c485b3",
+    "name": "Granite",
+    "price": 9280149,
+    "type": "Exterior Signage",
+    "quantity": 96
+  },
+  {
+    "id": 547,
+    "code": "0d501fea-a7ef-45c9-aa26-41a0c3c9ee74",
+    "name": "Steel",
+    "price": 8866204,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 49
+  },
+  {
+    "id": 548,
+    "code": "7685f03a-9c39-4c06-bbe0-4ef41e983100",
+    "name": "Wood",
+    "price": 2139652,
+    "type": "Wall Protection",
+    "quantity": 47
+  },
+  {
+    "id": 549,
+    "code": "20fef89d-1cd5-413b-bb06-f916556b3857",
+    "name": "Wood",
+    "price": 1517359,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 81
+  },
+  {
+    "id": 550,
+    "code": "151e88dd-a4f9-46d8-a3d6-82f81fccf230",
+    "name": "Steel",
+    "price": 9504462,
+    "type": "HVAC",
+    "quantity": 96
+  },
+  {
+    "id": 551,
+    "code": "d9e1d3b8-f1b8-4d3f-8fb1-389ac3563476",
+    "name": "Wood",
+    "price": 4727882,
+    "type": "Roofing (Metal)",
+    "quantity": 85
+  },
+  {
+    "id": 552,
+    "code": "7def2237-5607-408e-b1c8-1d035ad50b19",
+    "name": "Plexiglass",
+    "price": 5765249,
+    "type": "Wall Protection",
+    "quantity": 83
+  },
+  {
+    "id": 553,
+    "code": "5e44ea9a-4b06-40f9-8763-a998b7093cd6",
+    "name": "Vinyl",
+    "price": 4775856,
+    "type": "HVAC",
+    "quantity": 27
+  },
+  {
+    "id": 554,
+    "code": "42148605-2fef-46e9-86ab-ed2ee01dd26f",
+    "name": "Aluminum",
+    "price": 6171860,
+    "type": "Roofing (Metal)",
+    "quantity": 20
+  },
+  {
+    "id": 555,
+    "code": "8b3dea10-ee73-4d81-861b-717350543b2a",
+    "name": "Vinyl",
+    "price": 8696642,
+    "type": "Marlite Panels (FED)",
+    "quantity": 76
+  },
+  {
+    "id": 556,
+    "code": "d504af6d-0eb1-46a0-b6b3-4c9968bcb2df",
+    "name": "Stone",
+    "price": 5458384,
+    "type": "RF Shielding",
+    "quantity": 31
+  },
+  {
+    "id": 557,
+    "code": "0527e91c-1a45-4622-81a4-1c0752fcc78e",
+    "name": "Rubber",
+    "price": 4012809,
+    "type": "Asphalt Paving",
+    "quantity": 65
+  },
+  {
+    "id": 558,
+    "code": "4bf104ed-dc5e-4c17-ad14-c1f22bc9ec36",
+    "name": "Plexiglass",
+    "price": 1339199,
+    "type": "Granite Surfaces",
+    "quantity": 30
+  },
+  {
+    "id": 559,
+    "code": "0b878856-ed84-4185-bf0a-9ba41a729f58",
+    "name": "Steel",
+    "price": 6923716,
+    "type": "Masonry & Precast",
+    "quantity": 77
+  },
+  {
+    "id": 560,
+    "code": "80d11b26-8a33-44ac-9497-6e9396f3798a",
+    "name": "Vinyl",
+    "price": 5999562,
+    "type": "Ornamental Railings",
+    "quantity": 82
+  },
+  {
+    "id": 561,
+    "code": "80fc8e89-e173-405d-a231-2492ae7a10b7",
+    "name": "Plexiglass",
+    "price": 1237687,
+    "type": "RF Shielding",
+    "quantity": 72
+  },
+  {
+    "id": 562,
+    "code": "dbc6e9a1-db03-4ce4-8173-b61d7cd41023",
+    "name": "Vinyl",
+    "price": 1958274,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 72
+  },
+  {
+    "id": 563,
+    "code": "4ba95be8-3b3a-4628-80c4-d17213aac6f7",
+    "name": "Granite",
+    "price": 4580943,
+    "type": "Glass & Glazing",
+    "quantity": 38
+  },
+  {
+    "id": 564,
+    "code": "cfce106c-ef76-4733-9c3f-0f11267476cc",
+    "name": "Plexiglass",
+    "price": 3498577,
+    "type": "Waterproofing & Caulking",
+    "quantity": 91
+  },
+  {
+    "id": 565,
+    "code": "a6a7ad75-11c7-495d-83d2-1ee17d774345",
+    "name": "Aluminum",
+    "price": 8262642,
+    "type": "Site Furnishings",
+    "quantity": 6
+  },
+  {
+    "id": 566,
+    "code": "adfa19e5-679e-4ab6-b3a7-7e2ebbaf9b43",
+    "name": "Brass",
+    "price": 9603987,
+    "type": "Roofing (Asphalt)",
+    "quantity": 24
+  },
+  {
+    "id": 567,
+    "code": "cf486ee9-2db3-4484-98a5-21bbaa85921e",
+    "name": "Wood",
+    "price": 84369,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 8
+  },
+  {
+    "id": 568,
+    "code": "996606e8-b8e5-4930-90b4-e13a760587f3",
+    "name": "Rubber",
+    "price": 7982820,
+    "type": "Framing (Steel)",
+    "quantity": 37
+  },
+  {
+    "id": 569,
+    "code": "00491f72-443e-4534-959b-fd87bc8c26e7",
+    "name": "Glass",
+    "price": 3363889,
+    "type": "Prefabricated Aluminum Metal Canopies",
+    "quantity": 93
+  },
+  {
+    "id": 570,
+    "code": "941058d8-c3ef-4565-bb42-01b133c09fb7",
+    "name": "Plastic",
+    "price": 726087,
+    "type": "Exterior Signage",
+    "quantity": 20
+  },
+  {
+    "id": 571,
+    "code": "ca460173-504c-44f6-90bc-3b1c696e7fbc",
+    "name": "Brass",
+    "price": 7168867,
+    "type": "Masonry",
+    "quantity": 26
+  },
+  {
+    "id": 572,
+    "code": "b026031e-a378-4626-80ee-5d8d054e6e61",
+    "name": "Steel",
+    "price": 1480717,
+    "type": "Curb & Gutter",
+    "quantity": 96
+  },
+  {
+    "id": 573,
+    "code": "f9cf9146-dbdf-475f-a2ea-1b572b6f5e29",
+    "name": "Aluminum",
+    "price": 2775643,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 98
+  },
+  {
+    "id": 574,
+    "code": "3e37b3c6-ed7c-4cef-8296-af8394ef40f8",
+    "name": "Granite",
+    "price": 5829268,
+    "type": "Roofing (Asphalt)",
+    "quantity": 22
+  },
+  {
+    "id": 575,
+    "code": "1ad76c4c-9111-46f5-90fd-aa1871d2a313",
+    "name": "Brass",
+    "price": 4925391,
+    "type": "Epoxy Flooring",
+    "quantity": 80
+  },
+  {
+    "id": 576,
+    "code": "6981a015-9a8a-433e-81b4-0d77b62336e0",
+    "name": "Stone",
+    "price": 2941293,
+    "type": "Elevator",
+    "quantity": 74
+  },
+  {
+    "id": 577,
+    "code": "7c7fd8fc-368a-4900-82c2-465c5431ae87",
+    "name": "Wood",
+    "price": 9359482,
+    "type": "Hard Tile & Stone",
+    "quantity": 72
+  },
+  {
+    "id": 578,
+    "code": "1d3c75be-1753-4ff8-8d64-a7678ee4a680",
+    "name": "Granite",
+    "price": 7648253,
+    "type": "Framing (Wood)",
+    "quantity": 66
+  },
+  {
+    "id": 579,
+    "code": "e0df1a81-b73b-4e42-8a95-e153aa2140eb",
+    "name": "Plastic",
+    "price": 1945694,
+    "type": "Casework",
+    "quantity": 23
+  },
+  {
+    "id": 580,
+    "code": "cfacc5b6-da02-4ec6-b692-fb0bdffd3391",
+    "name": "Rubber",
+    "price": 7355579,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 51
+  },
+  {
+    "id": 581,
+    "code": "498ad807-7510-4d9f-8a36-2a6738d98ab4",
+    "name": "Stone",
+    "price": 4039188,
+    "type": "Roofing (Asphalt)",
+    "quantity": 12
+  },
+  {
+    "id": 582,
+    "code": "ca90552d-0ef6-4e0b-89e4-fc3baf6346b0",
+    "name": "Brass",
+    "price": 9020827,
+    "type": "Marlite Panels (FED)",
+    "quantity": 66
+  },
+  {
+    "id": 583,
+    "code": "fb932ca5-deca-4da8-91d2-8b039879b8af",
+    "name": "Vinyl",
+    "price": 2005426,
+    "type": "Electrical",
+    "quantity": 98
+  },
+  {
+    "id": 584,
+    "code": "f86b2871-0f42-4093-8e3c-9fb38418d0ea",
+    "name": "Plexiglass",
+    "price": 3898685,
+    "type": "Sitework & Site Utilities",
+    "quantity": 49
+  },
+  {
+    "id": 585,
+    "code": "eb0789a6-2393-400a-ae33-9abb1085741a",
+    "name": "Glass",
+    "price": 3436535,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 7
+  },
+  {
+    "id": 586,
+    "code": "5177bb7c-5966-4bf3-82e9-18fafbe25c40",
+    "name": "Granite",
+    "price": 7644867,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 16
+  },
+  {
+    "id": 587,
+    "code": "336e7d2e-2b12-4dd7-b93b-3a7bff269e3b",
+    "name": "Plexiglass",
+    "price": 371249,
+    "type": "Roofing (Metal)",
+    "quantity": 16
+  },
+  {
+    "id": 588,
+    "code": "0393bf9e-4c9e-447a-9f7e-82a032b48e7b",
+    "name": "Plastic",
+    "price": 2769004,
+    "type": "Roofing (Metal)",
+    "quantity": 4
+  },
+  {
+    "id": 589,
+    "code": "5356e76a-3e97-494f-ad3e-dd6b17fea374",
+    "name": "Steel",
+    "price": 5887498,
+    "type": "Curb & Gutter",
+    "quantity": 90
+  },
+  {
+    "id": 590,
+    "code": "e741d407-924a-4e55-94c4-da02502b70c2",
+    "name": "Plexiglass",
+    "price": 4749121,
+    "type": "Granite Surfaces",
+    "quantity": 73
+  },
+  {
+    "id": 591,
+    "code": "c87f69f2-86ac-4177-af32-e90a6e05c101",
+    "name": "Brass",
+    "price": 3212593,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 99
+  },
+  {
+    "id": 592,
+    "code": "5198e0c2-003d-430c-bb52-3bfc42b69665",
+    "name": "Rubber",
+    "price": 1284447,
+    "type": "Exterior Signage",
+    "quantity": 16
+  },
+  {
+    "id": 593,
+    "code": "ffdd024c-12f0-4f99-a444-c4592af63905",
+    "name": "Plexiglass",
+    "price": 2742077,
+    "type": "Exterior Signage",
+    "quantity": 65
+  },
+  {
+    "id": 594,
+    "code": "9b98177e-51f8-4fbe-b812-1dbad445024b",
+    "name": "Glass",
+    "price": 5131270,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 24
+  },
+  {
+    "id": 595,
+    "code": "e36b6b65-9ee4-48b0-a387-93c45afd0997",
+    "name": "Granite",
+    "price": 4170984,
+    "type": "Framing (Wood)",
+    "quantity": 17
+  },
+  {
+    "id": 596,
+    "code": "ee6da4c2-5396-48de-a162-0b63bd7cc725",
+    "name": "Steel",
+    "price": 9042972,
+    "type": "Framing (Steel)",
+    "quantity": 7
+  },
+  {
+    "id": 597,
+    "code": "b0059612-0c03-44d4-9f56-2302d31b193f",
+    "name": "Aluminum",
+    "price": 592060,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 81
+  },
+  {
+    "id": 598,
+    "code": "0d480898-b31a-43b3-9904-3477dc921e85",
+    "name": "Plastic",
+    "price": 5064530,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 80
+  },
+  {
+    "id": 599,
+    "code": "a6738eee-19e2-49bc-a980-ebcc0e18423a",
+    "name": "Rubber",
+    "price": 8804797,
+    "type": "Framing (Steel)",
+    "quantity": 17
+  },
+  {
+    "id": 600,
+    "code": "17ea434f-5cbb-42ee-bcad-6fcec400ef14",
+    "name": "Plexiglass",
+    "price": 9395784,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 62
+  },
+  {
+    "id": 601,
+    "code": "55fe7be3-0c24-4ef2-8914-e330d7a0d325",
+    "name": "Aluminum",
+    "price": 6974911,
+    "type": "Soft Flooring and Base",
+    "quantity": 50
+  },
+  {
+    "id": 602,
+    "code": "f2f93944-4bad-4a08-8311-4dfcd7429ff7",
+    "name": "Vinyl",
+    "price": 2590664,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 98
+  },
+  {
+    "id": 603,
+    "code": "5f706b68-e28d-469f-b9b2-d95a75edbad6",
+    "name": "Stone",
+    "price": 3426155,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 96
+  },
+  {
+    "id": 604,
+    "code": "453d02ee-d295-471e-930c-e9c6739ae7cf",
+    "name": "Aluminum",
+    "price": 1521794,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 31
+  },
+  {
+    "id": 605,
+    "code": "12472b70-c5a2-4d5a-bfa0-3a0fb3f7d4d2",
+    "name": "Vinyl",
+    "price": 4486660,
+    "type": "Granite Surfaces",
+    "quantity": 14
+  },
+  {
+    "id": 606,
+    "code": "82bf72f3-ac80-44c6-be9b-cdfc40612c98",
+    "name": "Glass",
+    "price": 3011463,
+    "type": "Framing (Steel)",
+    "quantity": 99
+  },
+  {
+    "id": 607,
+    "code": "dde9c510-ae8f-4ce0-91bc-372fd1613433",
+    "name": "Wood",
+    "price": 7209091,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 30
+  },
+  {
+    "id": 608,
+    "code": "0a8b0991-b9ad-42ec-99f7-7fc70f700771",
+    "name": "Glass",
+    "price": 1786077,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 48
+  },
+  {
+    "id": 609,
+    "code": "c08915c2-09a7-4fcf-b326-10c2b56ce966",
+    "name": "Steel",
+    "price": 5245112,
+    "type": "Roofing (Asphalt)",
+    "quantity": 42
+  },
+  {
+    "id": 610,
+    "code": "c767cd16-d862-475f-9c99-709cb7c75181",
+    "name": "Glass",
+    "price": 5125077,
+    "type": "Hard Tile & Stone",
+    "quantity": 96
+  },
+  {
+    "id": 611,
+    "code": "2c6cad8d-79f0-4cb7-a1f2-c2878ee0ebcd",
+    "name": "Rubber",
+    "price": 5884637,
+    "type": "Marlite Panels (FED)",
+    "quantity": 3
+  },
+  {
+    "id": 612,
+    "code": "1d1a0255-9d22-4957-9abe-f48308c67065",
+    "name": "Stone",
+    "price": 6097297,
+    "type": "Prefabricated Aluminum Metal Canopies",
+    "quantity": 92
+  },
+  {
+    "id": 613,
+    "code": "54592030-37bf-4573-b322-e1e81f7bd5e4",
+    "name": "Steel",
+    "price": 7080637,
+    "type": "Drilled Shafts",
+    "quantity": 80
+  },
+  {
+    "id": 614,
+    "code": "517287a3-9eed-485d-b80e-e9bc86c29ba1",
+    "name": "Vinyl",
+    "price": 963722,
+    "type": "RF Shielding",
+    "quantity": 67
+  },
+  {
+    "id": 615,
+    "code": "4e029f0a-76c2-4973-a9ca-639f2735a959",
+    "name": "Steel",
+    "price": 4493787,
+    "type": "Landscaping & Irrigation",
+    "quantity": 31
+  },
+  {
+    "id": 616,
+    "code": "073e6710-a4d7-4ade-81af-27c1764931ad",
+    "name": "Plexiglass",
+    "price": 7940956,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 83
+  },
+  {
+    "id": 617,
+    "code": "b973337c-4227-4f41-9bf3-801f7bdf6ace",
+    "name": "Steel",
+    "price": 9218561,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 15
+  },
+  {
+    "id": 618,
+    "code": "c2365cdd-79f8-46cc-bc66-b661e7777685",
+    "name": "Steel",
+    "price": 8998574,
+    "type": "Casework",
+    "quantity": 60
+  },
+  {
+    "id": 619,
+    "code": "0d3d9bad-cb12-401e-8aba-e7ccabab6d2d",
+    "name": "Aluminum",
+    "price": 1963939,
+    "type": "Glass & Glazing",
+    "quantity": 56
+  },
+  {
+    "id": 620,
+    "code": "4d5ef3ec-02b8-4fd1-bd01-62b7a0d4f5ae",
+    "name": "Steel",
+    "price": 1904609,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 50
+  },
+  {
+    "id": 621,
+    "code": "67597a7e-ae6c-4fcc-95f6-34de23e2cf05",
+    "name": "Plastic",
+    "price": 3968061,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 84
+  },
+  {
+    "id": 622,
+    "code": "69a098ac-65e0-4fc4-9084-42a1c37df25d",
+    "name": "Plexiglass",
+    "price": 900019,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 39
+  },
+  {
+    "id": 623,
+    "code": "00cd36d4-8d4d-4ee4-861d-4d14b065ebd0",
+    "name": "Stone",
+    "price": 1808920,
+    "type": "Curb & Gutter",
+    "quantity": 40
+  },
+  {
+    "id": 624,
+    "code": "b98cd55f-f810-458d-b6fb-b86ab8d541b1",
+    "name": "Wood",
+    "price": 7008798,
+    "type": "Exterior Signage",
+    "quantity": 27
+  },
+  {
+    "id": 625,
+    "code": "ede9ad17-9102-4a51-99dc-caf9691cec25",
+    "name": "Steel",
+    "price": 2397786,
+    "type": "Exterior Signage",
+    "quantity": 38
+  },
+  {
+    "id": 626,
+    "code": "6a5515ed-0aa8-4e5d-96b6-2a9c1c3dfa68",
+    "name": "Plexiglass",
+    "price": 1462613,
+    "type": "Exterior Signage",
+    "quantity": 90
+  },
+  {
+    "id": 627,
+    "code": "e0be2c49-d999-4ea7-bee7-e037f14dcd7f",
+    "name": "Vinyl",
+    "price": 275968,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 70
+  },
+  {
+    "id": 628,
+    "code": "f84b4844-220b-44c8-ac70-18d4a6d424b7",
+    "name": "Stone",
+    "price": 7830010,
+    "type": "Curb & Gutter",
+    "quantity": 18
+  },
+  {
+    "id": 629,
+    "code": "14553ae5-5689-421e-a8eb-20b44c547f29",
+    "name": "Granite",
+    "price": 4702736,
+    "type": "Termite Control",
+    "quantity": 32
+  },
+  {
+    "id": 630,
+    "code": "54381818-0fee-45d1-95fa-c7a3a4a096ab",
+    "name": "Granite",
+    "price": 1663316,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 94
+  },
+  {
+    "id": 631,
+    "code": "83dbea3d-d282-4ef5-899f-85e4c924ed2f",
+    "name": "Wood",
+    "price": 3947204,
+    "type": "Wall Protection",
+    "quantity": 92
+  },
+  {
+    "id": 632,
+    "code": "91c74a0d-d5ed-4848-acc9-322c0e6a42c5",
+    "name": "Plastic",
+    "price": 6524991,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 89
+  },
+  {
+    "id": 633,
+    "code": "c866a7d3-71d3-40c4-a436-0978c087f1dd",
+    "name": "Wood",
+    "price": 9213565,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 34
+  },
+  {
+    "id": 634,
+    "code": "7c08697c-df36-498a-91f7-53bba7f42021",
+    "name": "Rubber",
+    "price": 5583095,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 64
+  },
+  {
+    "id": 635,
+    "code": "6e41e58e-c086-4813-ac96-058572799d27",
+    "name": "Vinyl",
+    "price": 674148,
+    "type": "Casework",
+    "quantity": 14
+  },
+  {
+    "id": 636,
+    "code": "71a263cc-94bd-4191-a4ad-09282c6721e3",
+    "name": "Rubber",
+    "price": 6625835,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 77
+  },
+  {
+    "id": 637,
+    "code": "449a81f0-6c39-454a-9d6c-dfd169c9a6ff",
+    "name": "Rubber",
+    "price": 4926119,
+    "type": "Termite Control",
+    "quantity": 13
+  },
+  {
+    "id": 638,
+    "code": "eeb4740a-7413-49d9-9ee1-08da5410d4ef",
+    "name": "Plexiglass",
+    "price": 3886984,
+    "type": "Framing (Wood)",
+    "quantity": 33
+  },
+  {
+    "id": 639,
+    "code": "61cd18b9-394a-4ee5-bf0a-e18947ede2e5",
+    "name": "Aluminum",
+    "price": 2864642,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 67
+  },
+  {
+    "id": 640,
+    "code": "7d79e69b-4404-4897-ba6f-a0e3651963a8",
+    "name": "Wood",
+    "price": 4389862,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 82
+  },
+  {
+    "id": 641,
+    "code": "53718020-a402-4b0b-9022-482db8c90100",
+    "name": "Wood",
+    "price": 8434750,
+    "type": "Soft Flooring and Base",
+    "quantity": 20
+  },
+  {
+    "id": 642,
+    "code": "19052468-78d6-4072-9dcc-92ae2eb5a647",
+    "name": "Vinyl",
+    "price": 2613030,
+    "type": "Soft Flooring and Base",
+    "quantity": 19
+  },
+  {
+    "id": 643,
+    "code": "8534f497-0a34-4bbb-9957-c1d45da5e646",
+    "name": "Plastic",
+    "price": 8976335,
+    "type": "Framing (Wood)",
+    "quantity": 24
+  },
+  {
+    "id": 644,
+    "code": "fb25f023-2d31-419d-a4ee-976fb3996f6d",
+    "name": "Rubber",
+    "price": 664145,
+    "type": "Roofing (Asphalt)",
+    "quantity": 36
+  },
+  {
+    "id": 645,
+    "code": "bf4a9815-2a4a-4824-b886-516b51031d62",
+    "name": "Glass",
+    "price": 3688946,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 73
+  },
+  {
+    "id": 646,
+    "code": "d004580b-844a-4c49-a4be-56d762590f3b",
+    "name": "Glass",
+    "price": 4818513,
+    "type": "Masonry & Precast",
+    "quantity": 68
+  },
+  {
+    "id": 647,
+    "code": "549c2431-ec3d-4799-8958-f515b73fc138",
+    "name": "Steel",
+    "price": 1377462,
+    "type": "Framing (Wood)",
+    "quantity": 92
+  },
+  {
+    "id": 648,
+    "code": "732def55-132c-4c49-9032-d51a3951859b",
+    "name": "Brass",
+    "price": 7095599,
+    "type": "Glass & Glazing",
+    "quantity": 77
+  },
+  {
+    "id": 649,
+    "code": "47bc304a-9992-4441-9eaf-7681b7be363e",
+    "name": "Plastic",
+    "price": 8089029,
+    "type": "Soft Flooring and Base",
+    "quantity": 93
+  },
+  {
+    "id": 650,
+    "code": "5edb1a6f-e8c8-4b97-8e73-2bdb14fcfaab",
+    "name": "Plexiglass",
+    "price": 4370941,
+    "type": "RF Shielding",
+    "quantity": 18
+  },
+  {
+    "id": 651,
+    "code": "63e5aca2-da21-4ca0-aaf8-bef44bee4d0b",
+    "name": "Granite",
+    "price": 7407292,
+    "type": "Roofing (Asphalt)",
+    "quantity": 43
+  },
+  {
+    "id": 652,
+    "code": "cbb24ac7-81bb-4f6a-acd0-c713e6fd7a59",
+    "name": "Wood",
+    "price": 7231726,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 85
+  },
+  {
+    "id": 653,
+    "code": "70c226ab-1dc4-402b-960c-12d413de6695",
+    "name": "Brass",
+    "price": 9407890,
+    "type": "Elevator",
+    "quantity": 74
+  },
+  {
+    "id": 654,
+    "code": "7b02ceaf-dfcc-4cbf-a514-eca3c08da226",
+    "name": "Aluminum",
+    "price": 8472640,
+    "type": "Glass & Glazing",
+    "quantity": 97
+  },
+  {
+    "id": 655,
+    "code": "64e76496-6e89-4f4e-ad9b-a1fee0daa3d8",
+    "name": "Plexiglass",
+    "price": 119165,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 57
+  },
+  {
+    "id": 656,
+    "code": "114e832f-91c7-4eb3-8b30-1c47cc179789",
+    "name": "Steel",
+    "price": 9479554,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 53
+  },
+  {
+    "id": 657,
+    "code": "3bc49420-5bfa-4933-9fc1-912b6b8614bb",
+    "name": "Glass",
+    "price": 9874786,
+    "type": "Wall Protection",
+    "quantity": 64
+  },
+  {
+    "id": 658,
+    "code": "5fa6f8ec-2d78-4f15-b20b-cf231fb4a3b8",
+    "name": "Plastic",
+    "price": 2757849,
+    "type": "Framing (Wood)",
+    "quantity": 80
+  },
+  {
+    "id": 659,
+    "code": "fd816904-b20d-4581-b1f3-748810f213e5",
+    "name": "Plexiglass",
+    "price": 9962256,
+    "type": "Curb & Gutter",
+    "quantity": 53
+  },
+  {
+    "id": 660,
+    "code": "8717aa5e-a414-4454-a004-dca03eeb533d",
+    "name": "Granite",
+    "price": 5947656,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 79
+  },
+  {
+    "id": 661,
+    "code": "df373ec8-9831-40b1-81b4-375023e70a2c",
+    "name": "Steel",
+    "price": 2445181,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 56
+  },
+  {
+    "id": 662,
+    "code": "69b5ea60-a098-48b7-8aaf-265a871890f9",
+    "name": "Wood",
+    "price": 1266989,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 4
+  },
+  {
+    "id": 663,
+    "code": "ac7c5352-51d7-4b47-97d1-cd7a305f4234",
+    "name": "Glass",
+    "price": 9152118,
+    "type": "Casework",
+    "quantity": 88
+  },
+  {
+    "id": 664,
+    "code": "8dd30c89-4a35-495f-879b-46ae5e3a838f",
+    "name": "Plastic",
+    "price": 9322856,
+    "type": "Masonry",
+    "quantity": 80
+  },
+  {
+    "id": 665,
+    "code": "0d3bda1d-56e1-4138-837d-fed1fd6e60a2",
+    "name": "Stone",
+    "price": 2795096,
+    "type": "HVAC",
+    "quantity": 11
+  },
+  {
+    "id": 666,
+    "code": "421d74bf-edd7-40af-99a9-254da27d9f7e",
+    "name": "Rubber",
+    "price": 3689685,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 65
+  },
+  {
+    "id": 667,
+    "code": "ab6d07b9-9891-449b-9e14-20e711af21dc",
+    "name": "Granite",
+    "price": 4984879,
+    "type": "Masonry & Precast",
+    "quantity": 100
+  },
+  {
+    "id": 668,
+    "code": "f1ec1994-070d-4c75-a11f-4622dbe9787d",
+    "name": "Brass",
+    "price": 553289,
+    "type": "Ornamental Railings",
+    "quantity": 85
+  },
+  {
+    "id": 669,
+    "code": "c40f8846-2b44-4990-a9a5-3bd2ab0b7218",
+    "name": "Plexiglass",
+    "price": 4397349,
+    "type": "Drilled Shafts",
+    "quantity": 71
+  },
+  {
+    "id": 670,
+    "code": "72be9e73-9659-476d-8143-c681ec3dce2c",
+    "name": "Plastic",
+    "price": 3907125,
+    "type": "Prefabricated Aluminum Metal Canopies",
+    "quantity": 39
+  },
+  {
+    "id": 671,
+    "code": "120d864b-baaa-4d32-a103-5c0035c1e77f",
+    "name": "Brass",
+    "price": 537512,
+    "type": "Asphalt Paving",
+    "quantity": 17
+  },
+  {
+    "id": 672,
+    "code": "d0e84c3e-91bf-40ba-8462-656f12ac8d02",
+    "name": "Vinyl",
+    "price": 1432222,
+    "type": "Masonry",
+    "quantity": 59
+  },
+  {
+    "id": 673,
+    "code": "e7c6db9c-9a4d-448b-a70e-82f3e47e2fd8",
+    "name": "Glass",
+    "price": 1878122,
+    "type": "Masonry",
+    "quantity": 57
+  },
+  {
+    "id": 674,
+    "code": "81de7989-3772-4aef-9349-9791dc8c99e5",
+    "name": "Plexiglass",
+    "price": 9921127,
+    "type": "Masonry & Precast",
+    "quantity": 39
+  },
+  {
+    "id": 675,
+    "code": "aad9bb7b-b179-4a52-a5d2-ccca630b9032",
+    "name": "Vinyl",
+    "price": 3214316,
+    "type": "Site Furnishings",
+    "quantity": 23
+  },
+  {
+    "id": 676,
+    "code": "a5c424a6-de0e-46df-909c-add84a107c6d",
+    "name": "Brass",
+    "price": 5856961,
+    "type": "Casework",
+    "quantity": 85
+  },
+  {
+    "id": 677,
+    "code": "b19ea5c4-ca87-4606-add1-6e29569e62a6",
+    "name": "Vinyl",
+    "price": 9400976,
+    "type": "Site Furnishings",
+    "quantity": 2
+  },
+  {
+    "id": 678,
+    "code": "0956f344-fe86-41bc-b84c-2762abd49e3f",
+    "name": "Rubber",
+    "price": 7070924,
+    "type": "Overhead Doors",
+    "quantity": 3
+  },
+  {
+    "id": 679,
+    "code": "c5b553d6-b2a8-417e-ba6c-40a5f4327e3f",
+    "name": "Granite",
+    "price": 5791154,
+    "type": "Wall Protection",
+    "quantity": 18
+  },
+  {
+    "id": 680,
+    "code": "9f7b42a1-5bc6-4deb-a9fa-7793e14df22a",
+    "name": "Glass",
+    "price": 9124522,
+    "type": "EIFS",
+    "quantity": 30
+  },
+  {
+    "id": 681,
+    "code": "c295e417-cf8b-467c-8711-7648c0691a5a",
+    "name": "Plexiglass",
+    "price": 9366997,
+    "type": "Masonry & Precast",
+    "quantity": 56
+  },
+  {
+    "id": 682,
+    "code": "08b7089c-7c34-44c3-89bf-08d2201185e7",
+    "name": "Vinyl",
+    "price": 6894820,
+    "type": "Masonry",
+    "quantity": 49
+  },
+  {
+    "id": 683,
+    "code": "bd937cea-920c-432a-922b-f3468c4e56fa",
+    "name": "Vinyl",
+    "price": 5794777,
+    "type": "Framing (Steel)",
+    "quantity": 7
+  },
+  {
+    "id": 684,
+    "code": "f64b3fc1-cc84-4d09-816c-e9c273ac82e0",
+    "name": "Brass",
+    "price": 1784511,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 79
+  },
+  {
+    "id": 685,
+    "code": "eb485e1c-12b1-4fb6-8e69-74851c3911f2",
+    "name": "Wood",
+    "price": 3667348,
+    "type": "Soft Flooring and Base",
+    "quantity": 7
+  },
+  {
+    "id": 686,
+    "code": "3d0f4e35-df23-4515-9f08-ec71dda2a6e6",
+    "name": "Aluminum",
+    "price": 5925805,
+    "type": "Soft Flooring and Base",
+    "quantity": 92
+  },
+  {
+    "id": 687,
+    "code": "f2cc1513-53d8-458e-ba6c-2a3c1c4eac45",
+    "name": "Vinyl",
+    "price": 4199449,
+    "type": "HVAC",
+    "quantity": 58
+  },
+  {
+    "id": 688,
+    "code": "4e431556-7864-4a42-80d1-f4ef3d3dca5e",
+    "name": "Rubber",
+    "price": 3079782,
+    "type": "Ornamental Railings",
+    "quantity": 46
+  },
+  {
+    "id": 689,
+    "code": "832181c4-12d7-430e-a1bf-3815e419bb85",
+    "name": "Wood",
+    "price": 2171630,
+    "type": "RF Shielding",
+    "quantity": 59
+  },
+  {
+    "id": 690,
+    "code": "e828c400-c13e-4342-9b77-12fd7268c82e",
+    "name": "Granite",
+    "price": 7285998,
+    "type": "Waterproofing & Caulking",
+    "quantity": 43
+  },
+  {
+    "id": 691,
+    "code": "c148a9fb-2b2b-436b-b628-63e0dcef8b87",
+    "name": "Aluminum",
+    "price": 9268116,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 98
+  },
+  {
+    "id": 692,
+    "code": "f57375bb-ebe6-4943-898f-17e2101310dd",
+    "name": "Vinyl",
+    "price": 4033102,
+    "type": "Site Furnishings",
+    "quantity": 95
+  },
+  {
+    "id": 693,
+    "code": "2af90220-4f97-4f55-acfd-cbdb0d0262cd",
+    "name": "Glass",
+    "price": 4018380,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 94
+  },
+  {
+    "id": 694,
+    "code": "8ac27439-aea4-4680-9a72-5b466466e2bc",
+    "name": "Glass",
+    "price": 5861802,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 11
+  },
+  {
+    "id": 695,
+    "code": "746d893d-b7d5-4a61-9619-c3e968cad435",
+    "name": "Vinyl",
+    "price": 9361705,
+    "type": "Hard Tile & Stone",
+    "quantity": 73
+  },
+  {
+    "id": 696,
+    "code": "40b1419d-782b-4ecf-b94a-f5f2a2281d7e",
+    "name": "Rubber",
+    "price": 1134259,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 45
+  },
+  {
+    "id": 697,
+    "code": "4cd44187-34ec-4cfa-a3c8-bd5f739d9138",
+    "name": "Rubber",
+    "price": 800075,
+    "type": "HVAC",
+    "quantity": 12
+  },
+  {
+    "id": 698,
+    "code": "bcf845f1-69d7-47d4-ab5f-699e1384b9ba",
+    "name": "Rubber",
+    "price": 8047983,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 99
+  },
+  {
+    "id": 699,
+    "code": "843bdc4b-4b7a-49f3-be21-2581fe51a14c",
+    "name": "Vinyl",
+    "price": 5127514,
+    "type": "Soft Flooring and Base",
+    "quantity": 10
+  },
+  {
+    "id": 700,
+    "code": "c7ceb436-8932-4004-ac7f-0079a589dfde",
+    "name": "Rubber",
+    "price": 6934132,
+    "type": "Marlite Panels (FED)",
+    "quantity": 31
+  },
+  {
+    "id": 701,
+    "code": "7fb0e405-b57e-483e-aa53-6e5b9e692f2d",
+    "name": "Rubber",
+    "price": 4812244,
+    "type": "Hard Tile & Stone",
+    "quantity": 89
+  },
+  {
+    "id": 702,
+    "code": "b607c367-ac64-4792-9ace-7811745235d5",
+    "name": "Stone",
+    "price": 90587,
+    "type": "Roofing (Metal)",
+    "quantity": 13
+  },
+  {
+    "id": 703,
+    "code": "bccd79b1-a64c-465e-a51f-532116c20aa5",
+    "name": "Plastic",
+    "price": 2901604,
+    "type": "Asphalt Paving",
+    "quantity": 79
+  },
+  {
+    "id": 704,
+    "code": "8183cec9-a4aa-4856-814c-ac956a1bafb8",
+    "name": "Plastic",
+    "price": 5349993,
+    "type": "Landscaping & Irrigation",
+    "quantity": 17
+  },
+  {
+    "id": 705,
+    "code": "e02d5c44-251e-4320-8681-4cd088fdeb62",
+    "name": "Steel",
+    "price": 2701507,
+    "type": "Elevator",
+    "quantity": 54
+  },
+  {
+    "id": 706,
+    "code": "79d18a86-3b9b-4d30-8113-77364e5f4ffc",
+    "name": "Aluminum",
+    "price": 1008748,
+    "type": "Drilled Shafts",
+    "quantity": 15
+  },
+  {
+    "id": 707,
+    "code": "fde645b5-e3a5-4563-a76c-6c563caa2004",
+    "name": "Wood",
+    "price": 9500775,
+    "type": "Granite Surfaces",
+    "quantity": 86
+  },
+  {
+    "id": 708,
+    "code": "48e5df3d-35a0-4004-b00c-8059841fd0cb",
+    "name": "Glass",
+    "price": 1218091,
+    "type": "Roofing (Asphalt)",
+    "quantity": 32
+  },
+  {
+    "id": 709,
+    "code": "cc5a64e4-1d6e-4919-8868-191aff7c9ce9",
+    "name": "Rubber",
+    "price": 4148506,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 12
+  },
+  {
+    "id": 710,
+    "code": "ad442a71-8505-4cac-94eb-f4190aa81c2d",
+    "name": "Brass",
+    "price": 3840780,
+    "type": "Waterproofing & Caulking",
+    "quantity": 36
+  },
+  {
+    "id": 711,
+    "code": "0bc5c1bd-d33a-43df-98ec-8106da2bec37",
+    "name": "Aluminum",
+    "price": 1265552,
+    "type": "Prefabricated Aluminum Metal Canopies",
+    "quantity": 18
+  },
+  {
+    "id": 712,
+    "code": "2d3cb22e-96fd-48fd-b95e-5cd87d352627",
+    "name": "Steel",
+    "price": 395339,
+    "type": "Waterproofing & Caulking",
+    "quantity": 78
+  },
+  {
+    "id": 713,
+    "code": "3a0c3525-e49e-471f-a3a7-f7151c2bbd53",
+    "name": "Granite",
+    "price": 6853900,
+    "type": "Masonry",
+    "quantity": 36
+  },
+  {
+    "id": 714,
+    "code": "6dedf5f1-15c0-4d2e-a55f-d30d77001b1d",
+    "name": "Wood",
+    "price": 6708939,
+    "type": "Glass & Glazing",
+    "quantity": 94
+  },
+  {
+    "id": 715,
+    "code": "a0ccfc49-b89b-47ab-b09b-3cb71d63bd10",
+    "name": "Glass",
+    "price": 3040434,
+    "type": "Granite Surfaces",
+    "quantity": 63
+  },
+  {
+    "id": 716,
+    "code": "983a9757-60ef-43b7-9ddb-180b61e5df5b",
+    "name": "Wood",
+    "price": 5997419,
+    "type": "Landscaping & Irrigation",
+    "quantity": 12
+  },
+  {
+    "id": 717,
+    "code": "60bdf48b-e2d8-436d-9836-525985486eba",
+    "name": "Glass",
+    "price": 6167788,
+    "type": "Marlite Panels (FED)",
+    "quantity": 39
+  },
+  {
+    "id": 718,
+    "code": "57729723-96c8-4a82-ad44-d6cf366fefff",
+    "name": "Granite",
+    "price": 929447,
+    "type": "Hard Tile & Stone",
+    "quantity": 29
+  },
+  {
+    "id": 719,
+    "code": "b6288418-0f87-4b03-b9db-377f39f63bbb",
+    "name": "Plexiglass",
+    "price": 5083720,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 55
+  },
+  {
+    "id": 720,
+    "code": "5b280d2a-32f0-4950-85fc-8459fc111509",
+    "name": "Plexiglass",
+    "price": 1529146,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 77
+  },
+  {
+    "id": 721,
+    "code": "c043fa9b-ccd8-4c0d-bb81-e74682130ac2",
+    "name": "Glass",
+    "price": 3171475,
+    "type": "Granite Surfaces",
+    "quantity": 65
+  },
+  {
+    "id": 722,
+    "code": "ddad94d1-6de5-4ac2-9902-45c8749c9e24",
+    "name": "Glass",
+    "price": 8835815,
+    "type": "Elevator",
+    "quantity": 86
+  },
+  {
+    "id": 723,
+    "code": "1e7dfa36-fb15-4f7a-b42a-06918fc6886d",
+    "name": "Brass",
+    "price": 5666068,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 18
+  },
+  {
+    "id": 724,
+    "code": "6f37f320-56d8-4306-a117-39676c419fa9",
+    "name": "Brass",
+    "price": 6547777,
+    "type": "Masonry & Precast",
+    "quantity": 51
+  },
+  {
+    "id": 725,
+    "code": "953ebbab-ad23-4cb9-b905-1173b12c0c97",
+    "name": "Plastic",
+    "price": 2723061,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 74
+  },
+  {
+    "id": 726,
+    "code": "110296ba-df6d-4a1e-ac49-0cd0ad8df4df",
+    "name": "Steel",
+    "price": 774709,
+    "type": "Fire Protection",
+    "quantity": 76
+  },
+  {
+    "id": 727,
+    "code": "a0d9664d-bc14-44fe-bc6a-842f85869918",
+    "name": "Plastic",
+    "price": 5368479,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 80
+  },
+  {
+    "id": 728,
+    "code": "498f75cc-8430-44cc-970b-cdc67e73ec21",
+    "name": "Wood",
+    "price": 9078126,
+    "type": "Curb & Gutter",
+    "quantity": 20
+  },
+  {
+    "id": 729,
+    "code": "8986ab3c-0139-451c-b00c-bdccaf428dac",
+    "name": "Rubber",
+    "price": 1310862,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 28
+  },
+  {
+    "id": 730,
+    "code": "b35a6645-2c5c-4ea0-b81d-56a1b342bd48",
+    "name": "Wood",
+    "price": 9866849,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 68
+  },
+  {
+    "id": 731,
+    "code": "2f3a110a-8573-4dde-a121-b17ad27b246c",
+    "name": "Aluminum",
+    "price": 3572740,
+    "type": "Glass & Glazing",
+    "quantity": 69
+  },
+  {
+    "id": 732,
+    "code": "be7213de-80a8-4816-8306-91a495634aca",
+    "name": "Vinyl",
+    "price": 1862340,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 70
+  },
+  {
+    "id": 733,
+    "code": "57950f39-058d-489d-af85-bdc66cf11d6e",
+    "name": "Rubber",
+    "price": 2800549,
+    "type": "Roofing (Asphalt)",
+    "quantity": 50
+  },
+  {
+    "id": 734,
+    "code": "a76c8c6b-692a-4a88-bdda-fc996654a3f4",
+    "name": "Stone",
+    "price": 4098994,
+    "type": "Exterior Signage",
+    "quantity": 89
+  },
+  {
+    "id": 735,
+    "code": "9e63118c-121c-4d69-964b-d20488d2ae9c",
+    "name": "Wood",
+    "price": 9690589,
+    "type": "Masonry",
+    "quantity": 69
+  },
+  {
+    "id": 736,
+    "code": "3a7454bc-9cef-4883-8565-ad943f3c9aea",
+    "name": "Glass",
+    "price": 1054226,
+    "type": "RF Shielding",
+    "quantity": 33
+  },
+  {
+    "id": 737,
+    "code": "260e4494-583b-4b1e-947f-6ee3017eade5",
+    "name": "Vinyl",
+    "price": 3368470,
+    "type": "Curb & Gutter",
+    "quantity": 56
+  },
+  {
+    "id": 738,
+    "code": "a98d39c8-b0c9-43aa-938e-c17d7ac49975",
+    "name": "Plexiglass",
+    "price": 2031020,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 76
+  },
+  {
+    "id": 739,
+    "code": "ea0afa8e-749a-4aa7-a153-f6b0d48f3789",
+    "name": "Plexiglass",
+    "price": 5896510,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 55
+  },
+  {
+    "id": 740,
+    "code": "2985c9d7-a747-4282-a9c8-b270f62be1db",
+    "name": "Plexiglass",
+    "price": 7836168,
+    "type": "Sitework & Site Utilities",
+    "quantity": 58
+  },
+  {
+    "id": 741,
+    "code": "c77b1d91-49fb-40c3-a497-959aa4422395",
+    "name": "Plexiglass",
+    "price": 8507895,
+    "type": "Masonry",
+    "quantity": 62
+  },
+  {
+    "id": 742,
+    "code": "25ab32cf-44fc-418a-a19d-d54989088703",
+    "name": "Plexiglass",
+    "price": 4422648,
+    "type": "Asphalt Paving",
+    "quantity": 35
+  },
+  {
+    "id": 743,
+    "code": "5f4aa1ad-d948-4491-87d6-86f029263be2",
+    "name": "Stone",
+    "price": 2662606,
+    "type": "Site Furnishings",
+    "quantity": 27
+  },
+  {
+    "id": 744,
+    "code": "b434279d-ba3f-41bf-8626-53526b6de135",
+    "name": "Granite",
+    "price": 3463791,
+    "type": "Masonry & Precast",
+    "quantity": 2
+  },
+  {
+    "id": 745,
+    "code": "b100a770-4cbc-4b30-9976-12468a6a3dfd",
+    "name": "Brass",
+    "price": 375193,
+    "type": "Marlite Panels (FED)",
+    "quantity": 83
+  },
+  {
+    "id": 746,
+    "code": "26999eec-a068-44e7-9a24-3cab5c5b74be",
+    "name": "Granite",
+    "price": 9435279,
+    "type": "Wall Protection",
+    "quantity": 34
+  },
+  {
+    "id": 747,
+    "code": "9cc8e8db-b36d-4626-bee6-8608ef5b2e82",
+    "name": "Rubber",
+    "price": 4879080,
+    "type": "RF Shielding",
+    "quantity": 29
+  },
+  {
+    "id": 748,
+    "code": "0bf269b9-bcd1-465a-a3dd-0a70d20ac6ce",
+    "name": "Aluminum",
+    "price": 8521071,
+    "type": "Framing (Wood)",
+    "quantity": 15
+  },
+  {
+    "id": 749,
+    "code": "373657ce-9e56-4af1-b399-9ec7cec66827",
+    "name": "Vinyl",
+    "price": 6073833,
+    "type": "RF Shielding",
+    "quantity": 37
+  },
+  {
+    "id": 750,
+    "code": "044e34ca-360e-49b9-82fa-d7a8871cc76f",
+    "name": "Steel",
+    "price": 8662946,
+    "type": "Framing (Wood)",
+    "quantity": 11
+  },
+  {
+    "id": 751,
+    "code": "8066c285-b81e-4d02-9b60-df3d94521d5a",
+    "name": "Plexiglass",
+    "price": 625083,
+    "type": "Fire Protection",
+    "quantity": 67
+  },
+  {
+    "id": 752,
+    "code": "8cb06ab0-3dbe-40ba-a681-1f355cf70a82",
+    "name": "Vinyl",
+    "price": 3210752,
+    "type": "Roofing (Metal)",
+    "quantity": 87
+  },
+  {
+    "id": 753,
+    "code": "45818cc0-08df-40b1-baf4-be3713e1d9b2",
+    "name": "Rubber",
+    "price": 3564683,
+    "type": "Masonry",
+    "quantity": 39
+  },
+  {
+    "id": 754,
+    "code": "e6112bf4-fb4e-4ad9-bce3-e3ba68c032c7",
+    "name": "Brass",
+    "price": 3448310,
+    "type": "Termite Control",
+    "quantity": 80
+  },
+  {
+    "id": 755,
+    "code": "894e487c-af93-4aaf-8813-f4221c2cb43d",
+    "name": "Brass",
+    "price": 754515,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 27
+  },
+  {
+    "id": 756,
+    "code": "9ce015d0-d1e3-44e7-8803-6ba2344bc664",
+    "name": "Stone",
+    "price": 5329492,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 33
+  },
+  {
+    "id": 757,
+    "code": "34139c5d-a144-4b14-999d-41273c334e4e",
+    "name": "Vinyl",
+    "price": 7194114,
+    "type": "Granite Surfaces",
+    "quantity": 92
+  },
+  {
+    "id": 758,
+    "code": "07035edb-45cd-4335-9ed4-144f3b5816bc",
+    "name": "Aluminum",
+    "price": 96292,
+    "type": "Sitework & Site Utilities",
+    "quantity": 87
+  },
+  {
+    "id": 759,
+    "code": "4393c519-0c31-44fb-b1b5-415ef51ca1b4",
+    "name": "Rubber",
+    "price": 8999702,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 67
+  },
+  {
+    "id": 760,
+    "code": "35dcc9bf-0e71-42ee-babd-dbfb6c4875a5",
+    "name": "Aluminum",
+    "price": 2067125,
+    "type": "Hard Tile & Stone",
+    "quantity": 50
+  },
+  {
+    "id": 761,
+    "code": "85429700-96b8-4929-a61f-1d9534fbca48",
+    "name": "Plexiglass",
+    "price": 696118,
+    "type": "Curb & Gutter",
+    "quantity": 36
+  },
+  {
+    "id": 762,
+    "code": "d9022ab1-d9fc-4302-81fe-c6e34163297c",
+    "name": "Stone",
+    "price": 4140558,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 78
+  },
+  {
+    "id": 763,
+    "code": "e5630c8e-dd86-4453-97be-d6afee5cc00a",
+    "name": "Brass",
+    "price": 8284792,
+    "type": "Roofing (Metal)",
+    "quantity": 10
+  },
+  {
+    "id": 764,
+    "code": "bbdda2f6-4de8-4548-bc53-d404dad0616b",
+    "name": "Plexiglass",
+    "price": 2599881,
+    "type": "Asphalt Paving",
+    "quantity": 2
+  },
+  {
+    "id": 765,
+    "code": "ec0694a7-d8ee-4ef8-b662-93d77b034bc1",
+    "name": "Stone",
+    "price": 852107,
+    "type": "Overhead Doors",
+    "quantity": 17
+  },
+  {
+    "id": 766,
+    "code": "04bc9d0a-f5d5-43f0-830d-3a9fd06667c8",
+    "name": "Glass",
+    "price": 8259480,
+    "type": "Fire Protection",
+    "quantity": 14
+  },
+  {
+    "id": 767,
+    "code": "eec774b3-b032-4f13-8df8-3571823e9a22",
+    "name": "Stone",
+    "price": 1409516,
+    "type": "Casework",
+    "quantity": 9
+  },
+  {
+    "id": 768,
+    "code": "58881c3a-968f-4419-a424-87dea243e5a7",
+    "name": "Vinyl",
+    "price": 572330,
+    "type": "Roofing (Asphalt)",
+    "quantity": 69
+  },
+  {
+    "id": 769,
+    "code": "59f837c3-b4c5-4769-ba94-463aaf9a734c",
+    "name": "Brass",
+    "price": 1903101,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 34
+  },
+  {
+    "id": 770,
+    "code": "eac1cb70-8bc3-410a-857b-69b41803765f",
+    "name": "Rubber",
+    "price": 1096793,
+    "type": "EIFS",
+    "quantity": 76
+  },
+  {
+    "id": 771,
+    "code": "66c82f41-545f-4062-bebd-fe490c38f989",
+    "name": "Aluminum",
+    "price": 2839683,
+    "type": "Hard Tile & Stone",
+    "quantity": 16
+  },
+  {
+    "id": 772,
+    "code": "f857091a-1562-4806-8cf6-c422b53019e9",
+    "name": "Aluminum",
+    "price": 3617677,
+    "type": "Roofing (Asphalt)",
+    "quantity": 47
+  },
+  {
+    "id": 773,
+    "code": "6865eb55-cddc-4d32-a6fa-8f0adca93b5a",
+    "name": "Aluminum",
+    "price": 2297726,
+    "type": "Asphalt Paving",
+    "quantity": 40
+  },
+  {
+    "id": 774,
+    "code": "8c4f9a28-350c-4d23-a1ea-385a5273afe7",
+    "name": "Steel",
+    "price": 2495581,
+    "type": "Soft Flooring and Base",
+    "quantity": 28
+  },
+  {
+    "id": 775,
+    "code": "9d0fab33-5ddd-49ba-8ffe-4c21ef9ee6ed",
+    "name": "Rubber",
+    "price": 7568573,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 100
+  },
+  {
+    "id": 776,
+    "code": "988764e1-31c3-486f-b788-82f3dd35d5ca",
+    "name": "Granite",
+    "price": 1712374,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 55
+  },
+  {
+    "id": 777,
+    "code": "a2de3a9f-bca3-4cc0-a7cb-0d3c5e557e71",
+    "name": "Wood",
+    "price": 2695976,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 26
+  },
+  {
+    "id": 778,
+    "code": "5511929c-9052-423b-94c2-5a8bc3847b8b",
+    "name": "Rubber",
+    "price": 2271675,
+    "type": "Soft Flooring and Base",
+    "quantity": 33
+  },
+  {
+    "id": 779,
+    "code": "518edee0-90bc-4274-b4c6-6641b34e7f6d",
+    "name": "Plexiglass",
+    "price": 3181417,
+    "type": "Asphalt Paving",
+    "quantity": 78
+  },
+  {
+    "id": 780,
+    "code": "343eb4c2-767d-4348-9ec8-7ef700d89115",
+    "name": "Aluminum",
+    "price": 7905053,
+    "type": "Framing (Wood)",
+    "quantity": 66
+  },
+  {
+    "id": 781,
+    "code": "1ebc8cee-26ff-4368-bc55-3c75dc9486ad",
+    "name": "Glass",
+    "price": 9001233,
+    "type": "Drilled Shafts",
+    "quantity": 72
+  },
+  {
+    "id": 782,
+    "code": "bfe4b9e3-cb89-4971-a058-f90ec7522c0b",
+    "name": "Glass",
+    "price": 3111341,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 87
+  },
+  {
+    "id": 783,
+    "code": "1d89aabe-8ddf-4c18-bacf-477c2163b39d",
+    "name": "Steel",
+    "price": 9569444,
+    "type": "Framing (Wood)",
+    "quantity": 3
+  },
+  {
+    "id": 784,
+    "code": "d40b985c-7fd2-4d23-bf9a-4b7d0ecbea40",
+    "name": "Plastic",
+    "price": 5608408,
+    "type": "Prefabricated Aluminum Metal Canopies",
+    "quantity": 57
+  },
+  {
+    "id": 785,
+    "code": "f6d4f7e2-ec8c-4a5f-8aa6-531ffde3c603",
+    "name": "Brass",
+    "price": 3489127,
+    "type": "Overhead Doors",
+    "quantity": 13
+  },
+  {
+    "id": 786,
+    "code": "4b420221-c9d9-4eac-8dfe-68eafe7f12ae",
+    "name": "Granite",
+    "price": 2789669,
+    "type": "Fire Protection",
+    "quantity": 50
+  },
+  {
+    "id": 787,
+    "code": "7a5fe10a-7364-4355-9b6f-fd4eacbed198",
+    "name": "Steel",
+    "price": 4579469,
+    "type": "Granite Surfaces",
+    "quantity": 18
+  },
+  {
+    "id": 788,
+    "code": "d933f6a3-cd58-4b19-9745-3c2a8ca9bd76",
+    "name": "Glass",
+    "price": 1278226,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 79
+  },
+  {
+    "id": 789,
+    "code": "66aca021-485a-4ef8-bf3c-01b4eebc25ae",
+    "name": "Steel",
+    "price": 9379824,
+    "type": "Soft Flooring and Base",
+    "quantity": 66
+  },
+  {
+    "id": 790,
+    "code": "7305f7d1-d300-4b7c-968f-82227a4f7749",
+    "name": "Steel",
+    "price": 3346569,
+    "type": "Curb & Gutter",
+    "quantity": 34
+  },
+  {
+    "id": 791,
+    "code": "19d05280-298c-4ef4-85bf-43b3372557d7",
+    "name": "Wood",
+    "price": 7101179,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 58
+  },
+  {
+    "id": 792,
+    "code": "5cfd7782-1b39-4920-8df2-5f7617b72c19",
+    "name": "Plastic",
+    "price": 2596705,
+    "type": "Framing (Wood)",
+    "quantity": 85
+  },
+  {
+    "id": 793,
+    "code": "c87328f8-4b78-46c4-98d1-d28c8eaeb827",
+    "name": "Steel",
+    "price": 8442899,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 88
+  },
+  {
+    "id": 794,
+    "code": "7880d0f5-09cb-4471-af1b-ba871a5239dc",
+    "name": "Plastic",
+    "price": 2872238,
+    "type": "Roofing (Metal)",
+    "quantity": 52
+  },
+  {
+    "id": 795,
+    "code": "58afc23f-1206-41cb-b931-ee4dfeda2f78",
+    "name": "Plexiglass",
+    "price": 8557724,
+    "type": "HVAC",
+    "quantity": 59
+  },
+  {
+    "id": 796,
+    "code": "c7dbcf4c-d4db-424e-9946-f6e6350864f0",
+    "name": "Granite",
+    "price": 3933550,
+    "type": "Masonry",
+    "quantity": 67
+  },
+  {
+    "id": 797,
+    "code": "f5e67497-9b8d-4125-9bcc-cb4bf7921eb7",
+    "name": "Vinyl",
+    "price": 7859447,
+    "type": "Curb & Gutter",
+    "quantity": 18
+  },
+  {
+    "id": 798,
+    "code": "d0c15782-6ac4-49a9-add4-3e43f5efa553",
+    "name": "Wood",
+    "price": 559125,
+    "type": "Marlite Panels (FED)",
+    "quantity": 70
+  },
+  {
+    "id": 799,
+    "code": "d19b1798-371f-4716-b760-e5c30d1f9bfd",
+    "name": "Plastic",
+    "price": 8309251,
+    "type": "Framing (Wood)",
+    "quantity": 87
+  },
+  {
+    "id": 800,
+    "code": "7b6707c4-c269-4303-978d-64f998d1b81f",
+    "name": "Rubber",
+    "price": 4453619,
+    "type": "Sitework & Site Utilities",
+    "quantity": 50
+  },
+  {
+    "id": 801,
+    "code": "ef38a3b8-0a8d-4dfe-b493-ea2fb6412c43",
+    "name": "Steel",
+    "price": 4090210,
+    "type": "Roofing (Metal)",
+    "quantity": 26
+  },
+  {
+    "id": 802,
+    "code": "13f8d84f-7f17-4afa-bbac-ebd2155203ba",
+    "name": "Vinyl",
+    "price": 5680222,
+    "type": "Electrical",
+    "quantity": 58
+  },
+  {
+    "id": 803,
+    "code": "552db446-fe3c-49c0-8221-2e1f519d86c8",
+    "name": "Aluminum",
+    "price": 5242467,
+    "type": "Overhead Doors",
+    "quantity": 78
+  },
+  {
+    "id": 804,
+    "code": "47e81be7-5b75-44a3-afca-a361708ae8ab",
+    "name": "Glass",
+    "price": 2367756,
+    "type": "Exterior Signage",
+    "quantity": 2
+  },
+  {
+    "id": 805,
+    "code": "d8d58139-05b9-4028-8f4b-40883855ce8d",
+    "name": "Plexiglass",
+    "price": 6387689,
+    "type": "Roofing (Asphalt)",
+    "quantity": 37
+  },
+  {
+    "id": 806,
+    "code": "490d1068-5df3-490a-a458-c3526e185fa1",
+    "name": "Plexiglass",
+    "price": 1046842,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 30
+  },
+  {
+    "id": 807,
+    "code": "310ea592-1fd0-4ef5-8a05-f7ad73a20806",
+    "name": "Stone",
+    "price": 1090285,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 46
+  },
+  {
+    "id": 808,
+    "code": "14f6cf31-f96b-434d-8a80-9049ff8bdd17",
+    "name": "Granite",
+    "price": 6828786,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 85
+  },
+  {
+    "id": 809,
+    "code": "8b1888e5-769d-4124-8df3-d24ed8e16713",
+    "name": "Steel",
+    "price": 2558219,
+    "type": "Fire Protection",
+    "quantity": 93
+  },
+  {
+    "id": 810,
+    "code": "f9622d79-9226-4fce-b8a9-2f53c8771dbf",
+    "name": "Vinyl",
+    "price": 4130055,
+    "type": "Wall Protection",
+    "quantity": 10
+  },
+  {
+    "id": 811,
+    "code": "887d3997-de30-478d-a9cf-7298813ce1eb",
+    "name": "Vinyl",
+    "price": 2281064,
+    "type": "Wall Protection",
+    "quantity": 87
+  },
+  {
+    "id": 812,
+    "code": "12d8c752-2bbc-4b16-a648-ac9b4f98c57f",
+    "name": "Aluminum",
+    "price": 8662148,
+    "type": "EIFS",
+    "quantity": 95
+  },
+  {
+    "id": 813,
+    "code": "ad704c09-e2aa-473f-af25-9a650d953e36",
+    "name": "Plastic",
+    "price": 112414,
+    "type": "Epoxy Flooring",
+    "quantity": 3
+  },
+  {
+    "id": 814,
+    "code": "7be3bddb-c77c-48a0-a02a-bac4d884c8b3",
+    "name": "Glass",
+    "price": 7464994,
+    "type": "Site Furnishings",
+    "quantity": 80
+  },
+  {
+    "id": 815,
+    "code": "0166e940-1700-453d-8d9a-893064323e9c",
+    "name": "Aluminum",
+    "price": 27993,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 11
+  },
+  {
+    "id": 816,
+    "code": "6657494c-e53f-4aaf-868d-dda0b2d4fbd2",
+    "name": "Wood",
+    "price": 4668618,
+    "type": "Fire Sprinkler System",
+    "quantity": 99
+  },
+  {
+    "id": 817,
+    "code": "c8b2a3a0-bb5d-4495-8c89-52aad7242d14",
+    "name": "Rubber",
+    "price": 9062824,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 10
+  },
+  {
+    "id": 818,
+    "code": "5dbfbd50-d51f-433f-8668-8b886db928ed",
+    "name": "Stone",
+    "price": 4689130,
+    "type": "Framing (Wood)",
+    "quantity": 41
+  },
+  {
+    "id": 819,
+    "code": "d169cfcb-0b41-40b8-b54d-8291821eaf25",
+    "name": "Aluminum",
+    "price": 500897,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 56
+  },
+  {
+    "id": 820,
+    "code": "ac9da494-1f9e-41c5-ad5d-fb46510797ee",
+    "name": "Vinyl",
+    "price": 6091847,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 61
+  },
+  {
+    "id": 821,
+    "code": "6d2298d8-c64e-4b0e-8512-7cc1990bad89",
+    "name": "Stone",
+    "price": 2829365,
+    "type": "EIFS",
+    "quantity": 90
+  },
+  {
+    "id": 822,
+    "code": "03dcc761-3abc-4102-a08b-cbd7b618ac0c",
+    "name": "Rubber",
+    "price": 7535384,
+    "type": "Epoxy Flooring",
+    "quantity": 86
+  },
+  {
+    "id": 823,
+    "code": "5a71383f-400d-41ca-82de-d6dfbdce3e9a",
+    "name": "Steel",
+    "price": 5242970,
+    "type": "Electrical",
+    "quantity": 85
+  },
+  {
+    "id": 824,
+    "code": "baca60ca-3c1f-44fa-89b2-61af85ef9f44",
+    "name": "Granite",
+    "price": 6181645,
+    "type": "Site Furnishings",
+    "quantity": 57
+  },
+  {
+    "id": 825,
+    "code": "d91984a5-96a4-4864-82b4-091fc4819734",
+    "name": "Vinyl",
+    "price": 6702489,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 45
+  },
+  {
+    "id": 826,
+    "code": "6cf0b5cc-8793-42ca-8e24-a9a1b83507e1",
+    "name": "Plexiglass",
+    "price": 148364,
+    "type": "Framing (Steel)",
+    "quantity": 56
+  },
+  {
+    "id": 827,
+    "code": "1b099c02-fe08-4e57-8a6b-efcae2be280c",
+    "name": "Vinyl",
+    "price": 5302240,
+    "type": "Glass & Glazing",
+    "quantity": 82
+  },
+  {
+    "id": 828,
+    "code": "fb3e6843-6308-4ecb-82b7-879dc5c1b0c5",
+    "name": "Plexiglass",
+    "price": 1620734,
+    "type": "Glass & Glazing",
+    "quantity": 8
+  },
+  {
+    "id": 829,
+    "code": "39ddca3c-db47-4afe-a462-d87a44450311",
+    "name": "Aluminum",
+    "price": 9400492,
+    "type": "Soft Flooring and Base",
+    "quantity": 20
+  },
+  {
+    "id": 830,
+    "code": "fd387b94-4e16-4d74-ba77-3a30c099bc71",
+    "name": "Wood",
+    "price": 1630620,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 90
+  },
+  {
+    "id": 831,
+    "code": "f2600bec-2731-463d-aa5a-8eea5bde860a",
+    "name": "Steel",
+    "price": 3751882,
+    "type": "Masonry & Precast",
+    "quantity": 89
+  },
+  {
+    "id": 832,
+    "code": "3a77b071-d2f3-4dba-8405-4cf26b705df3",
+    "name": "Steel",
+    "price": 8767866,
+    "type": "Granite Surfaces",
+    "quantity": 42
+  },
+  {
+    "id": 833,
+    "code": "6e117672-225c-49b6-8582-b778455fb56d",
+    "name": "Rubber",
+    "price": 5285458,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 72
+  },
+  {
+    "id": 834,
+    "code": "031dbc73-fbd0-42f6-a1a1-55d7c318dc81",
+    "name": "Stone",
+    "price": 5908331,
+    "type": "Asphalt Paving",
+    "quantity": 19
+  },
+  {
+    "id": 835,
+    "code": "92979338-e944-4364-85ce-09952054b02a",
+    "name": "Steel",
+    "price": 5114852,
+    "type": "Roofing (Asphalt)",
+    "quantity": 88
+  },
+  {
+    "id": 836,
+    "code": "be77f5bc-e66e-460a-bf52-cdd072cf7927",
+    "name": "Plastic",
+    "price": 4702652,
+    "type": "Masonry",
+    "quantity": 53
+  },
+  {
+    "id": 837,
+    "code": "eb45f5f5-5636-4a77-bf59-b601f8a87142",
+    "name": "Plastic",
+    "price": 1342822,
+    "type": "Casework",
+    "quantity": 84
+  },
+  {
+    "id": 838,
+    "code": "50e45cb2-b0c9-44c5-96f6-e73393fb9eaf",
+    "name": "Steel",
+    "price": 9161262,
+    "type": "Marlite Panels (FED)",
+    "quantity": 40
+  },
+  {
+    "id": 839,
+    "code": "43266815-94e6-43ea-be30-dea9836bd0f9",
+    "name": "Plastic",
+    "price": 4812656,
+    "type": "Hard Tile & Stone",
+    "quantity": 91
+  },
+  {
+    "id": 840,
+    "code": "2ae4525c-f8ea-4717-a268-61c6b1b55642",
+    "name": "Brass",
+    "price": 9613521,
+    "type": "Termite Control",
+    "quantity": 8
+  },
+  {
+    "id": 841,
+    "code": "01f659f9-5f30-4c90-b1e0-a4e7863e78a0",
+    "name": "Wood",
+    "price": 6438535,
+    "type": "Waterproofing & Caulking",
+    "quantity": 12
+  },
+  {
+    "id": 842,
+    "code": "5328c89b-7785-4076-908a-3f7836f6a13e",
+    "name": "Aluminum",
+    "price": 7929224,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 19
+  },
+  {
+    "id": 843,
+    "code": "e7c07340-8aca-41b1-ac37-aa4054173360",
+    "name": "Brass",
+    "price": 3579079,
+    "type": "Waterproofing & Caulking",
+    "quantity": 68
+  },
+  {
+    "id": 844,
+    "code": "0430675a-1286-4faa-a15f-16f2cfcc1d2d",
+    "name": "Rubber",
+    "price": 3062185,
+    "type": "Electrical",
+    "quantity": 42
+  },
+  {
+    "id": 845,
+    "code": "65103d75-00d8-4473-b3b4-07de7872fe90",
+    "name": "Wood",
+    "price": 4674840,
+    "type": "Waterproofing & Caulking",
+    "quantity": 73
+  },
+  {
+    "id": 846,
+    "code": "a606919d-38ca-4f20-9d23-e463521b7a9d",
+    "name": "Glass",
+    "price": 1539126,
+    "type": "Overhead Doors",
+    "quantity": 41
+  },
+  {
+    "id": 847,
+    "code": "247c1abc-d6c6-4a54-905e-27300c36a915",
+    "name": "Steel",
+    "price": 174268,
+    "type": "Termite Control",
+    "quantity": 84
+  },
+  {
+    "id": 848,
+    "code": "4a8c29f4-22ff-4f09-8e4c-c354c3a40675",
+    "name": "Granite",
+    "price": 8046698,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 52
+  },
+  {
+    "id": 849,
+    "code": "bcaabe81-a4fd-4f77-b960-3e2fb8f264bd",
+    "name": "Granite",
+    "price": 1652591,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 11
+  },
+  {
+    "id": 850,
+    "code": "a7827b6f-fe0a-4d59-a96c-16f730d31d4f",
+    "name": "Wood",
+    "price": 3333243,
+    "type": "Site Furnishings",
+    "quantity": 86
+  },
+  {
+    "id": 851,
+    "code": "14ada4b5-94d5-494c-a677-7e5797983054",
+    "name": "Plexiglass",
+    "price": 3728244,
+    "type": "Elevator",
+    "quantity": 98
+  },
+  {
+    "id": 852,
+    "code": "85bee7b9-68af-4b87-815b-99d1580a18ee",
+    "name": "Aluminum",
+    "price": 9050573,
+    "type": "Marlite Panels (FED)",
+    "quantity": 39
+  },
+  {
+    "id": 853,
+    "code": "5ba446e8-385d-4644-84b6-2b6d9febe116",
+    "name": "Plexiglass",
+    "price": 6134808,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 43
+  },
+  {
+    "id": 854,
+    "code": "40f09e1c-ef9c-4a91-9259-ae340559ddbf",
+    "name": "Wood",
+    "price": 2644272,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 7
+  },
+  {
+    "id": 855,
+    "code": "37f9d29c-935c-47e4-a36d-638f34930ab2",
+    "name": "Vinyl",
+    "price": 8576085,
+    "type": "Fire Sprinkler System",
+    "quantity": 59
+  },
+  {
+    "id": 856,
+    "code": "3369b0d7-cbe8-49a3-bb07-ed8b0e80b546",
+    "name": "Vinyl",
+    "price": 533370,
+    "type": "Masonry & Precast",
+    "quantity": 66
+  },
+  {
+    "id": 857,
+    "code": "3440a6ac-0654-402c-8db8-17e60b018cd9",
+    "name": "Vinyl",
+    "price": 11687,
+    "type": "Site Furnishings",
+    "quantity": 52
+  },
+  {
+    "id": 858,
+    "code": "cb150016-521e-4b51-b97a-f6be41fe11c0",
+    "name": "Rubber",
+    "price": 3040512,
+    "type": "Framing (Steel)",
+    "quantity": 17
+  },
+  {
+    "id": 859,
+    "code": "feb2ef9a-ea02-4113-88df-d6fb8efe977f",
+    "name": "Stone",
+    "price": 9580283,
+    "type": "Electrical",
+    "quantity": 80
+  },
+  {
+    "id": 860,
+    "code": "74028084-31dd-4bbe-b2cb-9abcf81b0aee",
+    "name": "Rubber",
+    "price": 1336911,
+    "type": "Roofing (Metal)",
+    "quantity": 86
+  },
+  {
+    "id": 861,
+    "code": "c4c8fd8c-d8ca-4b13-a660-381681837567",
+    "name": "Aluminum",
+    "price": 4303356,
+    "type": "EIFS",
+    "quantity": 74
+  },
+  {
+    "id": 862,
+    "code": "b6c3b56a-206e-4a0c-bfc4-0c2b94791290",
+    "name": "Stone",
+    "price": 1192640,
+    "type": "Fire Protection",
+    "quantity": 15
+  },
+  {
+    "id": 863,
+    "code": "659f8b9c-7ff6-4893-8a24-d63d689eabbe",
+    "name": "Plexiglass",
+    "price": 4866878,
+    "type": "Framing (Steel)",
+    "quantity": 33
+  },
+  {
+    "id": 864,
+    "code": "e3e8215c-f71c-4fff-a27b-0b863680049b",
+    "name": "Stone",
+    "price": 4510673,
+    "type": "Framing (Steel)",
+    "quantity": 94
+  },
+  {
+    "id": 865,
+    "code": "d325161e-f829-4d8f-b48e-ba3c219493b9",
+    "name": "Stone",
+    "price": 6297122,
+    "type": "Exterior Signage",
+    "quantity": 67
+  },
+  {
+    "id": 866,
+    "code": "79cc6341-4850-4deb-b4b2-57f27ed21bff",
+    "name": "Rubber",
+    "price": 5834942,
+    "type": "Casework",
+    "quantity": 83
+  },
+  {
+    "id": 867,
+    "code": "1e286b86-5e4e-4b02-8cdf-3d18a2109d89",
+    "name": "Granite",
+    "price": 790486,
+    "type": "Epoxy Flooring",
+    "quantity": 9
+  },
+  {
+    "id": 868,
+    "code": "16ad08fb-2ee8-42cb-9bb8-d88ee0b22987",
+    "name": "Brass",
+    "price": 1411509,
+    "type": "Roofing (Asphalt)",
+    "quantity": 54
+  },
+  {
+    "id": 869,
+    "code": "897d8f30-2b17-4296-b9a1-7f83260edea2",
+    "name": "Glass",
+    "price": 9991882,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 98
+  },
+  {
+    "id": 870,
+    "code": "d21e50ba-e1e5-4ef1-814f-dfa0257fc82a",
+    "name": "Brass",
+    "price": 7115729,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 46
+  },
+  {
+    "id": 871,
+    "code": "7afff95c-6550-48fd-9bdc-2508519a97ad",
+    "name": "Plexiglass",
+    "price": 1788512,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 41
+  },
+  {
+    "id": 872,
+    "code": "94ebac5a-f456-46f5-a71a-0992a0d97130",
+    "name": "Wood",
+    "price": 6330683,
+    "type": "Waterproofing & Caulking",
+    "quantity": 29
+  },
+  {
+    "id": 873,
+    "code": "1fcc4d89-c0b6-41a6-bb7f-6e5a09c68e76",
+    "name": "Stone",
+    "price": 157990,
+    "type": "Sitework & Site Utilities",
+    "quantity": 1
+  },
+  {
+    "id": 874,
+    "code": "cfb5287f-f506-48ba-9c62-2fefefb124bf",
+    "name": "Vinyl",
+    "price": 7797086,
+    "type": "Roofing (Asphalt)",
+    "quantity": 85
+  },
+  {
+    "id": 875,
+    "code": "12782cf7-632b-49cc-a50f-60ff59b900ca",
+    "name": "Glass",
+    "price": 9870816,
+    "type": "Roofing (Metal)",
+    "quantity": 8
+  },
+  {
+    "id": 876,
+    "code": "98f64581-1fc8-4841-8aba-7e54cf8a7119",
+    "name": "Brass",
+    "price": 7421271,
+    "type": "Granite Surfaces",
+    "quantity": 65
+  },
+  {
+    "id": 877,
+    "code": "8ef0983a-9986-4ce7-9850-3a7b5e491a85",
+    "name": "Plexiglass",
+    "price": 8979744,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 25
+  },
+  {
+    "id": 878,
+    "code": "3dade07a-fe5a-4d96-90be-8441a74b041b",
+    "name": "Brass",
+    "price": 7931483,
+    "type": "Elevator",
+    "quantity": 68
+  },
+  {
+    "id": 879,
+    "code": "9256020a-f6e3-4239-90f1-ee44d299a9f2",
+    "name": "Aluminum",
+    "price": 9253646,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 84
+  },
+  {
+    "id": 880,
+    "code": "73d0f707-54c5-48b5-b74c-b7cf0d02c0f8",
+    "name": "Brass",
+    "price": 6625606,
+    "type": "Elevator",
+    "quantity": 100
+  },
+  {
+    "id": 881,
+    "code": "515863e5-c422-478e-ba89-5d5ab77e1651",
+    "name": "Stone",
+    "price": 5548364,
+    "type": "Glass & Glazing",
+    "quantity": 57
+  },
+  {
+    "id": 882,
+    "code": "924f9558-18ad-42de-89e4-ded3f42558db",
+    "name": "Plexiglass",
+    "price": 2574239,
+    "type": "Fire Sprinkler System",
+    "quantity": 26
+  },
+  {
+    "id": 883,
+    "code": "9371ea20-7b0c-4d2b-ae2f-3b007f0d2a59",
+    "name": "Vinyl",
+    "price": 9397279,
+    "type": "Marlite Panels (FED)",
+    "quantity": 86
+  },
+  {
+    "id": 884,
+    "code": "c0ae2e1d-f05b-41d9-bf14-62cf238e7942",
+    "name": "Aluminum",
+    "price": 2584082,
+    "type": "Overhead Doors",
+    "quantity": 94
+  },
+  {
+    "id": 885,
+    "code": "d757854d-e869-4ac2-9187-ea20f2b40f7c",
+    "name": "Rubber",
+    "price": 6048387,
+    "type": "Framing (Steel)",
+    "quantity": 58
+  },
+  {
+    "id": 886,
+    "code": "3e0aa352-f268-43cf-a029-af5661825472",
+    "name": "Rubber",
+    "price": 6226640,
+    "type": "Granite Surfaces",
+    "quantity": 85
+  },
+  {
+    "id": 887,
+    "code": "0e89850f-6ea4-497f-b470-e367fb7a7db3",
+    "name": "Granite",
+    "price": 5753770,
+    "type": "Site Furnishings",
+    "quantity": 14
+  },
+  {
+    "id": 888,
+    "code": "2c313382-dfc1-4c6e-b414-4cd6f4e295f6",
+    "name": "Steel",
+    "price": 9192809,
+    "type": "Masonry & Precast",
+    "quantity": 73
+  },
+  {
+    "id": 889,
+    "code": "c02d7bcb-8739-4748-b03a-51e51c35a2aa",
+    "name": "Wood",
+    "price": 2674622,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 61
+  },
+  {
+    "id": 890,
+    "code": "248b34b1-ab6b-427f-9bb0-cecfc3fff4a9",
+    "name": "Glass",
+    "price": 2772823,
+    "type": "Granite Surfaces",
+    "quantity": 97
+  },
+  {
+    "id": 891,
+    "code": "37691a36-3561-49a3-b2c8-958ce4fba0bd",
+    "name": "Plexiglass",
+    "price": 252111,
+    "type": "Roofing (Metal)",
+    "quantity": 76
+  },
+  {
+    "id": 892,
+    "code": "40530cb0-18d8-4cbb-be74-b7756aa732e2",
+    "name": "Brass",
+    "price": 5810632,
+    "type": "Marlite Panels (FED)",
+    "quantity": 7
+  },
+  {
+    "id": 893,
+    "code": "76d2aab7-8d66-4069-ae71-89f7d53411da",
+    "name": "Glass",
+    "price": 992513,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 16
+  },
+  {
+    "id": 894,
+    "code": "5eb5f9bd-328d-4392-9224-912ce0e8dc2a",
+    "name": "Granite",
+    "price": 3773405,
+    "type": "Elevator",
+    "quantity": 55
+  },
+  {
+    "id": 895,
+    "code": "04fc4e6a-37ad-4362-a693-edfc707c4c2c",
+    "name": "Wood",
+    "price": 3980476,
+    "type": "Granite Surfaces",
+    "quantity": 91
+  },
+  {
+    "id": 896,
+    "code": "c31b2e5a-cd08-4106-b5f4-9af968c55fcf",
+    "name": "Stone",
+    "price": 4902819,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 14
+  },
+  {
+    "id": 897,
+    "code": "65511532-8ebd-42ba-99d3-fb94bd8fab01",
+    "name": "Granite",
+    "price": 514026,
+    "type": "Drilled Shafts",
+    "quantity": 9
+  },
+  {
+    "id": 898,
+    "code": "c386e11d-dc21-48b0-ad21-b15a087a08d1",
+    "name": "Brass",
+    "price": 6727648,
+    "type": "Masonry & Precast",
+    "quantity": 97
+  },
+  {
+    "id": 899,
+    "code": "3d3120a6-4133-405b-9a25-eaa62c3ccf52",
+    "name": "Glass",
+    "price": 4797199,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 2
+  },
+  {
+    "id": 900,
+    "code": "cb89dce8-ec3e-4d1d-b095-05fee945b2aa",
+    "name": "Steel",
+    "price": 4173922,
+    "type": "Soft Flooring and Base",
+    "quantity": 36
+  },
+  {
+    "id": 901,
+    "code": "21d35d4a-5918-4475-85e1-e9aed34ab2ea",
+    "name": "Stone",
+    "price": 5051153,
+    "type": "Framing (Wood)",
+    "quantity": 44
+  },
+  {
+    "id": 902,
+    "code": "30c2aa0c-64b6-43a7-9ea8-c894d4a3613c",
+    "name": "Granite",
+    "price": 2884345,
+    "type": "Fire Protection",
+    "quantity": 16
+  },
+  {
+    "id": 903,
+    "code": "0c5796c9-3e66-409f-8d20-370920b30e2a",
+    "name": "Aluminum",
+    "price": 2910051,
+    "type": "Framing (Wood)",
+    "quantity": 64
+  },
+  {
+    "id": 904,
+    "code": "fa7fda39-02b5-4e33-8979-5a8b3596914d",
+    "name": "Plexiglass",
+    "price": 463765,
+    "type": "Wall Protection",
+    "quantity": 80
+  },
+  {
+    "id": 905,
+    "code": "81885e44-d83c-4243-af95-3d4b0d71a97e",
+    "name": "Glass",
+    "price": 6236043,
+    "type": "Granite Surfaces",
+    "quantity": 28
+  },
+  {
+    "id": 906,
+    "code": "43fdaf3e-e60c-4c86-a631-638fadad5514",
+    "name": "Brass",
+    "price": 9238408,
+    "type": "Landscaping & Irrigation",
+    "quantity": 88
+  },
+  {
+    "id": 907,
+    "code": "9c2debcf-847e-4ae2-a059-dd0bf49e6569",
+    "name": "Vinyl",
+    "price": 4062746,
+    "type": "Fire Sprinkler System",
+    "quantity": 35
+  },
+  {
+    "id": 908,
+    "code": "9b17db27-736d-45e2-bdad-3eab295c74ba",
+    "name": "Rubber",
+    "price": 7347385,
+    "type": "Prefabricated Aluminum Metal Canopies",
+    "quantity": 7
+  },
+  {
+    "id": 909,
+    "code": "41cfeba5-c646-467b-b66c-0396b54f067f",
+    "name": "Plastic",
+    "price": 195860,
+    "type": "Wall Protection",
+    "quantity": 76
+  },
+  {
+    "id": 910,
+    "code": "e8596e8d-718d-4f4c-8daa-18b37095c483",
+    "name": "Steel",
+    "price": 4610389,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 93
+  },
+  {
+    "id": 911,
+    "code": "9d664f25-29f2-4e0e-abbd-46a59f8fd00f",
+    "name": "Plexiglass",
+    "price": 2883687,
+    "type": "EIFS",
+    "quantity": 56
+  },
+  {
+    "id": 912,
+    "code": "948f21cf-4919-4796-8af5-a0328c0fab8e",
+    "name": "Wood",
+    "price": 5737220,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 97
+  },
+  {
+    "id": 913,
+    "code": "d2e594d4-e987-4718-b7d4-d345ff1dd928",
+    "name": "Aluminum",
+    "price": 4493480,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 10
+  },
+  {
+    "id": 914,
+    "code": "622da8c7-7d2f-4464-80c7-6116063fa520",
+    "name": "Aluminum",
+    "price": 2716107,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 89
+  },
+  {
+    "id": 915,
+    "code": "9be0f024-b811-4a90-9d26-3f8115dcf108",
+    "name": "Stone",
+    "price": 7019334,
+    "type": "Electrical",
+    "quantity": 13
+  },
+  {
+    "id": 916,
+    "code": "320055d7-33f2-47ae-ba15-895ceff88dd1",
+    "name": "Brass",
+    "price": 817204,
+    "type": "Fire Sprinkler System",
+    "quantity": 51
+  },
+  {
+    "id": 917,
+    "code": "1359b504-bc65-43d7-816c-c05418c9fd11",
+    "name": "Aluminum",
+    "price": 6437020,
+    "type": "Exterior Signage",
+    "quantity": 72
+  },
+  {
+    "id": 918,
+    "code": "15825d03-cc04-4058-b985-176a858ce968",
+    "name": "Plexiglass",
+    "price": 8217662,
+    "type": "Construction Clean and Final Clean",
+    "quantity": 19
+  },
+  {
+    "id": 919,
+    "code": "58881dbc-78fb-43f4-9a4e-e2c789efb327",
+    "name": "Stone",
+    "price": 4672724,
+    "type": "Casework",
+    "quantity": 13
+  },
+  {
+    "id": 920,
+    "code": "715d2374-154f-44f6-aaee-b82c4b1cefd2",
+    "name": "Rubber",
+    "price": 1336753,
+    "type": "Termite Control",
+    "quantity": 58
+  },
+  {
+    "id": 921,
+    "code": "e6bc555a-7ecd-454d-b8e4-162202e833e7",
+    "name": "Plexiglass",
+    "price": 2271533,
+    "type": "Wall Protection",
+    "quantity": 26
+  },
+  {
+    "id": 922,
+    "code": "41ad6749-c421-410f-949a-6b919cfe3f78",
+    "name": "Granite",
+    "price": 8037838,
+    "type": "Prefabricated Aluminum Metal Canopies",
+    "quantity": 90
+  },
+  {
+    "id": 923,
+    "code": "23eb6a76-9230-4cbb-887d-1c9cc1f43946",
+    "name": "Aluminum",
+    "price": 9189557,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 54
+  },
+  {
+    "id": 924,
+    "code": "39cc2653-cd06-4d47-b330-248f0e90e8f2",
+    "name": "Plastic",
+    "price": 6167938,
+    "type": "Roofing (Metal)",
+    "quantity": 18
+  },
+  {
+    "id": 925,
+    "code": "c087329d-99d4-4f85-9e3e-dd8206d450fa",
+    "name": "Vinyl",
+    "price": 840723,
+    "type": "Asphalt Paving",
+    "quantity": 85
+  },
+  {
+    "id": 926,
+    "code": "2e5e03c5-8adf-44dd-a2f8-adee9340e34e",
+    "name": "Steel",
+    "price": 3457286,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 52
+  },
+  {
+    "id": 927,
+    "code": "73e76b83-77ae-46da-83c2-a3200fb8d758",
+    "name": "Steel",
+    "price": 2825222,
+    "type": "Wall Protection",
+    "quantity": 47
+  },
+  {
+    "id": 928,
+    "code": "606e20be-7be7-4cae-9c86-e48aee8f0d79",
+    "name": "Granite",
+    "price": 4915636,
+    "type": "Overhead Doors",
+    "quantity": 80
+  },
+  {
+    "id": 929,
+    "code": "7d7063ef-db8c-442e-bc21-a377781b59ab",
+    "name": "Plexiglass",
+    "price": 3944856,
+    "type": "Asphalt Paving",
+    "quantity": 21
+  },
+  {
+    "id": 930,
+    "code": "f7eaab17-4339-41c4-88a9-35a214bc98d7",
+    "name": "Brass",
+    "price": 1982085,
+    "type": "Masonry",
+    "quantity": 34
+  },
+  {
+    "id": 931,
+    "code": "0f953b3a-d87e-402c-9add-86da61bb6deb",
+    "name": "Rubber",
+    "price": 4647737,
+    "type": "Landscaping & Irrigation",
+    "quantity": 35
+  },
+  {
+    "id": 932,
+    "code": "91d5f6e4-1c2c-45ae-8755-d7b5228d7827",
+    "name": "Steel",
+    "price": 9728263,
+    "type": "Waterproofing & Caulking",
+    "quantity": 44
+  },
+  {
+    "id": 933,
+    "code": "159f9dc3-a335-4957-95f6-9a2b99e36ce1",
+    "name": "Rubber",
+    "price": 1355628,
+    "type": "Landscaping & Irrigation",
+    "quantity": 6
+  },
+  {
+    "id": 934,
+    "code": "eb00d512-702a-43fb-ac92-b4636a663a6c",
+    "name": "Stone",
+    "price": 9581348,
+    "type": "Framing (Steel)",
+    "quantity": 61
+  },
+  {
+    "id": 935,
+    "code": "8fce6782-6fb6-4f7f-b944-2a9242515884",
+    "name": "Glass",
+    "price": 763368,
+    "type": "Electrical and Fire Alarm",
+    "quantity": 99
+  },
+  {
+    "id": 936,
+    "code": "0da3c2c0-2305-4a39-9bf9-fd0e3a6dfa7a",
+    "name": "Wood",
+    "price": 1932858,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 42
+  },
+  {
+    "id": 937,
+    "code": "44d2386c-fabf-4e7f-b045-43e964d408a1",
+    "name": "Glass",
+    "price": 3518259,
+    "type": "Roofing (Asphalt)",
+    "quantity": 12
+  },
+  {
+    "id": 938,
+    "code": "7e351b60-5cc1-4a1b-bea6-c6766ba98065",
+    "name": "Brass",
+    "price": 6507014,
+    "type": "Sitework & Site Utilities",
+    "quantity": 45
+  },
+  {
+    "id": 939,
+    "code": "0ca5565b-fa36-4f0e-916e-1d89ddcef8f5",
+    "name": "Glass",
+    "price": 8946545,
+    "type": "Hard Tile & Stone",
+    "quantity": 11
+  },
+  {
+    "id": 940,
+    "code": "75ae7997-ce1b-49bd-a003-079f6ac67fe9",
+    "name": "Rubber",
+    "price": 51176,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 14
+  },
+  {
+    "id": 941,
+    "code": "b48a05b7-6714-4214-b494-42af61267baf",
+    "name": "Aluminum",
+    "price": 4095356,
+    "type": "Wall Protection",
+    "quantity": 30
+  },
+  {
+    "id": 942,
+    "code": "66d4a5d4-2020-4965-9a21-e1c3c4cd82cb",
+    "name": "Rubber",
+    "price": 51717,
+    "type": "Roofing (Asphalt)",
+    "quantity": 40
+  },
+  {
+    "id": 943,
+    "code": "610dd2e5-f4d1-431f-b6f6-ceccccc69712",
+    "name": "Rubber",
+    "price": 6204920,
+    "type": "Masonry",
+    "quantity": 77
+  },
+  {
+    "id": 944,
+    "code": "d3afbc87-71c2-43e2-b6ea-920cfe08812f",
+    "name": "Aluminum",
+    "price": 2505789,
+    "type": "Landscaping & Irrigation",
+    "quantity": 63
+  },
+  {
+    "id": 945,
+    "code": "5c865354-1efd-43ae-ab35-3a3f1020f8e8",
+    "name": "Steel",
+    "price": 6250293,
+    "type": "Curb & Gutter",
+    "quantity": 54
+  },
+  {
+    "id": 946,
+    "code": "68d28a57-c296-4d39-8e35-da0cfdbfbc1a",
+    "name": "Granite",
+    "price": 7815619,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 89
+  },
+  {
+    "id": 947,
+    "code": "dd3af755-d006-47f9-b51c-22705ac70c90",
+    "name": "Aluminum",
+    "price": 2951226,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 62
+  },
+  {
+    "id": 948,
+    "code": "d92b2624-013c-4284-90af-14ec845e4e13",
+    "name": "Steel",
+    "price": 6360364,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 61
+  },
+  {
+    "id": 949,
+    "code": "5004ec22-aa15-40d0-aeb2-814523ca87b8",
+    "name": "Granite",
+    "price": 5355756,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 64
+  },
+  {
+    "id": 950,
+    "code": "90967d25-60c7-4869-86c0-f95fc38abad0",
+    "name": "Plexiglass",
+    "price": 2039473,
+    "type": "Granite Surfaces",
+    "quantity": 32
+  },
+  {
+    "id": 951,
+    "code": "08abbba0-6209-4e61-9303-7dc93f90d6f4",
+    "name": "Steel",
+    "price": 8972659,
+    "type": "Overhead Doors",
+    "quantity": 92
+  },
+  {
+    "id": 952,
+    "code": "716e34e8-6b7b-459c-acfd-0908602b6f62",
+    "name": "Rubber",
+    "price": 493444,
+    "type": "HVAC",
+    "quantity": 6
+  },
+  {
+    "id": 953,
+    "code": "6ee5acc8-786d-45c6-b09a-1fdfafb106d7",
+    "name": "Rubber",
+    "price": 4292668,
+    "type": "Doors, Frames & Hardware",
+    "quantity": 22
+  },
+  {
+    "id": 954,
+    "code": "2ab1b0db-9f6e-4e48-902f-123b90f3cf20",
+    "name": "Wood",
+    "price": 2254794,
+    "type": "Painting & Vinyl Wall Covering",
+    "quantity": 9
+  },
+  {
+    "id": 955,
+    "code": "ea01423f-95fd-444a-976c-5d421bad2c54",
+    "name": "Stone",
+    "price": 4610229,
+    "type": "Sitework & Site Utilities",
+    "quantity": 41
+  },
+  {
+    "id": 956,
+    "code": "4b715a26-1815-46ec-bb3a-69aa5f9e9370",
+    "name": "Rubber",
+    "price": 5228416,
+    "type": "Framing (Wood)",
+    "quantity": 61
+  },
+  {
+    "id": 957,
+    "code": "7e30ab05-31f7-4c93-86ae-1f1469acb70d",
+    "name": "Steel",
+    "price": 5700953,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 93
+  },
+  {
+    "id": 958,
+    "code": "1b632145-4187-4b53-8de5-d7d05ae2029e",
+    "name": "Wood",
+    "price": 9365341,
+    "type": "Temp Fencing, Decorative Fencing and Gates",
+    "quantity": 41
+  },
+  {
+    "id": 959,
+    "code": "5a635982-23c3-4fc8-b79d-4753f573fb6a",
+    "name": "Steel",
+    "price": 9030989,
+    "type": "Roofing (Metal)",
+    "quantity": 66
+  },
+  {
+    "id": 960,
+    "code": "8d1fa47b-1c9a-4101-a58e-5da914dadb08",
+    "name": "Stone",
+    "price": 9062516,
+    "type": "Waterproofing & Caulking",
+    "quantity": 58
+  },
+  {
+    "id": 961,
+    "code": "711b4ba6-0694-43b2-b07e-31d468df612d",
+    "name": "Glass",
+    "price": 7353029,
+    "type": "Roofing (Asphalt)",
+    "quantity": 2
+  },
+  {
+    "id": 962,
+    "code": "d30cc632-5750-4f98-94ea-fce02e8395d7",
+    "name": "Granite",
+    "price": 3118297,
+    "type": "Fire Sprinkler System",
+    "quantity": 80
+  },
+  {
+    "id": 963,
+    "code": "b84b9657-096f-4a2d-b045-ce667b2007c5",
+    "name": "Plastic",
+    "price": 4626797,
+    "type": "Drywall & Acoustical (MOB)",
+    "quantity": 21
+  },
+  {
+    "id": 964,
+    "code": "078728f1-2196-4b9b-b29b-6067947b487a",
+    "name": "Vinyl",
+    "price": 4732763,
+    "type": "Plumbing & Medical Gas",
+    "quantity": 7
+  },
+  {
+    "id": 965,
+    "code": "c99fe548-f1f6-4751-a7e7-0431abff3d32",
+    "name": "Brass",
+    "price": 4415469,
+    "type": "Glass & Glazing",
+    "quantity": 10
+  },
+  {
+    "id": 966,
+    "code": "4a044767-957d-4866-8f82-c902923a2a4e",
+    "name": "Wood",
+    "price": 747857,
+    "type": "Drywall & Acoustical (FED)",
+    "quantity": 62
+  },
+  {
+    "id": 967,
+    "code": "934d3ee6-8e14-4c57-950a-6d09a5346b78",
+    "name": "Plexiglass",
+    "price": 305983,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 24
+  },
+  {
+    "id": 968,
+    "code": "697499d2-4f1d-4bff-8dc3-dfe7a7c45316",
+    "name": "Aluminum",
+    "price": 5871367,
+    "type": "Marlite Panels (FED)",
+    "quantity": 32
+  },
+  {
+    "id": 969,
+    "code": "fea54b50-0d43-4a5d-9b90-491fb8e3ca76",
+    "name": "Plastic",
+    "price": 905169,
+    "type": "Framing (Wood)",
+    "quantity": 32
+  },
+  {
+    "id": 970,
+    "code": "e8a374b5-2fb5-479e-bcf7-352889f1c150",
+    "name": "Stone",
+    "price": 5510251,
+    "type": "Masonry",
+    "quantity": 49
+  },
+  {
+    "id": 971,
+    "code": "140c2ba9-e3f9-4444-8494-ca4dd3e78ce3",
+    "name": "Wood",
+    "price": 7358483,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 92
+  },
+  {
+    "id": 972,
+    "code": "1d0dd477-9c14-492b-a45d-1b8a0cf6dd59",
+    "name": "Plexiglass",
+    "price": 7123448,
+    "type": "Roofing (Asphalt)",
+    "quantity": 87
+  },
+  {
+    "id": 973,
+    "code": "177c6761-d97d-43c5-ab94-a0769d71331e",
+    "name": "Brass",
+    "price": 4108593,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 87
+  },
+  {
+    "id": 974,
+    "code": "f25b080d-dc64-4bce-87f9-46997ff16bce",
+    "name": "Rubber",
+    "price": 4320156,
+    "type": "EIFS",
+    "quantity": 41
+  },
+  {
+    "id": 975,
+    "code": "b7e19707-4df5-4ee5-9f76-d9b18908eaaa",
+    "name": "Steel",
+    "price": 198424,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 97
+  },
+  {
+    "id": 976,
+    "code": "4c2df340-26dc-4738-8d64-b1e27761a78f",
+    "name": "Vinyl",
+    "price": 2160131,
+    "type": "Marlite Panels (FED)",
+    "quantity": 11
+  },
+  {
+    "id": 977,
+    "code": "565d2d6c-8947-428f-9547-fa83a5745775",
+    "name": "Vinyl",
+    "price": 4408294,
+    "type": "Roofing (Metal)",
+    "quantity": 70
+  },
+  {
+    "id": 978,
+    "code": "c6cb5ad7-7c5a-4ad9-88f3-88054480dac2",
+    "name": "Stone",
+    "price": 1045690,
+    "type": "HVAC",
+    "quantity": 19
+  },
+  {
+    "id": 979,
+    "code": "1cdcdd63-80cf-42f0-8769-9cee925b5fb4",
+    "name": "Brass",
+    "price": 2090326,
+    "type": "Glass & Glazing",
+    "quantity": 82
+  },
+  {
+    "id": 980,
+    "code": "8e42ddd3-705b-4328-bd77-9f8c2ca114f0",
+    "name": "Brass",
+    "price": 9224305,
+    "type": "Prefabricated Aluminum Metal Canopies",
+    "quantity": 37
+  },
+  {
+    "id": 981,
+    "code": "5b5e75e9-2efe-4237-8903-559300bc8af0",
+    "name": "Glass",
+    "price": 5415519,
+    "type": "Retaining Wall and Brick Pavers",
+    "quantity": 100
+  },
+  {
+    "id": 982,
+    "code": "87a13b45-ef94-41ea-b9ca-9c7d2bc7524a",
+    "name": "Steel",
+    "price": 847871,
+    "type": "Structural & Misc Steel Erection",
+    "quantity": 76
+  },
+  {
+    "id": 983,
+    "code": "1f7541b2-820f-4c78-a584-f25c341669b4",
+    "name": "Granite",
+    "price": 872285,
+    "type": "Masonry & Precast",
+    "quantity": 87
+  },
+  {
+    "id": 984,
+    "code": "48eeb93a-0109-4108-a528-c10d045029ce",
+    "name": "Brass",
+    "price": 8736091,
+    "type": "Roofing (Asphalt)",
+    "quantity": 31
+  },
+  {
+    "id": 985,
+    "code": "8bc48091-e328-4a92-bf5d-18db33d3b6ab",
+    "name": "Glass",
+    "price": 988379,
+    "type": "Site Furnishings",
+    "quantity": 83
+  },
+  {
+    "id": 986,
+    "code": "e81ac0b8-4bbb-4386-ae59-f0f40470dc43",
+    "name": "Plexiglass",
+    "price": 4080666,
+    "type": "Rebar & Wire Mesh Install",
+    "quantity": 60
+  },
+  {
+    "id": 987,
+    "code": "d9e1b8b0-54bc-44f5-ab9f-861d2577d694",
+    "name": "Aluminum",
+    "price": 8258164,
+    "type": "Structural and Misc Steel (Fabrication)",
+    "quantity": 68
+  },
+  {
+    "id": 988,
+    "code": "7a8ab98e-1e32-4a7e-a8ab-39165fc2f3ea",
+    "name": "Wood",
+    "price": 3310814,
+    "type": "RF Shielding",
+    "quantity": 73
+  },
+  {
+    "id": 989,
+    "code": "43522992-c009-436b-9609-e69c154bc305",
+    "name": "Rubber",
+    "price": 8172552,
+    "type": "Roofing (Metal)",
+    "quantity": 78
+  },
+  {
+    "id": 990,
+    "code": "4a29946d-6c06-4c4d-91e0-dff4022f9d09",
+    "name": "Glass",
+    "price": 6795266,
+    "type": "Framing (Steel)",
+    "quantity": 15
+  },
+  {
+    "id": 991,
+    "code": "3a62617c-5c3d-470e-86c8-8b7d81097daf",
+    "name": "Glass",
+    "price": 2811220,
+    "type": "EIFS",
+    "quantity": 34
+  },
+  {
+    "id": 992,
+    "code": "5a475c37-8b73-4c5f-8ef8-c275e81d93ff",
+    "name": "Aluminum",
+    "price": 7031346,
+    "type": "Masonry",
+    "quantity": 16
+  },
+  {
+    "id": 993,
+    "code": "a309b5cd-3f04-43d4-97c5-3f9637b4aaed",
+    "name": "Plexiglass",
+    "price": 7228830,
+    "type": "Overhead Doors",
+    "quantity": 74
+  },
+  {
+    "id": 994,
+    "code": "5314d999-81eb-458e-876c-c92e43d0e324",
+    "name": "Plastic",
+    "price": 5382741,
+    "type": "Granite Surfaces",
+    "quantity": 74
+  },
+  {
+    "id": 995,
+    "code": "bef05490-923a-47c7-bfcb-a75612f79d81",
+    "name": "Granite",
+    "price": 8983444,
+    "type": "Granite Surfaces",
+    "quantity": 65
+  },
+  {
+    "id": 996,
+    "code": "784d330d-8da4-41f8-a873-f07edec81a73",
+    "name": "Vinyl",
+    "price": 6942047,
+    "type": "EIFS",
+    "quantity": 35
+  },
+  {
+    "id": 997,
+    "code": "5d4544b8-140d-415d-b8fe-e9e5316ccc3a",
+    "name": "Vinyl",
+    "price": 854325,
+    "type": "Termite Control",
+    "quantity": 41
+  },
+  {
+    "id": 998,
+    "code": "679e1c7b-5878-4e32-9a3b-0c6e928bbc9c",
+    "name": "Plastic",
+    "price": 992148,
+    "type": "Landscaping & Irrigation",
+    "quantity": 32
+  },
+  {
+    "id": 999,
+    "code": "e3dd407a-9c63-4a41-8bf2-6a7282c89af8",
+    "name": "Aluminum",
+    "price": 860169,
+    "type": "Granite Surfaces",
+    "quantity": 90
+  },
+  {
+    "id": 1000,
+    "code": "bbc9949a-30e6-41aa-9a38-4926203aa69f",
+    "name": "Brass",
+    "price": 3984319,
+    "type": "Casework",
+    "quantity": 95
+  }
+]
