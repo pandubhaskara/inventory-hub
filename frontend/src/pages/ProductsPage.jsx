@@ -105,7 +105,7 @@ export default function UserPage() {
     // console.log(import.meta.env)
     let url = import.meta.env.VITE_MOCK_URL;
     if(import.meta.env.PROD){
-      url = 'import.meta\u200benv.VITE_MOCK_URL'
+      url = process.env.VITE_MOCK_URL
     }
     axios
       .get(url + "products")
