@@ -1,6 +1,6 @@
 import { Helmet } from "react-helmet-async";
-import { filter } from "lodash";
 import { useState, useEffect } from "react";
+import axios from "axios";
 
 import {
   Card,
@@ -44,37 +44,37 @@ const TABLE_HEAD = [
 
 // ----------------------------------------------------------------------
 
-function descendingComparator(a, b, orderBy) {
-  if (b[orderBy] < a[orderBy]) {
-    return -1;
-  }
-  if (b[orderBy] > a[orderBy]) {
-    return 1;
-  }
-  return 0;
-}
+// function descendingComparator(a, b, orderBy) {
+//   if (b[orderBy] < a[orderBy]) {
+//     return -1;
+//   }
+//   if (b[orderBy] > a[orderBy]) {
+//     return 1;
+//   }
+//   return 0;
+// }
 
-function getComparator(order, orderBy) {
-  return order === "desc"
-    ? (a, b) => descendingComparator(a, b, orderBy)
-    : (a, b) => -descendingComparator(a, b, orderBy);
-}
+// function getComparator(order, orderBy) {
+//   return order === "desc"
+//     ? (a, b) => descendingComparator(a, b, orderBy)
+//     : (a, b) => -descendingComparator(a, b, orderBy);
+// }
 
-function applySortFilter(array, comparator, query) {
-  const stabilizedThis = array.map((el, index) => [el, index]);
-  stabilizedThis.sort((a, b) => {
-    const order = comparator(a[0], b[0]);
-    if (order !== 0) return order;
-    return a[1] - b[1];
-  });
-  if (query) {
-    return filter(
-      array,
-      (_user) => _user.name.toLowerCase().indexOf(query.toLowerCase()) !== -1
-    );
-  }
-  return stabilizedThis.map((el) => el[0]);
-}
+// function applySortFilter(array, comparator, query) {
+//   const stabilizedThis = array.map((el, id) => [el, id]);
+//   stabilizedThis.sort((a, b) => {
+//     const order = comparator(a[0], b[0]);
+//     if (order !== 0) return order;
+//     return a[1] - b[1];
+//   });
+//   if (query) {
+//     return filter(
+//       array,
+//       (_user) => _user.name.toLowerCase().indexOf(query.toLowerCase()) !== -1
+//     );
+//   }
+//   return stabilizedThis.map((el) => el[0]);
+// }
 
 export default function UserPage() {
   const [open, setOpen] = useState(null);
@@ -100,12 +100,16 @@ export default function UserPage() {
   const [edit, setEdit] = useState({});
 
   useEffect(() => {
-    fetch(import.meta.env.VITE_API_URL + "/products")
-      .then((resp) => resp.json())
-      .then((data) => setProduct(data?.data))
-      .catch((error) => {
-        console.log(error);
-        window.location.href = "/";
+    console.log("useEffect");
+    // console.log(process?.env)
+    // console.log(import.meta.env)
+    axios
+      .get(import.meta.env.VITE_MOCK_URL + "products")
+      .then((response) => {
+        setProduct(response.data);
+      })
+      .catch((err) => {
+        console.log(err);
       });
   }, []);
 
@@ -181,13 +185,13 @@ export default function UserPage() {
   const emptyRows =
     page > 0 ? Math.max(0, (1 + page) * rowsPerPage - product.length) : 0;
 
-  const filteredProducts = applySortFilter(
-    product,
-    getComparator(order, orderBy),
-    filterName
-  );
+  // const filteredProducts = applySortFilter(
+  //   product,
+  //   getComparator(order, orderBy),
+  //   filterName
+  // );
 
-  const isNotFound = !filteredProducts.length && !!filterName;
+  const isNotFound = !product.length && !!filterName;
 
   return (
     <>
@@ -238,7 +242,7 @@ export default function UserPage() {
                 />
 
                 <TableBody>
-                  {filteredProducts
+                  {product
                     ?.slice(
                       page * rowsPerPage,
                       page * rowsPerPage + rowsPerPage
