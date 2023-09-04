@@ -103,8 +103,12 @@ export default function UserPage() {
     console.log("useEffect");
     // console.log(process?.env)
     // console.log(import.meta.env)
+    let url = import.meta.env.VITE_MOCK_URL;
+    if(import.meta.env.PROD){
+      url = 'import.meta\u200benv.VITE_MOCK_URL'
+    }
     axios
-      .get(import.meta.env.VITE_MOCK_URL + "products")
+      .get(url + "products")
       .then((response) => {
         setProduct(response.data);
       })
