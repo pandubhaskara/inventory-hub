@@ -1,0 +1,16 @@
+version: "3.9"
+services:
+  nginx-inventory-hub:
+    container_name: "nginx-inventory-hub"
+    image: "nginx:alpine3.18-slim"
+    restart: unless-stopped
+    ports: 
+      - 8080:80   
+    networks:
+      - invhub
+    volumes:
+      - ./config:/etc/nginx
+      - ./logs:/var/log/nginx
+networks:
+  invhub:
+    external: true
