@@ -1,0 +1,555 @@
+basePath: /
+swagger: "2.0"
+definitions:
+  CommonError:
+    properties:
+      status:
+        description: |-
+          Status of the error
+          in: int64
+        format: int64
+        type: integer
+        x-go-name: Status
+      message:
+        description: |-
+          Message of the error
+          in: string
+        type: string
+        x-go-name: Message
+
+    type: object
+    x-go-package: goswagger/controllers
+  CommonSuccess:
+    properties:
+      message:
+        description: |-
+          Message of the success
+        type: string
+        x-go-name: Message
+      data:
+        description: Data from the request
+        type: object
+        x-go-name: Data
+    type: object
+    x-go-package: goswagger/controllers
+host: dev-coreapp.idstar.co.id
+info:
+  title: "IDSWP-API"
+  version: 1.0.0
+paths:
+  /cresia/auth/token:
+    post:
+      description: User can login with email & password
+      operationId: login
+      parameters:
+        - description: "Login"
+          in: body
+          name: login-form
+          required: true
+          schema:
+            type: object
+            properties:
+              client_id:
+                type: number
+                example: 1
+              client_secret:
+                type: string
+                example: secret123
+              grant_type:
+                type: string
+                example: "password"
+              email:
+                type: string
+                example: johndoe@mail.com
+              password:
+                type: string
+                example: abcd1234
+          x-go-name: Body
+        - description: "Refresh Token"
+          in: body
+          name: refresh-token
+          required: true
+          schema:
+            type: object
+            properties:
+              grant_type:
+                type: string
+                example: "refresh_token"
+              refresh_token:
+                type: string
+                example: "2ho14o1oih1o2oi"
+          x-go-name: Body
+      responses:
+        "200":
+          description: Login information
+          schema:
+            type: object
+            properties:
+              access_token:
+                type: string
+                example: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
+              refresh_token:
+                type: string
+                example: "eyJlbWFpbCI6InBhbmR1QG1pZ2h0eWxvb3BzLmlvIiwiaWQiOjIsInByb2ZpbGVJZCI6MiwiaWF0IjoxNjY2NjcyNTgyfQ"
+        "401":
+          description: Error login
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+                example: Wrong email/password
+              grant_type:
+                type: string
+                example: "password"
+      security:
+        - apiKey:
+            - "[]"
+      tags:
+        - CRESIA
+  /cresia/auth/forgot-password:
+    post:
+      description: To get email for reset password on the platform
+      operationId: forgot-password
+      parameters:
+        - description: "Input email"
+          in: body
+          name: body
+          required: true
+          schema:
+            type: object
+            properties:
+              email:
+                type: string
+                example: johndoe@mail.com
+          x-go-name: Body
+      responses:
+        "202":
+          description: Successfully send email
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+                example: Instruction to recover your password has been sent to your email.
+      security:
+        - apiKey:
+            - "[]"
+      tags:
+        - CRESIA
+  /cresia/auth/password-reset/{token}:
+    get:
+      description: To check token validation for password reset
+      operationId: password-reset-token-validation
+      parameters:
+        - description: "Input token"
+          in: path
+          name: token
+          required: true
+          type: string
+      responses:
+        "200":
+          description: valid token
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+                example: Valid token.
+        "404":
+          description: invalid token
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+                example: Invalid token.
+              type:
+                type: string
+                example: password_reset
+        "500":
+          description: invalid token
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+                example: Error message
+              type:
+                type: string
+                example: password_reset
+      security:
+        - apiKey:
+            - "[]"
+      tags:
+        - CRESIA
+  /cresia/auth/password-reset:
+    post:
+      description: For user reset their password
+      operationId: password-reset
+      parameters:
+        - description: "Input email"
+          in: body
+          name: body
+          required: true
+          schema:
+            type: object
+            properties:
+              token:
+                type: string
+                example: 9d852969-cb6f-4ff2-ad07-0258e3e2c6fc
+              password:
+                type: string
+                example: Abcd1234!
+              password_confirmation:
+                type: string
+                example: Abcd1234!
+          x-go-name: Body
+      responses:
+        "200":
+          description: valid token
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+                example: Valid token.
+        "401":
+          description: invalid token
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+                example: Error message
+              type:
+                type: string
+                example: password_reset
+        "404":
+          description: invalid token
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+                example: Invalid token.
+              type:
+                type: string
+                example: password_reset
+        "422":
+          description: invalid format on new password
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+                example: Password must be at least 8 characters long and consist of 1 number, 1 uppercase letter, 1 lowercase letter and 1 special character.
+              type:
+                type: string
+                example: change_password
+        "500":
+          description: invalid token
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+                example: Error message
+              type:
+                type: string
+                example: password_reset
+      security:
+        - apiKey:
+            - "[]"
+      tags:
+        - CRESIA
+  /cresia/auth/user/change-email:
+    post:
+      description: User change email
+      operationId: change-email
+      parameters:
+        - description: "Input new email"
+          in: body
+          name: body
+          required: true
+          schema:
+            type: object
+            properties:
+              email:
+                type: string
+                example: Abcd1234
+          x-go-name: Body
+      responses:
+        "200":
+          description: Successfully change email
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+                example: Email has been successfuly changed.
+        "422":
+          description: validation failed
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+                example: Validation error
+              errors:
+                type: object
+                properties:
+                  email:
+                    type: string
+                    example: ["invalid format", "required"]
+      security:
+        - Bearer: []
+      tags:
+        - CRESIA
+  /cresia/auth/user/change-password:
+    post:
+      description: User change their password
+      operationId: change-password
+      parameters:
+        - description: "Input new password (8 characters, at least 1 number and 1 uppercase alphabet) and cannot be the same as old password"
+          in: body
+          name: body
+          required: true
+          schema:
+            type: object
+            properties:
+              current_password:
+                type: string
+                example: Abcd1234
+              new_password:
+                type: string
+                example: Abcd1234
+              confirm_password:
+                type: string
+                example: Abcd1234
+          x-go-name: Body
+      responses:
+        "200":
+          description: Successfully change your password
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+                example: Successfully change your password
+        "400":
+          description: Failed change your password
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+                example: Failed to reset your password
+      security:
+        - apiKey:
+            - "[]"
+      tags:
+        - CRESIA
+  /cresia/account/profile:
+    get:
+      responses:
+        "200":
+          description: Profile information
+          schema:
+            type: object
+            properties:
+              status:
+                type: integer
+                example: 200
+              message:
+                type: string
+                example: Successfully get profile
+              data:
+                type: object
+                example:
+                  {
+                    "id": 1,
+                    "email": "",
+                    "name": "",
+                    "profile_picture": "",
+                    "mobile_number": "",
+                    "gender": "",
+                    "marital_status": "",
+                    "place_of_birth": "",
+                    "date_of_birth": "",
+                    "national_identity_number": "",
+                    "created_at": "",
+                    "created_by": "",
+                    "updated_at": "",
+                    "updated_by": "",
+                    "deleted_at": "",
+                    "deleted_by": "",
+                    "applications": "",
+                  }
+        "401":
+          description: Unauthorized
+          schema:
+            type: object
+            properties:
+              status:
+                type: integer
+                example: 401
+              message:
+                type: string
+                example: Unauthorized
+      security:
+        - apiKey:
+            - "[]"
+      deprecated: false
+      tags:
+        - CRESIA
+    put:
+      parameters:
+        - description: "edit profile"
+          in: body
+          name: body
+          required: true
+          schema:
+            type: object
+            properties:
+              name:
+                type: string
+                example: johndoe@mail.com
+              mobile_number:
+                type: string
+                example: 0812345678910
+              gender:
+                type: string
+                example: Male
+              marital_status:
+                type: string
+                example: Single
+              place_of_birth:
+                type: string
+                example: Jakarta
+              date_of_birth:
+                type: string
+                example: "2022-12-28 02:51:20.652103+00"
+              national_identity_number:
+                type: string
+                example: "3371289471289471"
+          x-go-name: Body
+      responses:
+        "200":
+          description: Edit profile
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+                example: Account has been updated successfully!
+        "500":
+          description: Internal server error
+          schema:
+            type: object
+            properties:
+              error:
+                type: string
+                example: error message
+      security:
+        - Bearer: []
+      deprecated: false
+      tags:
+        - CRESIA
+  /cresia/account/applications:
+    get:
+      description: Get application list
+      operationId: application-list
+      responses:
+        "200":
+          description: Successfully get application list
+          schema:
+            type: object
+            properties:
+              status:
+                type: integer
+                example: 200
+              message:
+                type: string
+                example: Successfully reset your password
+              data:
+                type: array
+                example:
+                  [
+                    {
+                      "id": 1,
+                      "name": "Recruiter",
+                      "created_at": "2023-01-03T14:05:56.878266Z",
+                      "created_by": null,
+                      "updated_at": "2023-01-03T14:05:56.878266Z",
+                      "updated_by": null,
+                      "deleted_at": null,
+                      "deleted_by": null,
+                    },
+                    {
+                      "id": 2,
+                      "name": "Party Leader",
+                      "created_at": "2023-01-03T14:05:56.878266Z",
+                      "created_by": null,
+                      "updated_at": "2023-01-03T14:05:56.878266Z",
+                      "updated_by": null,
+                      "deleted_at": null,
+                      "deleted_by": null,
+                    },
+                  ]
+        "401":
+          description: Unauthorized
+          schema:
+            type: object
+            properties:
+              status:
+                type: integer
+                example: 401
+              message:
+                type: string
+                example: Unauthorized
+        "500":
+          description: Internal server error
+          schema:
+            type: object
+            properties:
+              status:
+                type: integer
+                example: 500
+              message:
+                type: string
+                example: Internal server error
+      security:
+        - Bearer: []
+      tags:
+        - CRESIA
+  /introspect:
+    post:
+      responses:
+        "204":
+          description: Valid token
+        "401":
+          description: No token / token expired
+          schema:
+            type: object
+            properties:
+              message:
+                type: string
+                example: Access Token Failed
+      tags:
+        - CRESIA
+produces:
+  - application/json
+schemes:
+  - https
+securityDefinitions:
+  apiKey:
+    in: header
+    name: authorization
+    type: apiKey
+  Bearer:
+    type: apiKey
+    name: Authorization
+    in: header
+    description: >-
+      Enter the token with the `Bearer: ` prefix, e.g. "Bearer abcde12345".

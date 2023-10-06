@@ -1,0 +1,16 @@
+version: "3.9"
+services:
+  invhub-auth-backend:
+    container_name: "invhub-auth-backend"
+    image: "invhub-auth-backend:${APP_VER}"
+    build:
+      context: .
+      dockerfile: .docker/Dockerfile
+    env_file:
+      - .env
+    restart: unless-stopped
+    networks:
+      - invhub
+networks:
+  invhub:
+    external: true
