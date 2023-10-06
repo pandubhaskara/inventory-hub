@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+.env
+.env.backup
+.env.cresia
+/.idea
+/.vscode
+/temp
+vendor
